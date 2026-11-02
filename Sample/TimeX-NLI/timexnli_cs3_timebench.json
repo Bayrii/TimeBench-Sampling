@@ -1,0 +1,152 @@
+[
+    {
+        "Premise": "I will graduate in 2 years.",
+        "Hypothesis": "I will graduate after 10 months.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "I will graduate in 3 years.",
+        "Hypothesis": "I will graduate after 13 months.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "In 5 years, I will graduate.",
+        "Hypothesis": "I will graduate before 119 months.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "In 2 years, I will graduate.",
+        "Hypothesis": "After 21 months, I will graduate.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "I will graduate in 10 years.",
+        "Hypothesis": "Before 136 months, I will graduate.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "In 2 years, I will graduate.",
+        "Hypothesis": "I will graduate before 66 months.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "In 10 years, I will graduate.",
+        "Hypothesis": "I will graduate after 99 months.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "In 10 months, I will graduate.",
+        "Hypothesis": "After 244 days, I will graduate.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "After 2 years, I will graduate.",
+        "Hypothesis": "After 3 months, I will graduate.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "I will graduate after 7 months.",
+        "Hypothesis": "I will graduate after 157 days.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "I will graduate in 1 month.",
+        "Hypothesis": "I will graduate before 13 days.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "I will graduate in 6 years.",
+        "Hypothesis": "I will graduate after 93 months.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "In 4 months, I will graduate.",
+        "Hypothesis": "Before 85 days, I will graduate.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "I will graduate after 2 years.",
+        "Hypothesis": "Before 4 months, I will graduate.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "In 10 months, I will graduate.",
+        "Hypothesis": "After 332 days, I will graduate.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "After 6 years, I will graduate.",
+        "Hypothesis": "I will graduate before 33 months.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "The storm will begin in 10 days.",
+        "Hypothesis": "The storm will begin before 208 hours.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "In 9 days, the storm will begin.",
+        "Hypothesis": "The storm will begin before 133 hours.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "In 5 days, the storm will begin.",
+        "Hypothesis": "The storm will begin before 13 hours.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "In 3 days, the storm will begin.",
+        "Hypothesis": "Before 51 hours, the storm will begin.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "I will graduate after 8 months.",
+        "Hypothesis": "I will graduate before 386 days.",
+        "Label": "Neutral"
+    },
+    {
+        "Premise": "After 2 years, I will graduate.",
+        "Hypothesis": "After 70 months, I will graduate.",
+        "Label": "Neutral"
+    },
+    {
+        "Premise": "After 4 years, I will graduate.",
+        "Hypothesis": "Before 86 months, I will graduate.",
+        "Label": "Neutral"
+    },
+    {
+        "Premise": "I will graduate before 8 years.",
+        "Hypothesis": "I will graduate after 61 months.",
+        "Label": "Neutral"
+    },
+    {
+        "Premise": "Before 8 years, I will graduate.",
+        "Hypothesis": "I will graduate before 49 months.",
+        "Label": "Neutral"
+    },
+    {
+        "Premise": "Before 6 years, I will graduate.",
+        "Hypothesis": "After 67 months, I will graduate.",
+        "Label": "Neutral"
+    },
+    {
+        "Premise": "Before 8 months, I will graduate.",
+        "Hypothesis": "After 97 days, I will graduate.",
+        "Label": "Neutral"
+    },
+    {
+        "Premise": "Before 10 years, I will graduate.",
+        "Hypothesis": "After 75 months, I will graduate.",
+        "Label": "Neutral"
+    },
+    {
+        "Premise": "The storm will begin before 1 day.",
+        "Hypothesis": "Before 9 hours, the storm will begin.",
+        "Label": "Neutral"
+    },
+    {
+        "Premise": "The storm will begin before 1 day.",
+        "Hypothesis": "The storm will begin after 18 hours.",
+        "Label": "Neutral"
+    }
+]

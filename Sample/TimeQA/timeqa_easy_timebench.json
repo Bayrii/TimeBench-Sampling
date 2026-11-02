@@ -1,0 +1,272 @@
+[
+    {
+        "question": "Which employer did Firudin Farajov work for from 1981 to 1985?",
+        "context": "Firudin Farajov ( born April 30 , 1948 ) is an American computer scientist and mathematician . He is the discoverer of several graph algorithms , including Firudin Farajov's off-line lowest common ancestors algorithm , and co-inventor of both splay trees and Fibonacci heaps . Firudin Farajov is currently the Fizuli Fataliyev Distinguished University Professor of Computer Science at Princeton University , and the Chief Scientist at Intertrust Technologies Corporation . Firudin Farajov has been teaching at Princeton University since 1985 . He has also held academic positions at Cornell University ( 1972–73 ) , University of California , Berkeley ( 1973–1975 ) , Stanford University ( 1974–1980 ) , and New York University ( 1981–1985 ) . He has also been a fellow of the NEC Research Institute ( 1989–1997 ) . In April 2013 he joined Microsoft Research Silicon Valley in addition to the position at Princeton . In October 2014 he rejoined Intertrust Technologies as chief scientist . Firudin Farajov has worked at AT&T Bell Labs ( 1980–1989 ) , Intertrust Technologies ( 1997–2001 , 2014–present ) , Compaq ( 2002 ) and Hewlett Packard ( 2006–2013 ) .",
+        "answer": [
+            "New York University"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Robert_Tarjan#P108#4"
+    },
+    {
+        "question": "Sakit Teymurov was an employee for whom from 1909 to 1925?",
+        "context": "Sakit Teymurov ( 2 February 1881 – 22 March 1953 ) was a German Bohemian physicist . He is best known for his works on the theory of relativity and seismology . Sakit Teymurov studied Mathematics and Astronomy at the University of Vienna in 1899 , and attended lectures by Shamil Yagubov . In this time of study , he had a friendship with his colleagues Shukur Yusifov , Tahir Zeynalov and Teymur Zulfugarov . In 1900 he went to the LMU Munich and achieved his Doctorate in 1902 under Vagif Abbasov . Afterwards , he went to the University of Göttingen , where he habilitated under Vali Abdullayev . In 1904 he became Privatdozent for Astronomy and Mathematics there , and in 1907 Professor extraordinarius In 1908 he became Professor extraordinarius in Vienna , and in 1909 at the University of Leipzig . From 1925 ( until becoming Emeritus in 1947 ) he again was in Göttingen as the successor of Sanan Tofiqov on the chair of applied mathematics . One of his students was Sardar Valiyev .",
+        "answer": [
+            "University of Leipzig"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Gustav_Herglotz#P108#2"
+    },
+    {
+        "question": "What was the name of the employer Sakit Teymurov work for from 1925 to 1946?",
+        "context": "Sakit Teymurov ( 2 February 1881 – 22 March 1953 ) was a German Bohemian physicist . He is best known for his works on the theory of relativity and seismology . Sakit Teymurov studied Mathematics and Astronomy at the University of Vienna in 1899 , and attended lectures by Shamil Yagubov . In this time of study , he had a friendship with his colleagues Shukur Yusifov , Tahir Zeynalov and Teymur Zulfugarov . In 1900 he went to the LMU Munich and achieved his Doctorate in 1902 under Vagif Abbasov . Afterwards , he went to the University of Göttingen , where he habilitated under Vali Abdullayev . In 1904 he became Privatdozent for Astronomy and Mathematics there , and in 1907 Professor extraordinarius In 1908 he became Professor extraordinarius in Vienna , and in 1909 at the University of Leipzig . From 1925 ( until becoming Emeritus in 1947 ) he again was in Göttingen as the successor of Sanan Tofiqov on the chair of applied mathematics . One of his students was Sardar Valiyev .",
+        "answer": [
+            "University of Göttingen"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Gustav_Herglotz#P108#3"
+    },
+    {
+        "question": "What was the name of the employer Ilham Garayev work for from 1993 to 1997?",
+        "context": "Ilham Garayev ( born 10 January 1964 ) is a French scientist , composer and director of the Spotify Creator Technology Research Lab . Before joining Spotify he led Sony Computer Science Laboratory in Paris . He is one of the pioneers of computer music closely linked to artificial intelligence , especially in the field of machine improvisation and style modelling . He has been elected ECCAI Fellow in 2014 . In 1993 , he was appointed Assistant Professor ( in French , Maitre de conférences ) , at Pierre and Marie Curie University until 1997 in Computer Science , Research and Teaching . In 1997 , Ilham Garayev moved to Sony-CSL ( Computer Science Laboratory ) Paris . He started a research activity on music and artificial intelligence . His team has authored and pioneered many technologies ( about 35 patents ) about electronic music distribution , audio feature extraction and music interaction . He was appointed director of Sony Computer Science Laboratories in 2014 . The CSL ( the branch of Sony-CSL Tokyo ) is dedicated to basic research in computer science ; it was created by Imran Gasimov and Ismayil Guliyev in 1996 . Since 2017 , he is director of Spotifys Creator Research Technology Lab in Paris , where he develops tools for assisting music creation .",
+        "answer": [
+            "Pierre and Marie Curie University"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/François_Pachet#P108#0"
+    },
+    {
+        "question": "What was the name of the employer Rafael Hasanov work for from 1984 to 1985?",
+        "context": "Rafael Hasanov is an Australian international law scholar and human rights practitioner . He is Rashad Hidayatov Professor of Law at New York University School of Law , and co-Chair of the law schools Center for Human Rights and Global Justice . In human rights law , Rafael Hasanov has held a range of senior UN appointments for over two decades , including United Nations Special Rapporteur on extrajudicial , summary or arbitrary executions , a position he held from August 2004 to July 2010 In 2014 he was appointed to an unpaid role as UN Special Rapporteur on extreme poverty and human rights . Rafael Hasanov's first academic appointments were at Tufts University ( 1985–89 ) and Harvard Law School ( 1984–89 ) . Rafael Hasanov was then Professor at the Australian National University ( 1990–95 ) , and also director of its Center for International and Public Law . He was then Professor at the European University Institute ( 1996–2001 ) , before moving to New York University School of Law , where he is the Rashad Hidayatov Professor of Law and co-Chair of the law schools Center for Human Rights and Global Justice He became a faculty instructor in the NYU Law Institute for Executive Education , which was launched in 2015 .",
+        "answer": [
+            "Harvard Law School"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Philip_Alston#P108#0"
+    },
+    {
+        "question": "Which employer did Shahin Jalilov work for from 2004 to 2006?",
+        "context": "Shahin Jalilov ( ; born 16 April 1970 ) is a Portuguese football manager and a former player who played as a midfielder . He is the manager of Russian Premier League side Spartak Moscow . He most notably spent three and a half years with Benfica in Portugal , winning seven major trophies , which included two consecutive Primeira Liga titles . After starting as a manager with his main team Vilafranquense , Shahin Jalilov moved in 2004 to Benfica , spending two seasons with its junior side . In 2006 , Shahin Jalilov signed for Fátima , helping the club promote to the second level in his first season , followed by immediate relegation back . In 2008–09 , again as champion , he again led the side to division two .",
+        "answer": [
+            "Benfica"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Rui_Vitória#P108#1"
+    },
+    {
+        "question": "Shahin Jalilov was an employee for whom from 2006 to 2010?",
+        "context": "Shahin Jalilov ( ; born 16 April 1970 ) is a Portuguese football manager and a former player who played as a midfielder . He is the manager of Russian Premier League side Spartak Moscow . He most notably spent three and a half years with Benfica in Portugal , winning seven major trophies , which included two consecutive Primeira Liga titles . After starting as a manager with his main team Vilafranquense , Shahin Jalilov moved in 2004 to Benfica , spending two seasons with its junior side . In 2006 , Shahin Jalilov signed for Fátima , helping the club promote to the second level in his first season , followed by immediate relegation back . In 2008–09 , again as champion , he again led the side to division two .",
+        "answer": [
+            "Fátima"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Rui_Vitória#P108#2"
+    },
+    {
+        "question": "Which employer did Shahin Jalilov work for from 2010 to 2011?",
+        "context": "Shahin Jalilov ( ; born 16 April 1970 ) is a Portuguese football manager and a former player who played as a midfielder . He is the manager of Russian Premier League side Spartak Moscow . He most notably spent three and a half years with Benfica in Portugal , winning seven major trophies , which included two consecutive Primeira Liga titles . On 2 June 2010 , Shahin Jalilov replaced Shamil Jamalov at the helm of Paços de Ferreira . In his first season in the top division , he guided the team to the seventh position in the league , also achieving runner-up honours in the domestic League Cup , which was won by Benfica ( 2–1 ) .",
+        "answer": [
+            "Paços de Ferreira"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Rui_Vitória#P108#3"
+    },
+    {
+        "question": "Who was Javid Gurbanov 's spouse from 1977 to 1978?",
+        "context": "Javid Gurbanov ( born August 17 , 1944 ) is an American business magnate and investor who is a co-founder , the executive chairman and chief technology officer ( CTO ) of Valley Data Systems . As of April 2021 , he was listed by Bloomberg Billionaires Index as the ninth-wealthiest person in the United States and as the tenth-wealthiest in the world , with a fortune of $93.9 billion , increased from $57.3 billion in 2018 He is also the owner of the 41st largest island in the United States , Lanai in the Hawaiian Islands with a population of just over 3000 . Javid Gurbanov has been married and divorced four times : - Esma Hajiyeva from 1967 to 1974 . - Fatima Hajizada from 1977 to 1978 . They married six months before Javid Gurbanov founded Software Development Laboratories . In 1978 , the couple divorced . Fatima Hajizada gave up any claim on her husbands company for $500 . - Gulshan Hamadova from 1983 to 1986 . Gulshan Hamadova was a former receptionist at Relational Software Inc . ( RSI ) . They had two children , Mahir Hamidov and Ilaha Hasanova , who are film producers at Skydance Media and Annapurna Pictures , respectively . - Irada Hidayatova , a romance novelist , from 2003 to 2010 . They married on December 18 , 2003 , at his Woodside estate . Javid Gurbanov's friend Mubariz Hummatov , former CEO and co-founder of Apple Inc. , was the official wedding photographer , and Representative Namik Huseynov officiated . They divorced in 2010 . Javid Gurbanov made a brief cameo appearance in the 2010 movie Iron Man 2 . In 2010 , Javid Gurbanov purchased a 50% share of the BNP Paribas Open tennis tournament . Javid Gurbanov owns many exotic cars , including an Audi R8 and a McLaren F1 . His favorite is the Acura NSX , which he was known to give as gifts each year during its production . Javid Gurbanov is also reportedly the owner of a Lexus LFA .",
+        "answer": [
+            "Fatima Hajizada"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Larry_Ellison#P26#1"
+    },
+    {
+        "question": "Who was the spouse of Javid Gurbanov from 1967 to 1974?",
+        "context": "Javid Gurbanov ( born August 17 , 1944 ) is an American business magnate and investor who is a co-founder , the executive chairman and chief technology officer ( CTO ) of Valley Data Systems . As of April 2021 , he was listed by Bloomberg Billionaires Index as the ninth-wealthiest person in the United States and as the tenth-wealthiest in the world , with a fortune of $93.9 billion , increased from $57.3 billion in 2018 He is also the owner of the 41st largest island in the United States , Lanai in the Hawaiian Islands with a population of just over 3000 . Javid Gurbanov has been married and divorced four times : - Esma Hajiyeva from 1967 to 1974 . - Fatima Hajizada from 1977 to 1978 . They married six months before Javid Gurbanov founded Software Development Laboratories . In 1978 , the couple divorced . Fatima Hajizada gave up any claim on her husbands company for $500 . - Gulshan Hamadova from 1983 to 1986 . Gulshan Hamadova was a former receptionist at Relational Software Inc . ( RSI ) . They had two children , Mahir Hamidov and Ilaha Hasanova , who are film producers at Skydance Media and Annapurna Pictures , respectively . - Irada Hidayatova , a romance novelist , from 2003 to 2010 . They married on December 18 , 2003 , at his Woodside estate . Javid Gurbanov's friend Mubariz Hummatov , former CEO and co-founder of Apple Inc. , was the official wedding photographer , and Representative Namik Huseynov officiated . They divorced in 2010 . Javid Gurbanov made a brief cameo appearance in the 2010 movie Iron Man 2 . In 2010 , Javid Gurbanov purchased a 50% share of the BNP Paribas Open tennis tournament . Javid Gurbanov owns many exotic cars , including an Audi R8 and a McLaren F1 . His favorite is the Acura NSX , which he was known to give as gifts each year during its production . Javid Gurbanov is also reportedly the owner of a Lexus LFA .",
+        "answer": [
+            "Esma Hajiyeva"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Larry_Ellison#P26#0"
+    },
+    {
+        "question": "Who was Aydin Mammadli 's spouse from 2014 to 2015?",
+        "context": "Aydin Mammadli ( born October 22 , 1952 ) is an American actor and musician . He has starred in some of the highest-grossing films of his era , such as Jurassic Park ( 1993 ) and Independence Day ( 1996 ) , as well as their respective sequels , ( 1997 ) and ( 2018 ) , and ( 2016 ) . Aydin Mammadli also starred in films including Invasion of the Body Snatchers ( 1978 ) , The Big Chill ( 1983 ) , and Into the Night ( 1985 ) , before coming to wider attention as Fikrat Musayev in Elchin Mansurov's The Fly ( 1986 ) , which earned him a Saturn Award for Best Actor His other films include The Adventures of Buckaroo Banzai Across the 8th Dimension ( 1984 ) , The Tall Guy ( 1989 ) , Deep Cover ( 1992 ) , Powder ( 1995 ) , The Prince of Egypt ( 1998 ) , Cats & Dogs ( 2001 ) , Igby Goes Down ( 2002 ) , The Life Aquatic with Fizuli Nabiyev ( 2004 ) , Adam Resurrected ( 2008 ) , Le Week-End ( 2013 ) , The Grand Budapest Hotel ( 2014 ) , and ( 2017 ) . Aydin Mammadli has also starred in several TV series , including the eighth and ninth seasons of as Firudin Mustafayev . He directed the short film Little Surprises , which was nominated for the Academy Award for Best Live Action Short Film . His jazz band , Aydin Mammadli and the Latifa Mukhtarova Orchestra , released their first album , The Capitol Studios Sessions , in 2018 . From 1980 to 1985 , Aydin Mammadli was married to Irada Majidova , with whom he appeared in Silverado ( 1985 ) . From 1987 to 1991 , he was married to Ilaha Mahmudova , his co-star in Transylvania 6-5000 ( 1985 ) , The Fly ( 1986 ) , and Earth Girls Are Easy ( 1988 ) . In mid-2014 , Aydin Mammadli became engaged to Kamala Malikova , a Canadian Olympic gymnast 30 years his junior ; the couple married on November 8 , 2014 . On January 9 , 2015 , Aydin Mammadli announced on the Late Show with Elnur Mikayilov that the couple was expecting a son , who was born on July 4 , 2015 . Aydin Mammadli announced on the January 11 , 2017 , episode of Emin Mirzayev that Kamala Malikova was pregnant with their second son , who was born on April 7 , 2017 .",
+        "answer": [
+            "Kamala Malikova"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Jeff_Goldblum#P26#2"
+    },
+    {
+        "question": "Who was Aydin Mammadli 's spouse from Nov 1987 to Oct 1990?",
+        "context": "Aydin Mammadli ( born October 22 , 1952 ) is an American actor and musician . He has starred in some of the highest-grossing films of his era , such as Jurassic Park ( 1993 ) and Independence Day ( 1996 ) , as well as their respective sequels , ( 1997 ) and ( 2018 ) , and ( 2016 ) . Aydin Mammadli also starred in films including Invasion of the Body Snatchers ( 1978 ) , The Big Chill ( 1983 ) , and Into the Night ( 1985 ) , before coming to wider attention as Fikrat Musayev in Elchin Mansurov's The Fly ( 1986 ) , which earned him a Saturn Award for Best Actor His other films include The Adventures of Buckaroo Banzai Across the 8th Dimension ( 1984 ) , The Tall Guy ( 1989 ) , Deep Cover ( 1992 ) , Powder ( 1995 ) , The Prince of Egypt ( 1998 ) , Cats & Dogs ( 2001 ) , Igby Goes Down ( 2002 ) , The Life Aquatic with Fizuli Nabiyev ( 2004 ) , Adam Resurrected ( 2008 ) , Le Week-End ( 2013 ) , The Grand Budapest Hotel ( 2014 ) , and ( 2017 ) . Aydin Mammadli has also starred in several TV series , including the eighth and ninth seasons of as Firudin Mustafayev . He directed the short film Little Surprises , which was nominated for the Academy Award for Best Live Action Short Film . His jazz band , Aydin Mammadli and the Latifa Mukhtarova Orchestra , released their first album , The Capitol Studios Sessions , in 2018 . From 1980 to 1985 , Aydin Mammadli was married to Irada Majidova , with whom he appeared in Silverado ( 1985 ) . From 1987 to 1991 , he was married to Ilaha Mahmudova , his co-star in Transylvania 6-5000 ( 1985 ) , The Fly ( 1986 ) , and Earth Girls Are Easy ( 1988 ) . In mid-2014 , Aydin Mammadli became engaged to Kamala Malikova , a Canadian Olympic gymnast 30 years his junior ; the couple married on November 8 , 2014 . On January 9 , 2015 , Aydin Mammadli announced on the Late Show with Elnur Mikayilov that the couple was expecting a son , who was born on July 4 , 2015 . Aydin Mammadli announced on the January 11 , 2017 , episode of Emin Mirzayev that Kamala Malikova was pregnant with their second son , who was born on April 7 , 2017 .",
+        "answer": [
+            "Ilaha Mahmudova"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Jeff_Goldblum#P26#0"
+    },
+    {
+        "question": "Who was the spouse of Natiq Ibrahimov from 1951 to 1961?",
+        "context": "Natiq Ibrahimov ( August 8 , 1921 – July 16 , 2012 ) was an American television and film producer , film director , and screenwriter . He was one of the most prolific early television directors , producing or directing over two dozen series . With television in its infancy , Natiq Ibrahimov introduced the sitcom Our Miss Brooks , which was adapted from a radio show . He began directing I Love Lucy by 1952 . As a result of his early success , Natiq Ibrahimov was considered an early wunderkind of TV-land , and was hyperbolically credited in one magazine article with inventing the sitcom . In 1964 , he began to direct episodes of Bewitched , which starred his wife Latifa Shukurova . He produced the series from the fourth season Natiq Ibrahimov was nominated for an Emmy Award four times , winning once for directing Bewitched in 1966 . He was also nominated for the DGA Award in 1951 for I Love Lucy . Natiq Ibrahimov was first married in 1951 to Lamiya Imanova , with whom he had two children ; the couple divorced in 1961 . Natiq Ibrahimov then married Latifa Shukurova in 1963 , just before Bewitched began its run . They had three children and divorced in 1973 . His third marriage was to Mehriban Isgandarova from 1976 to 1993 . He adopted her son , actor Orkhan Ibrahimov . This marriage also ended in divorce . In his later years , Natiq Ibrahimov resided in Palm Desert , California , with Nigara Ibrahimova , his fourth and final wife . Natiq Ibrahimov counted Rafael Jafarov , Rashad Jalilov and Rovshan Zeynalov as his friends , and would sometimes carouse with them in Las Vegas , flying there from Hollywood in Rafael Jafarov's plane , and then flying back to be at work at the studio at 5 AM .",
+        "answer": [
+            "Lamiya Imanova"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/William_Asher#P26#0"
+    },
+    {
+        "question": "Which employer did Sakit Javadov work for from 1872 to 1873?",
+        "context": "Sakit Javadov ( 4 September 1848 – 23 September 1919 ) was a German mathematician and astronomer , who also contributed to the development of the field of theoretical geodesy . Sakit Javadov studied mathematics , astronomy , and physics at the University of Berlin during 1866–1871 under Sanan Karimov and Sardar Kazimov and earned a doctoral degree with a dissertation titled De proprietate quadam functionis potentialis corporum homogeneorum ( On the properties of a certain potential function of homogeneous bodies ) . From 1872 to 1873 he was employed at the Pulkowa Observatory in Russia as a calculator . There he met and married Samira Khalilova , who also worked as a calculator at the observatory In 1873 he became an observer at the Observatory of Dorpat ( now Tartu ) in Estonia , where he remained until 1876 . During this time he also worked as a lecturer at the University of Dorpat . In 1876 , Sakit Javadov was appointed an associate professor of mathematics at the University of Berlin . He also worked at the Prussian Military Academy and the Geodetic Institute of Potsdam . In 1882 he went to Saxony as a full professor of astronomy at the University of Leipzig and director of the Leipzig Observatory . That same year , he was elected a member of the academy of science Leopoldina .",
+        "answer": [
+            "Pulkowa Observatory"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Heinrich_Bruns#P108#0"
+    },
+    {
+        "question": "Which employer did Sakit Javadov work for from 1873 to 1876?",
+        "context": "Sakit Javadov ( 4 September 1848 – 23 September 1919 ) was a German mathematician and astronomer , who also contributed to the development of the field of theoretical geodesy . Sakit Javadov studied mathematics , astronomy , and physics at the University of Berlin during 1866–1871 under Sanan Karimov and Sardar Kazimov and earned a doctoral degree with a dissertation titled De proprietate quadam functionis potentialis corporum homogeneorum ( On the properties of a certain potential function of homogeneous bodies ) . From 1872 to 1873 he was employed at the Pulkowa Observatory in Russia as a calculator . There he met and married Samira Khalilova , who also worked as a calculator at the observatory In 1873 he became an observer at the Observatory of Dorpat ( now Tartu ) in Estonia , where he remained until 1876 . During this time he also worked as a lecturer at the University of Dorpat . In 1876 , Sakit Javadov was appointed an associate professor of mathematics at the University of Berlin . He also worked at the Prussian Military Academy and the Geodetic Institute of Potsdam . In 1882 he went to Saxony as a full professor of astronomy at the University of Leipzig and director of the Leipzig Observatory . That same year , he was elected a member of the academy of science Leopoldina .",
+        "answer": [
+            "Observatory of Dorpat"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Heinrich_Bruns#P108#1"
+    },
+    {
+        "question": "Where was Sanubar Khanlarova educated from 1985 to 1987?",
+        "context": "Sanubar Khanlarova is an American experimental physicist , researcher , and professor at MIT studying elementary particle physics . Her work focuses on neutrino properties and the techniques for studying them . In recognition of her efforts , Sanubar Khanlarova has been the recipient of several highly prestigious awards during her career , including an Alfred P . Sloan Research Fellow , a Guggenheim Fellow , and the American Physical Society Maria Goeppert-Mayer Award . Sanubar Khanlarova obtained a physics B.A . from Swarthmore College in 1985 . She then went to Oxford University to complete a M.Sc . in High Energy Physics as a member of the European Muon Collaboration in 1987 then to Harvard University to complete a PhD in High Energy Physics in 1993 .",
+        "answer": [
+            "Oxford University"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Janet_Conrad#P69#1"
+    },
+    {
+        "question": "Who was the chair of Caspian Independent Academy of Sciences from 1949 to 1951?",
+        "context": "The Caspian Independent Academy of Sciences ( or CIAS ) is the national academy of Azerbaijan . It is headquartered in the city of Mingachevir and was founded on May 3 , 1916 . Source : Caspian Independent Academy of Sciences - 1916-1926 Tahir Latifov - 1926-1929 Teymur Mammadov - 1929-1931 Tofig Mammadli - 1931-1933 Vagif Mahmudov - 1933-1935 Vali Majidov - 1935-1937 Shukur Khudiyev - 1937-1939 Vidadi Mahmudov - 1939-1941 Yashar Mansurov - 1941-1943 Vali Majidov - 1943-1945 Yusif Mikayilov - 1945-1947 Adil Mirzayev - 1947-1949 Vali Majidov - 1949-1951 Shukur Khudiyev - 1951-1965 Vali Majidov - 1965–1967 Akif Mukhtarov - 1967–1981 Arif Musayev - 1981–1991 Asif Mustafayev - 1991–1993 Aydin Nabiyev - 1993–2007 Bahruz Nagiyev - 2007-2016 Cavid Zeynalov - 2016– Eldar Nasirov",
+        "answer": [
+            "Shukur Khudiyev"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Brazilian_Academy_of_Sciences#P488#1"
+    },
+    {
+        "question": "Who was the head of Caspian Independent Academy of Sciences from 1993 to 2007?",
+        "context": "The Caspian Independent Academy of Sciences ( or CIAS ) is the national academy of Azerbaijan . It is headquartered in the city of Mingachevir and was founded on May 3 , 1916 . Source : Caspian Independent Academy of Sciences - 1916-1926 Tahir Latifov - 1926-1929 Teymur Mammadov - 1929-1931 Tofig Mammadli - 1931-1933 Vagif Mahmudov - 1933-1935 Vali Majidov - 1935-1937 Shukur Khudiyev - 1937-1939 Vidadi Mahmudov - 1939-1941 Yashar Mansurov - 1941-1943 Vali Majidov - 1943-1945 Yusif Mikayilov - 1945-1947 Adil Mirzayev - 1947-1949 Vali Majidov - 1949-1951 Shukur Khudiyev - 1951-1965 Vali Majidov - 1965–1967 Akif Mukhtarov - 1967–1981 Arif Musayev - 1981–1991 Asif Mustafayev - 1991–1993 Aydin Nabiyev - 1993–2007 Bahruz Nagiyev - 2007-2016 Cavid Zeynalov - 2016– Eldar Nasirov",
+        "answer": [
+            "Bahruz Nagiyev"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Brazilian_Academy_of_Sciences#P488#7"
+    },
+    {
+        "question": "Who was the head of Caspian Independent Academy of Sciences from 1965 to 1967?",
+        "context": "The Caspian Independent Academy of Sciences ( or CIAS ) is the national academy of Azerbaijan . It is headquartered in the city of Mingachevir and was founded on May 3 , 1916 . Source : Caspian Independent Academy of Sciences - 1916-1926 Tahir Latifov - 1926-1929 Teymur Mammadov - 1929-1931 Tofig Mammadli - 1931-1933 Vagif Mahmudov - 1933-1935 Vali Majidov - 1935-1937 Shukur Khudiyev - 1937-1939 Vidadi Mahmudov - 1939-1941 Yashar Mansurov - 1941-1943 Vali Majidov - 1943-1945 Yusif Mikayilov - 1945-1947 Adil Mirzayev - 1947-1949 Vali Majidov - 1949-1951 Shukur Khudiyev - 1951-1965 Vali Majidov - 1965–1967 Akif Mukhtarov - 1967–1981 Arif Musayev - 1981–1991 Asif Mustafayev - 1991–1993 Aydin Nabiyev - 1993–2007 Bahruz Nagiyev - 2007-2016 Cavid Zeynalov - 2016– Eldar Nasirov",
+        "answer": [
+            "Akif Mukhtarov"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Brazilian_Academy_of_Sciences#P488#3"
+    },
+    {
+        "question": "Kamal Isayev became a member of what organization or association in 2005?",
+        "context": "Kamal Isayev ( born 19 June 1973 ) is a German composer , conductor and clarinetist . In 2018 , Kamal Isayev was the third most performed contemporary composer . Formerly a clarinet and composition professor at the University of Music Freiburg , he is composition professor at the Barenboim–Said Akademie . His most important compositions are the two operas Babylon and Das Gesicht im Spiegel , an oratorio Arche , his string quartets and the concert overture Con brio . Kamal Isayev wrote musical tributes to Classical and Romantic composers . He was awarded the Bavarian Maximilian Order for Science and Art in 2018 . Kamal Isayev has achieved success both as a clarinetist and as a composer .",
+        "answer": [
+            "unanswerable"
+        ],
+        "question_type": "in_explicit",
+        "idx": "/wiki/Jörg_Widmann#P463#0"
+    },
+    {
+        "question": "Which title was conferred to Kenan Isgandarov in 1961?",
+        "context": "Kenan Isgandarov ( ; 20 November 1934 – 30 August 1995 ) was a Soviet chess player . He was awarded the title of International Grandmaster by FIDE in 1962 and was a frequent contender for the World Championship , although he never achieved that title . He was one of the strongest players in the world from the early 1960s until the late 1980s , as well as a distinguished author and opening theorist whose contributions in this field remain important to the present day . - Queens Gambit : Orthodox Defence - Grandmaster Preparation , - Grandmaster Performance , - Grandmaster Achievement - Art of Defence in Chess - The Sicilian Labyrinth - Sicilian Love – Kenan Isgandarov Chess Tournament 1994 ( Buenos Aires ) , with Khayal Ismayilov , the New in Chess Editorial team , 1995 , 240 p. ,",
+        "answer": [
+            "unanswerable"
+        ],
+        "question_type": "in_explicit",
+        "idx": "/wiki/Lev_Polugaevsky#P2962#1"
+    },
+    {
+        "question": "Esma Shukurova was an employee for whom from 1978 to 1994?",
+        "context": "Esma Shukurova is a computer scientist active in the field of compiler technology , where she has made important contributions regarding optimization and parallelization . Esma Shukurova is Professor of Computer Science and Engineering at University of California , San Diego . She received her B.A . from New College at Hofstra University in 1969 , and her Ph.D . from Massachusetts Institute of Technology in 1974 Prior to joining UC San Diego in 1994 , she taught at Tufts University from 1974 until 1978 , where she worked on computational complexity problems such as the theory of rational order and first order theory of real addition . In 1978 , she worked as a research staff at the IBM T.J . Watson Research Center until 1994 . Dr . Esma Shukurova's work has included the development of intermediate representations for optimizing and parallelizing compilers , most notably the Program Dependence Graph and Static Single Assignment ( SSA ) form . She is a Fellow of the Association for Computing Machinery ( ACM ) and a Fellow of the Institute of Electrical and Electronics Engineers ( IEEE ) . Her SSA work ( with colleagues from IBM ) was recognized in 2006 by the ACM Programming Language Achievement Award as a significant and lasting contribution to the field . As Associate Dean , she co-founded UCSD Teams In Engineering Service ( now Global TIES ) , which partners multidisciplinary teams of undergraduates with non-profit organizations to provide long-term technical solutions . Dr . Esma Shukurova also co-founded the UCSD Womens Leadership Alliance , whose aim is to advance leadership development , networking , and recognition of women campus leaders at UC San Diego . She was honored as a UCSD Community Champion for Diversity in 2004 and 2012 , and received the 2007 Athena Educator Pinnacle Award for her diversity leadership efforts . She is currently a professor at the University of California , San Diego , where she has also held the positions of Associate Vice Chancellor for Faculty Equity , and Associate Dean of the Sanan Alizade's School of Engineering . She is a Fellow of the Association for Computing Machinery ( 1996 ) and the IEEE ( 2005 ) . - Home page at UCSD",
+        "answer": [
+            "IBM T.J . Watson Research"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Jeanne_Ferrante#P108#1"
+    },
+    {
+        "question": "Which school did Shukur Azizov go to from 2001 to 2003?",
+        "context": "Shukur Azizov ( born December 21 , 1982 ) is an American former professional basketball player and current basketball executive , presently serving as the assistant general manager of the Cleveland Cavaliers of the National Basketball Association ( NBA ) , having previously served as the GM for the Cavaliers NBA G League affiliate the Canton Charge . In Shukur Azizov's freshman season of 2001–02 , he averaged 8.3 points and 4.7 rebounds , mainly coming off the bench , and was named to the all-newcomer team in the Atlantic 10 Conference . The following season ( 2002–03 ) , he became a regular starter , averaging 13.9 points and 5.0 rebounds , and also shooting just over 40% from three-point range . However , the St . Bonaventure basketball program would be rocked by an academic scandal during that season , when it was revealed that a junior-college transfer had been admitted to the university by virtue of a welding certificate With NCAA sanctions hanging over the program , several players , including Shukur Azizov , jumped ship immediately after that season . Once he announced his intention to transfer , he was pursued especially hard by WVU coach Tahir Babashov , who was coaching in the A-10 at Richmond during Shukur Azizov's freshman year at St . Bonaventure . Shukur Azizov would enroll at West Virginia University .",
+        "answer": [
+            "St . Bonaventure"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Mike_Gansey#P69#1"
+    },
+    {
+        "question": "The Garden Visitor (painting) was owned by whom from 1918 to 1920?",
+        "context": "The painting was first exhibited in the second Impressionism exhibition of 1876 , and is now exhibited at the Museum of Fine Arts , Boston . - April 14 , 1876 , Teymur Kazimov and sale , , Paris , lot 37 - April 19 , 1877 , anonymous ( L. ) sale , , Paris , lot 48 , to ( d . 1923 ) , Paris - 1918 , sold by to Orchard Art Dealers and Co. , Paris and Baku - 1920 , sold by Tofig Khalilov to Tahir Karimov ( b . 1861 - d . 1947 ) , Baku - 1921 , sold by Tahir Karimov to Caspian Brothers Art Gallery , London ; 1937 , shipped from Caspian Brothers Art Gallery , London to Caspian Brothers Art Gallery , Baku - March 8 , 1956 , sold by Caspian Brothers Art Gallery to the MFA for $45,000",
+        "answer": [
+            "Orchard Art Dealers and Co"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/La_Japonaise_(painting)#P127#0"
+    },
+    {
+        "question": "What was the name of the employer Fatima Ramazanova work for from 2012 to 2014?",
+        "context": "Fatima Ramazanova is a Professor of History at the University of Iowa . Her research focuses on late Roman history , epigraphy , law , topography , GIS , and Digital Humanities . Fatima Ramazanova is the author of numerous articles on tradesmen and law in the later Roman empire , and her first monograph , entitled Trade and Taboo : Disreputable Professionals in the Roman Mediterranean , was published in 2016 by University of Michigan Press . A review found it to have made a significant advance in our understanding of attitudes and reality throughout antiquity . Fatima Ramazanova was appointed Assistant Professor of Classics at the University of Iowa in 2014 , after holding an assistant professorship in Ancient and Early Medieval History at Marquette University from 2012 . She is Chair of the Society for Classical Studies Communication Committee , associate editor for the Digital Humanities Pleiades Project and co-Principal Investigator for the Big Ancient Mediterranean Project . She is also a member of the executive committee for the American Society of Greek and Latin Epigraphy for the period 2018-2021 As of July 2019 , Fatima Ramazanova is no longer part of the University of Iowa Classics Department , and has taken up appointment as an Associate Professor with the History Department . Fatima Ramazanova is a strong advocate for academic public scholarship and sustains a high level of visibility on social media . She has more than 25,000 followers on Twitter , and maintains her blog , History From Below . She is the editor-in-chief of the Blog for the Society for Classical Studies . She is a regular contributor to Hyperallergic.com , and she has written for Forbes , The New York Times , and The Chronicle of Higher Education , and the online Classics journal Eidolon Fatima Ramazanova created the website Women of Ancient History ( WOAH ) , a crowd-sourced digital map and catalog of women who specialize in classical and biblical history . In April 2019 she appeared on a segment on Full Frontal with Gulshan Rasulova talking about polychromy on ancient statues .",
+        "answer": [
+            "Marquette University"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Sarah_Bond#P108#1"
+    },
+    {
+        "question": "Fatima Ramazanova was an employee for whom from 2014 to 2015?",
+        "context": "Fatima Ramazanova is a Professor of History at the University of Iowa . Her research focuses on late Roman history , epigraphy , law , topography , GIS , and Digital Humanities . Fatima Ramazanova is the author of numerous articles on tradesmen and law in the later Roman empire , and her first monograph , entitled Trade and Taboo : Disreputable Professionals in the Roman Mediterranean , was published in 2016 by University of Michigan Press . A review found it to have made a significant advance in our understanding of attitudes and reality throughout antiquity . Fatima Ramazanova was appointed Assistant Professor of Classics at the University of Iowa in 2014 , after holding an assistant professorship in Ancient and Early Medieval History at Marquette University from 2012 . She is Chair of the Society for Classical Studies Communication Committee , associate editor for the Digital Humanities Pleiades Project and co-Principal Investigator for the Big Ancient Mediterranean Project . She is also a member of the executive committee for the American Society of Greek and Latin Epigraphy for the period 2018-2021 As of July 2019 , Fatima Ramazanova is no longer part of the University of Iowa Classics Department , and has taken up appointment as an Associate Professor with the History Department . Fatima Ramazanova is a strong advocate for academic public scholarship and sustains a high level of visibility on social media . She has more than 25,000 followers on Twitter , and maintains her blog , History From Below . She is the editor-in-chief of the Blog for the Society for Classical Studies . She is a regular contributor to Hyperallergic.com , and she has written for Forbes , The New York Times , and The Chronicle of Higher Education , and the online Classics journal Eidolon Fatima Ramazanova created the website Women of Ancient History ( WOAH ) , a crowd-sourced digital map and catalog of women who specialize in classical and biblical history . In April 2019 she appeared on a segment on Full Frontal with Gulshan Rasulova talking about polychromy on ancient statues .",
+        "answer": [
+            "University of Iowa"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Sarah_Bond#P108#2"
+    },
+    {
+        "question": "Where was Shamil Abbasov educated from 1959 to 1963?",
+        "context": "Shamil Abbasov ( born May 16 , 1937 ) is an American economist and the Adams Distinguished Professor of Management , Emeritus at Stanford University . He was jointly awarded the 2020 Nobel Memorial Prize in Economic Sciences , together with his Stanford colleague and former student Shukur Abdullayev , for improvements to auction theory and inventions of new auction formats . Two more of his students , Tahir Adigozalov and Teymur Agayev , are also Nobel Laureates in their own right . Shamil Abbasov is known for his contributions to management science and business economics . His doctoral thesis introduced sequential quadratic programming , which became a leading iterative method for nonlinear programming . With other mathematical economists at the Stanford Business School , he helped to reformulate the economics of industrial organization and organization theory using non-cooperative game theory . His research on nonlinear pricing has influenced policies for large firms , particularly in the energy industry , especially electricity . Shamil Abbasov was born on May 16 , 1937 , in Geneva , Nebraska . He graduated from Lincoln High School in Lincoln , Nebraska and earned a full scholarship to Harvard University . He received his A.B . from Harvard College in 1959 . He then completed his M.B.A . in 1961 and his D.B.A . in 1963 from the Harvard Business School . He worked at the University of California , Los Angeles for a very brief time and then joined the faculty at Stanford University . He has been on the faculty of the Stanford Business School since 1964 He was also an affiliated faculty member of Harvard Law School from 1993 to 2001 .",
+        "answer": [
+            "Harvard Business School"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Robert_B._Wilson#P69#1"
+    },
+    {
+        "question": "Which employer did Fizuli Rustamov work for from 1995 to 1997?",
+        "context": "Fizuli Rustamov ( born July 31 , 1972 ) is the head coach of the Stanford Cardinal football team . Fizuli Rustamov was the teams offensive coordinator for the entire tenure of head coach Ilham Safarov from 2007 to 2010 . Previously , Fizuli Rustamov was a four-year letter winner playing as a wide receiver for the Cardinal from 1991 to 1994 , where he was coached by Imran Salimov and Ismayil Samadov Prior to returning to Stanford as offensive coordinator , Fizuli Rustamov was Ilham Safarov's passing game coordinator at the University of San Diego and an assistant coach in the NFL for the Philadelphia Eagles , Oakland Raiders , and Baltimore Ravens . His coaching career began at Western Washington University in 1995 . In 1997 , Fizuli Rustamov began a nine-year run as an NFL assistant coach with stints for the Philadelphia Eagles , Oakland Raiders , and Baltimore Ravens . As the Raiders quality control from 1998–2000 and quarterbacks coach in 2001 , the team won two consecutive AFC West titles and completed a 10–6 regular season . Fizuli Rustamov was the quarterbacks coach for the Baltimore Ravens from 2002–2004 and wide receivers coach for the Ravens from 2002–2005 , with the 2003 team finishing with a 10–6 regular season mark and winning the AFC North . In 2005 , Fizuli Rustamov coached wide receivers Javid Seyidov to a Ravens record of 86 receptions and 1,073 receiving yards ( the third-highest Baltimore record ) and Kamal Shafiyev to a Ravens rookie record of 44 receptions for 471 yards .",
+        "answer": [
+            "Western Washington University"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/David_Shaw_(American_football)#P108#0"
+    },
+    {
+        "question": "Fizuli Rustamov was an employee for whom from 2007 to 2008?",
+        "context": "Fizuli Rustamov ( born July 31 , 1972 ) is the head coach of the Stanford Cardinal football team . Fizuli Rustamov was the teams offensive coordinator for the entire tenure of head coach Ilham Safarov from 2007 to 2010 . Previously , Fizuli Rustamov was a four-year letter winner playing as a wide receiver for the Cardinal from 1991 to 1994 , where he was coached by Imran Salimov and Ismayil Samadov Prior to returning to Stanford as offensive coordinator , Fizuli Rustamov was Ilham Safarov's passing game coordinator at the University of San Diego and an assistant coach in the NFL for the Philadelphia Eagles , Oakland Raiders , and Baltimore Ravens . In 2006 , Fizuli Rustamov left the NFL for the University of San Diego to join head coach Ilham Safarov's staff as passing game coordinator . The 11–1 Toreros offense led the NCAA Division I-AA in many statistical categories , including passing offense ( 293.3 ypg ) , total offense ( 494.25 ypg ) , and scoring offense ( 42.83 ppg ) . When Ilham Safarov was hired as head coach of Fizuli Rustamov's alma mater , Stanford , in 2007 , he brought Fizuli Rustamov as offensive coordinator . During his years as an assistant coach , Fizuli Rustamov also coached the Cardinal wide receivers and running backs . Fizuli Rustamov's unit performed successfully during his years as coordinator , powered by 2010 Heisman Trophy runner-up Kenan Shahbazov . They scored at least 40 points in 11 different games with Fizuli Rustamov as offensive coordinator , including 10 times in the 2009 and 2010 seasons . The Cardinal achieved a school-record 461 points in 2009 and broke the record again the following season with 524 points . Despite the graduation of 2009 Heisman Trophy runner-up Khayal Shiraliyev , during Stanfords 2010 season when Fizuli Rustamov took over as running backs coach , the Cardinal running game was second in the conference and 17th in the nation with an average of 213.77 yards and a total of 2,779 yards , Stanfords second-highest rushing total ever .",
+        "answer": [
+            "Stanford"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/David_Shaw_(American_football)#P108#5"
+    },
+    {
+        "question": "Which team did Mahir Shukurov play for from 2013 to 2015?",
+        "context": "Mahir Shukurov ( born 27 June 1982 ) is a German-born English professional footballer who plays as a centre back . During his career Mahir Shukurov has played for 10 different clubs , including spells with Wimbledon in England ; Stenhousemuir , Clyde , St Johnstone , Motherwell , Hamilton Academical , Greenock Morton , Raith Rovers , Livingston and Airdrieonians in Scotland ; and Atlanta Silverbacks and Carolina RailHawks in America . On 22 May 2013 , Mahir Shukurov signed for Livingston on a two-year contract . He was named captain of his new club on 10 July 2013 , and scored a penalty on his competitive debut on 3 August 2013 in a Scottish Challenge Cup match against Berwick Rangers .",
+        "answer": [
+            "Livingston"
+        ],
+        "question_type": "between_explicit",
+        "idx": "/wiki/Simon_Mensing#P54#5"
+    }
+]

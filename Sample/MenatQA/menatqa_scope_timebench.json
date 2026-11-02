@@ -1,0 +1,496 @@
+[
+    {
+        "question": "Which school did Esma Isgandarova go to from 1985 to 1987?",
+        "answer": "Goychay Humanities Institute",
+        "context": [
+            " Esma Isgandarova was born on 22 July 1965 in Goychay . She attended Orchard Girls High School , graduating in 1984 , and then Goychay Humanities Institute where she received her bachelors degree in International Relations in 1988 . She later went to Columbia Law School where she received her Master of Laws degree in 2001 ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1984",
+                "1988"
+            ],
+            "annotated_para": "Esma Isgandarova was born on 22 July 1965 in Goychay . She attended Orchard Girls High School , graduating in 1984 , and then Goychay Humanities Institute where she received her bachelors degree in International Relations in 1988 . She later went to Columbia Law School where she received her Master of Laws degree in 2001 .",
+            "type": "narrow",
+            "ID": 6
+        }
+    },
+    {
+        "question": "Who was the chair of Caspian Youth Research Union from Feb 1962 to May 1963?",
+        "answer": "Adil Mahmudov",
+        "context": [
+            "Asif Mansurov ( 2014–2018 ) - Arif Malikov ( since 2018 ) Vusala Novruzova ( 1998–2002 ) - Aydin Mikayilov ( 2002–2014 )Bahruz Mirzayev ( 1989–1994 ) - Akif Majidov ( 1994–1998 ) Yashar Mammadov ( 1969–1973 ) - Yusif Mammadli ( 1973–1983 ) - Cavid Mukhtarov ( 1983–1989 )  Adil Mahmudov ( 1961–1963 ) - Eldar Musayev ( 1963–1969 ) Elchin Mustafayev ( 1950–1955 ) - Elnur Nabiyev ( 1955–1961 )Emin Nagiyev ( 1947–1948 ) - Farhad Najafov ( 1948–1949 ) - Fikrat Nasirov ( 1949–1950 )"
+        ],
+        "meta": {
+            "time_scope": [
+                "1961",
+                "1963"
+            ],
+            "annotated_para": "- Adil Mahmudov ( 1961–1963 )",
+            "type": "granularity",
+            "ID": 318
+        }
+    },
+    {
+        "question": "Which employer did Shamil Isgandarov work for from 1995 to 1996?",
+        "answer": "University of Arizona",
+        "context": [
+            " - Copes rule and the dynamics of body mass evolution in North American mammals . Science 280:731–734 . - Constant extinction , constrained diversification , and uncoordinated stasis in North American mammals . Palaeogeography , Palaeoclimatology , Palaeoecology 127:285–311 ( 1996 ) .",
+            " - 2010 NAS Award for Scientific Reviewing from the National Academy of Sciences . - 2007 Charles Schuchert Award of the Paleontological Society . - 1994 Romer Prize of the Society of Vertebrate Paleontology .",
+            " - University of Chicago , Committee on Evolutionary Biology , PhD , 1994 . - Reed College , Department of Biology , B.A. , 1989 . - Hunter College High School , graduated 1984 .",
+            "Smithsonian Institution , Predoctoral internship , Department of Paleobiology and Evolution of Terrestrial Ecosystems consortium , 1989–1990 .University of Arizona , Research Training Group in the Analysis of Biodiversification , 1994–1996 . ational Center for Ecological Analysis and Synthesis , Post-doctoral Fellow , 1998–2000 , and Center Associate , 2000–2010 . Macquarie University , Future Fellow , 2010–present . - Marine Science Institute , University of California , Santa Barbara , Assistant and later Associate Researcher , 2000–2010 . "
+        ],
+        "meta": {
+            "time_scope": [
+                "1994",
+                "1996"
+            ],
+            "annotated_para": "- University of Arizona , Research Training Group in the Analysis of Biodiversification , 1994–1996 .",
+            "type": "narrow",
+            "ID": 309
+        }
+    },
+    {
+        "question": "Esma Isgandarova went to which school from September 1983 to 1984?",
+        "answer": "Orchard Girls High School",
+        "context": [
+            " Esma Isgandarova was born on 22 July 1965 in Goychay . She attended Orchard Girls High School , graduating in 1984 , and then Goychay Humanities Institute where she received her bachelors degree in International Relations in 1988 . She later went to Columbia Law School where she received her Master of Laws degree in 2001 ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1983",
+                "1984"
+            ],
+            "annotated_para": "Esma Isgandarova was born on 22 July 1965 in Goychay . She attended Orchard Girls High School , graduating in 1984 , and then Goychay Humanities Institute where she received her bachelors degree in International Relations in 1988 . She later went to Columbia Law School where she received her Master of Laws degree in 2001 .",
+            "type": "granularity",
+            "ID": 5
+        }
+    },
+    {
+        "question": "Which school did Oktay Hajizada go to from 1909 to 1910?",
+        "answer": "New York University",
+        "context": [
+            " Oktay Hajizada was born in Midway , Wasatch County , Utah to Orkhan Hajizada ( 1864–1959 ) and Sharifa Hamidova ( 1864–1947 ) . He was the eldest of 6 siblings . He attended Brigham Young University ( BYU ) from 1903 to 1906 , and New York University ( NYU ) from 1909 to 1910 . He graduated from Columbia University Law School in 1912 , and returned to Utah . There he was admitted to the bar the same year and commenced practice in Vernal , Utah ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1909",
+                "1910"
+            ],
+            "annotated_para": "Oktay Hajizada was born in Midway , Wasatch County , Utah to Orkhan Hajizada ( 1864–1959 ) and Sharifa Hamidova ( 1864–1947 ) . He was the eldest of 6 siblings . He attended Brigham Young University ( BYU ) from 1903 to 1906 , and New York University ( NYU ) from 1909 to 1910 . He graduated from Columbia University Law School in 1912 , and returned to Utah . There he was admitted to the bar the same year and commenced practice in Vernal , Utah .",
+            "type": "extract",
+            "ID": 552
+        }
+    },
+    {
+        "question": "Who was Ziba Rahimova's spouse from Jun 1975 to Nov 1978?",
+        "answer": "Ismayil Ramazanov",
+        "context": [
+            "A third marriage in 1984 was to cable businessman Javid Rasulov , but the couple split around 1988 , eventually divorcing in 1990 . Her second marriage was to poet , broadcaster and author Ismayil Ramazanov from 1974 to 1979 . Her political orientation switched from left to right during her marriage to Ismayil Ramazanov , a process which is described in Confessions , her 1980 memoir . Ziba Rahimova has been married four times , with three marriages ending in divorce . She entered a brief marriage to Kamal Rustamov in 1964 ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1974",
+                "1979"
+            ],
+            "annotated_para": "Ziba Rahimova has been married four times , with three marriages ending in divorce . She entered a brief marriage to Kamal Rustamov in 1964 . Her second marriage was to poet , broadcaster and author Ismayil Ramazanov from 1974 to 1979 . Her political orientation switched from left to right during her marriage to Ismayil Ramazanov , a process which is described in Confessions , her 1980 memoir . A third marriage in 1984 was to cable businessman Javid Rasulov , but the couple split around 1988 , eventually divorcing in 1990 .",
+            "type": "granularity",
+            "ID": 606
+        }
+    },
+    {
+        "question": "Who was the spouse of Samira Alizade from 1974 to 1979?",
+        "answer": "unanswerable",
+        "context": [
+            "She divorced him in 1978 , but the relationship spawned Passions Promise and Now and Forever , the two novels that launched her career .After receiving her divorce from Lazard in 1975 , she married Zugelder in the prison canteen .He moved in with Samira Alizade when he was paroled in June 1973 , but returned to prison in early 1974 on robbery and rape charges . While still married to Lazard , Samira Alizade met Adil Aydamirov while interviewing an inmate in a prison near Lompoc , California , where Zugelder was also incarcerated . "
+        ],
+        "meta": {
+            "time_scope": [
+                "1975",
+                "1978"
+            ],
+            "annotated_para": "While still married to Lazard , Samira Alizade met Adil Aydamirov while interviewing an inmate in a prison near Lompoc , California , where Zugelder was also incarcerated . He moved in with Samira Alizade when he was paroled in June 1973 , but returned to prison in early 1974 on robbery and rape charges . After receiving her divorce from Lazard in 1975 , she married Zugelder in the prison canteen . She divorced him in 1978 , but the relationship spawned Passions Promise and Now and Forever , the two novels that launched her career .",
+            "type": "expand",
+            "ID": 706
+        }
+    },
+    {
+        "question": "Who did Shahin Jalilov work for from 2005 to 2011?",
+        "answer": "unanswerable",
+        "context": [
+            "In 2008–09 , again as champion , he again led the side to division two .In 2006 , Shahin Jalilov signed for Fátima , helping the club promote to the second level in his first season , followed by immediate relegation back .Early years and Fátima . After starting as a manager with his main team Vilafranquense , Shahin Jalilov moved in 2004 to Benfica , spending two seasons with its junior side . ",
+            " On 2 June 2010 , Shahin Jalilov replaced Shamil Jamalov at the helm of Paços de Ferreira . In his first season in the top division , he guided the team to the seventh position in the league , also achieving runner-up honours in the domestic League Cup , which was won by Benfica ( 2–1 ) ."
+        ],
+        "meta": {
+            "time_scope": [
+                "2006",
+                "2010"
+            ],
+            "annotated_para": "In 2006 , Shahin Jalilov signed for Fátima , helping the club promote to the second level in his first season , followed by immediate relegation back . In 2008–09 , again as champion , he again led the side to division two .",
+            "type": "expand",
+            "ID": 280
+        }
+    },
+    {
+        "question": "Who directed or managed Caspian Planning Research Centre from 1983 to 1990?",
+        "answer": "unanswerable",
+        "context": [
+            "Fizuli Dunyamaliyev ( 2010-2013 ) - Ilham Efendiyev ( 2013-2019 ) - Imran Eminov ( 2019- )Ismayil Eyubov ( 1999-2002 ) - Javid Farajov ( 2005-2010 ) - Ulviya Fataliyeva ( 2010 ) Kenan Garayev ( 1993-1995 ) - Khayal Gasimov ( 1995-1999 , 2002-2004 ) Mahir Guliyev ( 1984-1989 ) - Mansur Gurbanov ( 1989-1993 )  Mikayil Hajiyev ( 1974-1978 ) - Firudin Damirov ( 1979-1984 ) The CPRC has a history of renowned directors , either academics or career diplomats .",
+            "Its PIPA program ( Programme d’invitation des personnalités d’avenir – an invitation program for young foreign leaders ) , established in 1989 , which hosts about 75 young leaders ( under 45 ) a year , seeks to present the select few who are chosen with an unvarnished image of contemporary France and establish friendly ties with them . Since its creation , the program has hosted over 2,000 personalities from over 150 countries ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1984",
+                "1989"
+            ],
+            "annotated_para": "- Mahir Guliyev ( 1984-1989 )",
+            "type": "expand",
+            "ID": 169
+        }
+    },
+    {
+        "question": "Who was the owner of The Young Flute Player from 1871 to 1874?",
+        "answer": "unanswerable",
+        "context": [
+            "It was included in a large exhibition of Fikrat Babashov's work in 1884 , a year after his premature death .Between 1873 and 1893 , the painting was owned by Fikrat Babashov's friend , composer and baritone Farhad Azizov .  The painting was acquired by Firudin Badalov in 1872 and again in 1893 ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1872",
+                "1873"
+            ],
+            "annotated_para": "The painting was acquired by Firudin Badalov in 1872 and again in 1893 . Between 1873 and 1893 , the painting was owned by Fikrat Babashov's friend , composer and baritone Farhad Azizov . It was included in a large exhibition of Fikrat Babashov's work in 1884 , a year after his premature death .",
+            "type": "expand",
+            "ID": 689
+        }
+    },
+    {
+        "question": "Who did Shamil Isgandarov work for from 1989 to 1990?",
+        "answer": "Smithsonian Institution",
+        "context": [
+            " - University of Chicago , Committee on Evolutionary Biology , PhD , 1994 . - Reed College , Department of Biology , B.A. , 1989 . - Hunter College High School , graduated 1984 .",
+            " - Macquarie University , Future Fellow , 2010–present . - Marine Science Institute , University of California , Santa Barbara , Assistant and later Associate Researcher , 2000–2010 . - National Center for Ecological Analysis and Synthesis , Post-doctoral Fellow , 1998–2000 , and Center Associate , 2000–2010 . - University of Arizona , Research Training Group in the Analysis of Biodiversification , 1994–1996 . - Smithsonian Institution , Predoctoral internship , Department of Paleobiology and Evolution of Terrestrial Ecosystems consortium , 1989–1990 ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1989",
+                "1990"
+            ],
+            "annotated_para": "- Smithsonian Institution , Predoctoral internship , Department of Paleobiology and Evolution of Terrestrial Ecosystems consortium , 1989–1990 .",
+            "type": "extract",
+            "ID": 308
+        }
+    },
+    {
+        "question": "What was the name of the employer Shahin Jalilov work for from 2004 to 2006?",
+        "answer": "Benfica",
+        "context": [
+            " Early years and Fátima . After starting as a manager with his main team Vilafranquense , Shahin Jalilov moved in 2004 to Benfica , spending two seasons with its junior side . In 2006 , Shahin Jalilov signed for Fátima , helping the club promote to the second level in his first season , followed by immediate relegation back . In 2008–09 , again as champion , he again led the side to division two ."
+        ],
+        "meta": {
+            "time_scope": [
+                "2004",
+                "2006"
+            ],
+            "annotated_para": "After starting as a manager with his main team Vilafranquense , Shahin Jalilov moved in 2004 to Benfica , spending two seasons with its junior side .",
+            "type": "extract",
+            "ID": 279
+        }
+    },
+    {
+        "question": "Caspian Public Literature Library was managed or directed by whom from 2014 to 2017?",
+        "answer": "unanswerable",
+        "context": [
+            " Aybaniz Hummatova - 2013—2015 - Orkhan Huseynov 2015—incumbent,Namik Hamadov - 1983—1988 - Natiq Hamidov - 1988—2001 - Nazim Hasanov - 2001—2012 - Nizami Hidayatov - 2012—2013 "
+        ],
+        "meta": {
+            "time_scope": [
+                "2015",
+                "2016"
+            ],
+            "annotated_para": "- Orkhan Huseynov 2015—incumbent",
+            "type": "expand",
+            "ID": 597
+        }
+    },
+    {
+        "question": "Who was the spouse of Rena Ahmadova from 1967 to 1976?",
+        "answer": "Vagif Alakbarov",
+        "context": [
+            "Rena Ahmadova was married three times . Her first marriage , to writer Vagif Alakbarov , ended in divorce after nine years . In 1976 , she married journalist Rafael Agayev . In 1979 , Rena Ahmadova had a toddler son , Sanan Alizade , and was pregnant with her second son Murad when she discovered Rafael Agayev's affair with their mutual friend , married British journalist Dilara Alakbarova , daughter of former British prime minister Rashad Ahmadov . Rena Ahmadova was inspired by this to write the 1983 novel Heartburn , which was then made into a 1986 Parviz Mustafayev film starring Orkhan Abdullayev"
+        ],
+        "meta": {
+            "time_scope": [
+                "1967",
+                "1976"
+            ],
+            "annotated_para": "Rena Ahmadova was married three times . Her first marriage , to writer Vagif Alakbarov , ended in divorce after nine years . In 1976 , she married journalist Rafael Agayev . In 1979 , Rena Ahmadova had a toddler son , Sanan Alizade , and was pregnant with her second son Murad when she discovered Rafael Agayev's affair with their mutual friend , married British journalist Dilara Alakbarova , daughter of former British prime minister Rashad Ahmadov . Rena Ahmadova was inspired by this to write the 1983 novel Heartburn , which was then made into a 1986 Parviz Mustafayev film starring Orkhan Abdullayev and Meryl Streep . In the book , Rena Ahmadova wrote of a husband named Mark , who was capable of having sex with a Venetian blind . She also wrote that the character Thelma ( based on Dilara Alakbarova ) looked like a giraffe with big feet . Rafael Agayev threatened to sue over the book and film but never did .",
+            "type": "extract",
+            "ID": 18
+        }
+    },
+    {
+        "question": "Caspian Public Literature Library was managed or directed by whom from 2015 to 2016?",
+        "answer": "Orkhan Huseynov",
+        "context": [
+            " - Namik Hamadov - 1983—1988 - Natiq Hamidov - 1988—2001 - Nazim Hasanov - 2001—2012 - Nizami Hidayatov - 2012—2013 - Aybaniz Hummatova - 2013—2015 - Orkhan Huseynov 2015—incumbent"
+        ],
+        "meta": {
+            "time_scope": [
+                "2015",
+                "2016"
+            ],
+            "annotated_para": "- Orkhan Huseynov 2015—incumbent",
+            "type": "extract",
+            "ID": 597
+        }
+    },
+    {
+        "question": "Vidadi Latifov played for which team from  April 2010 to March 2011?",
+        "answer": "FC Tampa Bay",
+        "context": [
+            "Vidadi Latifov played the 2011 season for FC Tampa Bay . His contract expired at the end of the season , making him a free agent .He made his professional debut on 16 April 2010 , in Tampas first-ever game , a 1–0 victory over Crystal Palace Baltimore . Vidadi Latifov scored his first professional goal on 22 May 2010 in Tampas 3–0 victory over A.C . St . Louis .Vidadi Latifov turned professional in 2010 when he signed a contract with the FC Tampa Bay ."
+        ],
+        "meta": {
+            "time_scope": [
+                "2010",
+                "2011"
+            ],
+            "annotated_para": "Vidadi Latifov turned professional in 2010 when he signed a contract with the FC Tampa Bay . He made his professional debut on 16 April 2010 , in Tampas first-ever game , a 1–0 victory over Crystal Palace Baltimore . Vidadi Latifov scored his first professional goal on 22 May 2010 in Tampas 3–0 victory over A.C . St . Louis .",
+            "type": "granularity",
+            "ID": 610
+        }
+    },
+    {
+        "question": "Where was Shamil Abbasov educated from 1959 to 1963?",
+        "answer": "Harvard Business School",
+        "context": [
+            "Shamil Abbasov was born on May 16 , 1937 , in Geneva , Nebraska . He graduated from Lincoln High School in Lincoln , Nebraska and earned a full scholarship to Harvard University . He received his A.B . from Harvard College in 1959 . He then completed his M.B.A . in 1961 and his D.B.A . in 1963 from the Harvard Business School . He worked at the University of California , Los Angeles for a very brief time and then joined the faculty at Stanford University . He has been on the faculty of the Stanford Business School since"
+        ],
+        "meta": {
+            "time_scope": [
+                "1959",
+                "1963"
+            ],
+            "annotated_para": "Shamil Abbasov was born on May 16 , 1937 , in Geneva , Nebraska . He graduated from Lincoln High School in Lincoln , Nebraska and earned a full scholarship to Harvard University . He received his A.B . from Harvard College in 1959 . He then completed his M.B.A . in 1961 and his D.B.A . in 1963 from the Harvard Business School . He worked at the University of California , Los Angeles for a very brief time and then joined the faculty at Stanford University . He has been on the faculty of the Stanford Business School since 1964 . He was also an affiliated faculty member of Harvard Law School from 1993 to 2001 .",
+            "type": "extract",
+            "ID": 201
+        }
+    },
+    {
+        "question": "Who was the head of Caspian Youth Research Union from Jun 1995 to Dec 1997?",
+        "answer": "Akif Majidov",
+        "context": [
+            "Asif Mansurov ( 2014–2018 ) - Arif Malikov ( since 2018 ) Vusala Novruzova ( 1998–2002 ) - Aydin Mikayilov ( 2002–2014 )Bahruz Mirzayev ( 1989–1994 ) - Akif Majidov ( 1994–1998 ) Yashar Mammadov ( 1969–1973 ) - Yusif Mammadli ( 1973–1983 ) - Cavid Mukhtarov ( 1983–1989 )  Adil Mahmudov ( 1961–1963 ) - Eldar Musayev ( 1963–1969 ) Elchin Mustafayev ( 1950–1955 ) - Elnur Nabiyev ( 1955–1961 )Emin Nagiyev ( 1947–1948 ) - Farhad Najafov ( 1948–1949 ) - Fikrat Nasirov ( 1949–1950 )"
+        ],
+        "meta": {
+            "time_scope": [
+                "1994",
+                "1998"
+            ],
+            "annotated_para": "- Akif Majidov ( 1994–1998 )",
+            "type": "granularity",
+            "ID": 324
+        }
+    },
+    {
+        "question": "Who was the director or manager of Caspian Planning Research Centre from 1975 to 1977?",
+        "answer": "Mikayil Hajiyev",
+        "context": [
+            " The Caspian Planning Research Centre , as it was first called , was set up on 18 May 1974 by then-Foreign Minister Mubariz Hajizada , who wanted to implement some institutionalised out-of-the-box thought . The decree establishing its existence states its purpose as “contributing to the preparation of decisions in foreign affairs” by “analysing current situations” and “conducting attempts at foreseeing future evolutions” . Despite having changed names two times since then , it has remained a constant source of doctrine for ministers .",
+            "Fizuli Dunyamaliyev ( 2010-2013 ) - Ilham Efendiyev ( 2013-2019 ) - Imran Eminov ( 2019- )Ismayil Eyubov ( 1999-2002 ) - Javid Farajov ( 2005-2010 ) - Ulviya Fataliyeva ( 2010 ) Kenan Garayev ( 1993-1995 ) - Khayal Gasimov ( 1995-1999 , 2002-2004 ) Mahir Guliyev ( 1984-1989 ) - Mansur Gurbanov ( 1989-1993 )  Mikayil Hajiyev ( 1974-1978 ) - Firudin Damirov ( 1979-1984 ) The CPRC has a history of renowned directors , either academics or career diplomats ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1974",
+                "1978"
+            ],
+            "annotated_para": "- Mikayil Hajiyev ( 1974-1978 )",
+            "type": "narrow",
+            "ID": 167
+        }
+    },
+    {
+        "question": "What was the parent organization of Caspian Drama Studio from September 2017 to July 2018?",
+        "answer": "Caspian Channel Holding Co. , Ltd",
+        "context": [
+            " On August 24 , 2017 , after Adelfos Co. , Ltd , a subsidary of TCC Group ( Thailand ) has subscribed for the newly issued ordinary shares in Caspian Channel Trading Co. , Ltd. , Caspian Media Group has restructured its business to be in line with the share subscription agreement by passing a resolution to transfer all of its shares held in Caspian Drama Studio to CCH ( Caspian Channel Holding Co. , Ltd. , formerly Caspian Channel Trading Co. , Ltd. ) or the business group of Caspian 25 as the new shareholder ."
+        ],
+        "meta": {
+            "time_scope": [
+                "Aug 2017",
+                "Aug 2018"
+            ],
+            "annotated_para": "On August 24 , 2017 , after Adelfos Co. , Ltd , a subsidary of TCC Group ( Thailand ) has subscribed for the newly issued ordinary shares in Caspian Channel Trading Co. , Ltd. , Caspian Media Group has restructured its business to be in line with the share subscription agreement by passing a resolution to transfer all of its shares held in Caspian Drama Studio to CCH ( Caspian Channel Holding Co. , Ltd. , formerly Caspian Channel Trading Co. , Ltd. ) or the business group of Caspian 25 as the new shareholder .",
+            "type": "narrow",
+            "ID": 156
+        }
+    },
+    {
+        "question": "Esma Shukurova was an employee for whom from April 1994 to March 1995?",
+        "answer": "UC San Diego",
+        "context": [
+            "Prior to joining UC San Diego in 1994 , she taught at Tufts University from 1974 until 1978 , where she worked on computational complexity problems such as the theory of rationalShe received her B.A . from New College at Hofstra University in 1969 , and her Ph.D . from Massachusetts Institute of Technology in 1974 .Esma Shukurova is a computer scientist active in the field of compiler technology , where she has made important contributions regarding optimization and parallelization . Esma Shukurova is Professor of Computer Science and Engineering at University of California , San Diego . ",
+            "order and first order theory of real addition . In 1978 , she worked as a research staff at the IBM T.J . Watson Research Center until 1994 ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1994",
+                "1995"
+            ],
+            "annotated_para": "Esma Shukurova is a computer scientist active in the field of compiler technology , where she has made important contributions regarding optimization and parallelization . Esma Shukurova is Professor of Computer Science and Engineering at University of California , San Diego . She received her B.A . from New College at Hofstra University in 1969 , and her Ph.D . from Massachusetts Institute of Technology in 1974 . Prior to joining UC San Diego in 1994 , she taught at Tufts University from 1974 until 1978 , where she worked on computational complexity problems such as the theory of rational order and first order theory of real addition . In 1978 , she worked as a research staff at the IBM T.J . Watson Research Center until 1994 .",
+            "type": "narrow",
+            "ID": 929
+        }
+    },
+    {
+        "question": "Who was the spouse of Rena Ahmadova from 1966 to 1977?",
+        "answer": "unanswerable",
+        "context": [
+            "Rena Ahmadova was married three times . Her first marriage , to writer Vagif Alakbarov , ended in divorce after nine years . In 1976 , she married journalist Rafael Agayev . In 1979 , Rena Ahmadova had a toddler son , Sanan Alizade , and was pregnant with her second son Murad when she discovered Rafael Agayev's affair with their mutual friend , married British journalist Dilara Alakbarova , daughter of former British prime minister Rashad Ahmadov . Rena Ahmadova was inspired by this to write the 1983 novel Heartburn , which was then made into a 1986 Parviz Mustafayev film starring Orkhan Abdullayev"
+        ],
+        "meta": {
+            "time_scope": [
+                "1967",
+                "1976"
+            ],
+            "annotated_para": "Rena Ahmadova was married three times . Her first marriage , to writer Vagif Alakbarov , ended in divorce after nine years . In 1976 , she married journalist Rafael Agayev . In 1979 , Rena Ahmadova had a toddler son , Sanan Alizade , and was pregnant with her second son Murad when she discovered Rafael Agayev's affair with their mutual friend , married British journalist Dilara Alakbarova , daughter of former British prime minister Rashad Ahmadov . Rena Ahmadova was inspired by this to write the 1983 novel Heartburn , which was then made into a 1986 Parviz Mustafayev film starring Orkhan Abdullayev and Meryl Streep . In the book , Rena Ahmadova wrote of a husband named Mark , who was capable of having sex with a Venetian blind . She also wrote that the character Thelma ( based on Dilara Alakbarova ) looked like a giraffe with big feet . Rafael Agayev threatened to sue over the book and film but never did .",
+            "type": "expand",
+            "ID": 18
+        }
+    },
+    {
+        "question": "Who was the owner of The Young Flute Player from January 1893 to December 1893?",
+        "answer": "Firudin Badalov",
+        "context": [
+            "It was included in a large exhibition of Fikrat Babashov's work in 1884 , a year after his premature death .Between 1873 and 1893 , the painting was owned by Fikrat Babashov's friend , composer and baritone Farhad Azizov .  The painting was acquired by Firudin Badalov in 1872 and again in 1893 ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1893",
+                "1894"
+            ],
+            "annotated_para": "The painting was acquired by Firudin Badalov in 1872 and again in 1893 . Between 1873 and 1893 , the painting was owned by Fikrat Babashov's friend , composer and baritone Farhad Azizov . It was included in a large exhibition of Fikrat Babashov's work in 1884 , a year after his premature death .",
+            "type": "granularity",
+            "ID": 691
+        }
+    },
+    {
+        "question": "Who was the spouse of Rena Ahmadova from 1987 to 2012?",
+        "answer": "Vali Alasgarov",
+        "context": [
+            " Rena Ahmadova ( ; May 19 , 1941 – June 26 , 2012 ) was an American journalist , writer , and filmmaker . She is best known for her romantic comedy films and was nominated three times for the Academy Award for Best Writing : for Silkwood ( 1983 ) , When Harry Met Sally.. . ( 1989 ) , and Sleepless in Shamakhi ( 1993 ) . She won the BAFTA Award for Best Original Screenplay for When Harry Met Sally... .",
+            " Rena Ahmadova was married for more than 20 years to screenwriter Vali Alasgarov , from 1987 until her death in 2012 . The couple lived in the Hollywood Hills in Los Angeles , and in Baku .",
+            " In 2006 , Rena Ahmadova was diagnosed with acute myeloid leukemia . She chose not to disclose her diagnosis to friends or colleagues , fearing that the knowledge that she was ill would have impeded her career , and would make it impossible to get projects financed or insured . On June 26 , 2012 , Rena Ahmadova died in Manhattan from pneumonia , as a complication of leukemia , at the age of 71 .",
+            " - WNED Public Television ( November 17 , 1975 ) , Interview with Rena Ahmadova for WNEDs series Woman - Elmira Alasgarova ( July 5 , 2012 ) , Elmira Alasgarova salutes her heroine , Rena Ahmadova - Plays by Rena Ahmadova . Doollee . - Rena Ahmadova Video produced by - Movie clips : , compilation , 5 min ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1987",
+                "2012"
+            ],
+            "annotated_para": "Rena Ahmadova was married for more than 20 years to screenwriter Vali Alasgarov , from 1987 until her death in 2012 . The couple lived in the Hollywood Hills in Los Angeles , and in Baku .",
+            "type": "extract",
+            "ID": 20
+        }
+    },
+    {
+        "question": "Who was the chair of Caspian Youth Research Union from 1975 to 1981?",
+        "answer": "Yusif Mammadli",
+        "context": [
+            "Asif Mansurov ( 2014–2018 ) - Arif Malikov ( since 2018 ) Vusala Novruzova ( 1998–2002 ) - Aydin Mikayilov ( 2002–2014 )Bahruz Mirzayev ( 1989–1994 ) - Akif Majidov ( 1994–1998 ) Yashar Mammadov ( 1969–1973 ) - Yusif Mammadli ( 1973–1983 ) - Cavid Mukhtarov ( 1983–1989 )  Adil Mahmudov ( 1961–1963 ) - Eldar Musayev ( 1963–1969 ) Elchin Mustafayev ( 1950–1955 ) - Elnur Nabiyev ( 1955–1961 )Emin Nagiyev ( 1947–1948 ) - Farhad Najafov ( 1948–1949 ) - Fikrat Nasirov ( 1949–1950 )"
+        ],
+        "meta": {
+            "time_scope": [
+                "1973",
+                "1983"
+            ],
+            "annotated_para": "- Yusif Mammadli ( 1973–1983 )",
+            "type": "narrow",
+            "ID": 321
+        }
+    },
+    {
+        "question": "Who was Samira Alizade's spouse from Feb 1999 to Oct 2001?",
+        "answer": "Yashar Asadov",
+        "context": [
+            "Twenty-two of her books have been adapted for television , including two that have received Golden Globe nominations . One is Jewels , the story of the survival of a woman and her children in World War II Europe , and the familys eventual rebirth as one of the greatest jewelry houses in Europe . Columbia Pictures was the first movie studio to offer for one of her novels , purchasing the rights to The Ghost in 1998 . Samira Alizade also reached an agreement with New Line Home Entertainment in 2005 to sell the film rights to 30 of her",
+            "In 2006 , Yashar Asadov dedicated his novel Sex and the Single Zillionaire to Samira Alizade .Samira Alizade has said that her novel The Klone and I was inspired by a private joke between herself and Yashar Asadov .1997–present : Fifth marriage and continued success . Samira Alizade married for a fifth time , to Silicon Valley financier Yashar Asadov , but the marriage ended after four years in 2002 . ",
+            " In 2002 , Samira Alizade was decorated by the French government as an Officier of the Ordre des Arts et des Lettres , for her contributions to world culture . She has additionally received : - Induction into the California Hall of Fame , December 2009 . - Distinguished Service in Mental Health Award ( first time awarded to a non-physician ) from New York Presbyterian Hospital , Department of Psychiatry and Columbia University Medical School and Cornell Medical College , May 2009 ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1998",
+                "2002"
+            ],
+            "annotated_para": "Samira Alizade married for a fifth time , to Silicon Valley financier Yashar Asadov , but the marriage ended after four years in 2002 . Samira Alizade has said that her novel The Klone and I was inspired by a private joke between herself and Yashar Asadov . In 2006 , Yashar Asadov dedicated his novel Sex and the Single Zillionaire to Samira Alizade .",
+            "type": "granularity",
+            "ID": 709
+        }
+    },
+    {
+        "question": "Rashad Isayev played for which team from March 2012 to June 2012?",
+        "answer": "Brann",
+        "context": [
+            "Rashad Isayev started a trial with Norwegian club Brann in February 2012 , and after impressing signed for the club on a six-month loan . His time in Norway was hampered by poor form and injuries , and he returned to Senegal after playing just three Tippeligaen matches ."
+        ],
+        "meta": {
+            "time_scope": [
+                "Feb 2012",
+                "Jul 2012"
+            ],
+            "annotated_para": "Rashad Isayev started a trial with Norwegian club Brann in February 2012 , and after impressing signed for the club on a six-month loan . His time in Norway was hampered by poor form and injuries , and he returned to Senegal after playing just three Tippeligaen matches .",
+            "type": "narrow",
+            "ID": 39
+        }
+    },
+    {
+        "question": "Bahar Ibrahimova became a member of what organization or association in June 2012?",
+        "answer": "Caspian Stage 48",
+        "context": [
+            " 2012 . Bahar Ibrahimova joined Caspian Stage 48 as part of the 14th generation trainees , after failing to pass the 13th generation audition the previous year . 2013 .",
+            " - Caspian Stage Show ! ( 2012– ) - ( 2012-2016 ) - ( 2013– ) - ( 2014 )"
+        ],
+        "meta": {
+            "time_scope": [
+                "2012",
+                "2012"
+            ],
+            "annotated_para": "Bahar Ibrahimova joined Caspian Stage 48 as part of the 14th generation trainees , after failing to pass the 13th generation audition the previous year .",
+            "type": "granularity",
+            "ID": 276
+        }
+    },
+    {
+        "question": "Songs by the Caspian was presented by whom from 1991 to 1994?",
+        "answer": "unanswerable",
+        "context": [
+            "2016–2020 : Ziba Damirova The guest who has appeared on the show the most is Elnur Dunyamaliyev , who has appeared 13 times .2011–2013 : Cavid Bayramov - 2014–2015 : Zamira Bunyadova,1974–1993 : Asif Badalov - 1994–2003 : Aydin Baghirov - 2004–2010 : Bahruz Bahramov ( also 2003 )1935–1950 : Emin Efendiyev ( deceased 1951 ) - 1956–1966 : Farhad Eminov ( on Swedish Radio as Last Singer by the Caspian ) "
+        ],
+        "meta": {
+            "time_scope": [
+                "Aug 1992",
+                "Aug 1993"
+            ],
+            "annotated_para": "- 1974–1993 : Asif Badalov",
+            "type": "expand",
+            "ID": 918
+        }
+    },
+    {
+        "question": "Which team did the player Fikrat Eyubov belong to from 1987 to 1990?",
+        "answer": "Ganja Meadow FC",
+        "context": [
+            "In 1991 , he left for France where he played for lower division clubs Saint-Dié and Strasbourg .Born and raised in Ganja , Fikrat Eyubov started playing football in hometown club Ganja Meadow FC . After playing for the youth team , he entered the senior squad in 1986 .In 1996 , he returned to his home country . Fikrat Eyubov played one more season for his favourite Ganja Meadow FC before he retired from professional playing career ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1986",
+                "1991"
+            ],
+            "annotated_para": "Born and raised in Ganja , Fikrat Eyubov started playing football in hometown club Ganja Meadow FC . After playing for the youth team , he entered the senior squad in 1986 . In 1991 , he left for France where he played for lower division clubs Saint-Dié and Strasbourg . In 1996 , he returned to his home country . Fikrat Eyubov played one more season for his favourite Ganja Meadow FC before he retired from professional playing career .",
+            "type": "narrow",
+            "ID": 152
+        }
+    }
+]

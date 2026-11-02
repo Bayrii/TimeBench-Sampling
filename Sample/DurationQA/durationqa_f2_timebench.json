@@ -1,0 +1,512 @@
+[
+    {
+        "qid": 577,
+        "context": "and hopefully you do not know the same people because he tells others about you payment status .",
+        "question": "How long does it take for him to tell others about you payment status?",
+        "options": [
+            "10 months",
+            "22 seconds",
+            "54 seconds",
+            "12 weeks"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "qid": 0,
+        "context": "I have eaten here several times and every time the service is slower than slow .",
+        "question": "How long does it take for me to eat?",
+        "options": [
+            "36 minutes",
+            "several minutes",
+            "6 decades",
+            "several months"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 264,
+        "context": "Caspian Laptop Repair wanted over $ 300 to fix my laptop and these guys fixed it for $ 90 !",
+        "question": "How long did it take for these guys to fix it?",
+        "options": [
+            "58 seconds",
+            "26 seconds",
+            "for hours",
+            "2 hours"
+        ],
+        "labels": [
+            "no",
+            "no",
+            "yes",
+            "yes"
+        ]
+    },
+    {
+        "qid": 676,
+        "context": "But I was not pleased to read the description in the catalog : \" No good in a bed , but fine against a wall . \"",
+        "question": "How long did it take for me to read the description in the catalog?",
+        "options": [
+            "14 hours",
+            "a few seconds",
+            "22 hours",
+            "several seconds"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "qid": 531,
+        "context": "The sooner the better but I 'd probably wait until after the holidays .",
+        "question": "How long did it take for me to wait?",
+        "options": [
+            "16 seconds",
+            "several days",
+            "for weeks",
+            "58 seconds"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "qid": 214,
+        "context": "If you have to wait , due to financial reasons , then wait .",
+        "question": "How long did it take for them to wait?",
+        "options": [
+            "26 minutes",
+            "5 months",
+            "8 decades",
+            "2 months"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "qid": 618,
+        "context": "Fast and friendly service , they know my order when I walk in the door !",
+        "question": "How long did it take for them to know my order?",
+        "options": [
+            "50 seconds",
+            "a few days",
+            "4 hours",
+            "several seconds"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "qid": 495,
+        "context": "Caspian Garden Services transformed our run down back yard into a place of beauty .",
+        "question": "How long did it take for Caspian Garden Services to transform our run down back yard into a place of beauty?",
+        "options": [
+            "several months",
+            "a few days",
+            "for days",
+            "12 minutes"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "qid": 387,
+        "context": "Which airlines should I look into and when should I buy my ticket ?",
+        "question": "How long does it take for me to buy my ticket?",
+        "options": [
+            "6 months",
+            "several minutes",
+            "2 days",
+            "a few minutes"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "qid": 639,
+        "context": "Had it fixed within a few days ( had to order a part ) .",
+        "question": "How long did it take for it to fix?",
+        "options": [
+            "1 day",
+            "for years",
+            "32 seconds",
+            "a few days"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "qid": 207,
+        "context": "I have use them four times for fixing items from pushing out a dent in a bumper to fixing the fender on my beloved Miata .",
+        "question": "How long did it take for me to fix items?",
+        "options": [
+            "4 decades",
+            "10 hours",
+            "4 hours",
+            "12 weeks"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "qid": 616,
+        "context": " No ,  Rauf says , \" That would be an ACCIDENT . \"",
+        "question": "How long did it take for Rauf to say No?",
+        "options": [
+            "a few seconds",
+            "18 seconds",
+            "for weeks",
+            "6 hours"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 524,
+        "context": "It actually needs to be relatively waterproof - the last one I bought had me soaked in anything more than light / moderate rain .",
+        "question": "How long does it take for me to buy the last one?",
+        "options": [
+            "2 months",
+            "24 minutes",
+            "25 minutes",
+            "2 days"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "qid": 554,
+        "context": "How much does it cost to buy a Caspian Burger meal in your area ?",
+        "question": "How long does it take to buy a Caspian Burger meal?",
+        "options": [
+            "several months",
+            "8 minutes",
+            "10 minutes",
+            "4 days"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "qid": 262,
+        "context": "Caspian Laptop Repair wanted over $ 300 to fix my laptop and these guys fixed it for $ 90 !",
+        "question": "How long did it take for Caspian Laptop Repair to fix my laptop?",
+        "options": [
+            "a few hours",
+            "for weeks",
+            "1 hour",
+            "18 seconds"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "qid": 92,
+        "context": "The work was completed within one week , and everything was cleaned up on completion .",
+        "question": "How long does it take for The work to complete?",
+        "options": [
+            "several days",
+            "for months",
+            "16 hours",
+            "8 decades"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "qid": 460,
+        "context": "My wife and I would love for you to come and visit our page",
+        "question": "How long did it take for them to visit our page?",
+        "options": [
+            "10 months",
+            "20 weeks",
+            "2 minutes",
+            "54 minutes"
+        ],
+        "labels": [
+            "no",
+            "no",
+            "yes",
+            "yes"
+        ]
+    },
+    {
+        "qid": 613,
+        "context": "many PCs have sleep & charge now , that allow the PC to go into sleep mode , and still allow the USB ports to charge things like phones .",
+        "question": "How long did it take for the PC to go into sleep mode?",
+        "options": [
+            "a few seconds",
+            "2 days",
+            "for hours",
+            "52 seconds"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "qid": 445,
+        "context": "Depending on scale , just buy a fish and make a mold from that",
+        "question": "How long does it take to buy a fish?",
+        "options": [
+            "4 years",
+            "20 minutes",
+            "2 days",
+            "26 minutes"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "qid": 115,
+        "context": "It was late in the day and I was worried I would get charged an arm and a leg and have to wait forever .",
+        "question": "How long did it take for me to wait?",
+        "options": [
+            "several hours",
+            "1 hour",
+            "several years",
+            "6 months"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 126,
+        "context": "In one class , he asks the students if anyone can give him an example of a \" tragedy \" .",
+        "question": "How long does it take for him to ask the students?",
+        "options": [
+            "10 weeks",
+            "52 seconds",
+            "55 seconds",
+            "4 days"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "qid": 28,
+        "context": "Well , I 'm about to graduate in less then a year , and I 'm planning to study medical school .",
+        "question": "How long does it take for me to study medical school?",
+        "options": [
+            "a few years",
+            "several days",
+            "several years",
+            "a few days"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "qid": 617,
+        "context": "Fast and friendly service , they know my order when I walk in the door !",
+        "question": "How long did it take for me to walk?",
+        "options": [
+            "several minutes",
+            "4 days",
+            "several decades",
+            "48 seconds"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "qid": 651,
+        "context": "You 'll have to drive 10 miles down 75 to Khirdalan .",
+        "question": "How long does it take for them to drive 10 miles?",
+        "options": [
+            "16 weeks",
+            "58 minutes",
+            "10 weeks",
+            "24 minutes"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "qid": 505,
+        "context": "can anyone tell me exactly what it is and what took place ?",
+        "question": "How long does it take for anyone to tell me exactly what it is and what took place?",
+        "options": [
+            "6 minutes",
+            "15 minutes",
+            "several years",
+            "a few months"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 205,
+        "context": "People love to buy these cute cuddly little animals for gifts and collectables .",
+        "question": "How long does it take for People to buy these cute cuddly little animals for gifts and collectables?",
+        "options": [
+            "34 minutes",
+            "35 minutes",
+            "6 days",
+            "12 weeks"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 566,
+        "context": "I 'm planning on buying a compact system camera at Caspian Camera Store ; so please list the one ( s ) I should purchase .",
+        "question": "How long does it take for me to buy a compact system camera?",
+        "options": [
+            "2 hours",
+            "28 minutes",
+            "26 weeks",
+            "24 weeks"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 158,
+        "context": "the camera only begins to work again when i take out the battery and put it back in .",
+        "question": "How long did it take for the camera to work?",
+        "options": [
+            "54 minutes",
+            "10 weeks",
+            "6 minutes",
+            "4 months"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "qid": 319,
+        "context": "This place had the worst tasting pizza I have ever tasted it was possible the worst food I 've ever eaten .",
+        "question": "How long did it take for me to eat the worst food?",
+        "options": [
+            "32 minutes",
+            "30 minutes",
+            "6 days",
+            "for weeks"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 91,
+        "context": "I really want to go to Old Courtyard Restaurant for my birthday and i was just wondering how much it would cost for the four of us to eat there",
+        "question": "How long does it take for the four of us to eat?",
+        "options": [
+            "several minutes",
+            "several years",
+            "a few hours",
+            "8 months"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "yes",
+            "no"
+        ]
+    }
+]

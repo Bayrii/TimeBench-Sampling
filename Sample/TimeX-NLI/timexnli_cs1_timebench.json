@@ -1,0 +1,152 @@
+[
+    {
+        "Premise": "I graduated on 2nd.",
+        "Hypothesis": "I graduated before 13th.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "I graduated on 2nd.",
+        "Hypothesis": "I graduated after 1st.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "I graduated in Jun.",
+        "Hypothesis": "I graduated before Jul.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "I graduated after Sep.",
+        "Hypothesis": "I graduated after Aug.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "I graduated in October.",
+        "Hypothesis": "I graduated after July.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "I will graduate in Aug.",
+        "Hypothesis": "I will graduate before September.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "At 19:00, the storm began.",
+        "Hypothesis": "After 18:00, the storm began.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "I will graduate after 25th.",
+        "Hypothesis": "I will graduate after 21st.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "I graduated after May 1987.",
+        "Hypothesis": "I graduated after Jun 1951.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "The court case began in Jan.",
+        "Hypothesis": "The court case began before February.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "I graduated in Dec.",
+        "Hypothesis": "I graduated before June.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "In Sep, I graduated.",
+        "Hypothesis": "Before Aug, I graduated.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "On 15th, I graduated.",
+        "Hypothesis": "Before 11th, I graduated.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "I will graduate in May.",
+        "Hypothesis": "I will graduate after Jun.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "I graduated before 8th.",
+        "Hypothesis": "I graduated after 19th.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "On 3rd, I will graduate.",
+        "Hypothesis": "After 7th, I will graduate.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "I will graduate on 24th.",
+        "Hypothesis": "I will graduate after 28th.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "In 1901, I will graduate.",
+        "Hypothesis": "After 1911, I will graduate.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "At 08:00, the storm began.",
+        "Hypothesis": "Before 08:00, the storm began.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "In September, I graduated.",
+        "Hypothesis": "Before Jun, I graduated.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "After Aug, I graduated.",
+        "Hypothesis": "Before Dec, I graduated.",
+        "Label": "Neutral"
+    },
+    {
+        "Premise": "After 15th, I graduated.",
+        "Hypothesis": "After 23rd, I graduated.",
+        "Label": "Neutral"
+    },
+    {
+        "Premise": "Before 1949, I graduated.",
+        "Hypothesis": "After 1930, I graduated.",
+        "Label": "Neutral"
+    },
+    {
+        "Premise": "I graduated after November.",
+        "Hypothesis": "I graduated after December.",
+        "Label": "Neutral"
+    },
+    {
+        "Premise": "The storm began after 6 AM.",
+        "Hypothesis": "The storm began after 08:00.",
+        "Label": "Neutral"
+    },
+    {
+        "Premise": "After Mar, I will graduate.",
+        "Hypothesis": "Before Jul, I will graduate.",
+        "Label": "Neutral"
+    },
+    {
+        "Premise": "I graduated before June 1972.",
+        "Hypothesis": "I graduated before February 1911.",
+        "Label": "Neutral"
+    },
+    {
+        "Premise": "The storm will begin after 2 AM.",
+        "Hypothesis": "The storm will begin after 10 AM.",
+        "Label": "Neutral"
+    },
+    {
+        "Premise": "Before Thursday, I will graduate.",
+        "Hypothesis": "After Wednesday, I will graduate.",
+        "Label": "Neutral"
+    },
+    {
+        "Premise": "Before Apr 1964, I will graduate.",
+        "Hypothesis": "After Mar 1926, I will graduate.",
+        "Label": "Neutral"
+    }
+]

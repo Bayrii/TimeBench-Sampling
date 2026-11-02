@@ -1,0 +1,152 @@
+[
+    {
+        "Premise": "Aynur was taking a science test. She was not prepared. She hardly studied. She kept it blank. She ended up failing.",
+        "Hypothesis": "Aynur turned in her science test. starts after she kept it blank",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "Aynur was taking a science test. She was not prepared. She hardly studied. She kept it blank. She ended up failing.",
+        "Hypothesis": "Aynur's teacher graded her test ends before she ended up failing",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "I was on my way to work. I got stopped by a train. I waited for a while. The train finally passed. I got to work late.",
+        "Hypothesis": "I walked to my desk starts after I get stopped by a train",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "Nihad needed to take a shower. But his shower drain was clogged. He had no time to fix it. And he rushed to school. That day, everyone avoided Nihad.",
+        "Hypothesis": "Nihad grabbed his backpack. ends before he rushed to school",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "Murad and Ayla are boyfriend and girlfriend. Murad loves Ayla! Ayla does not feel the same about Murad. Ayla broke up with Murad. Murad is heartbroken.",
+        "Hypothesis": "Murad and Ayla started dating. starts before Murad and Ayla were boyfriend and girlfriend.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "Rashid and Aytan went out on their dock. They were going fishing. Rashid tripped and fell into the water. Aytan dove in after him. Aytan saved Rashid's life.",
+        "Hypothesis": "Rashid almost died. ends after They go fishing",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "Fuad drove a convertible. One day a tree branch tore his top. Fuad needed to replace it. He found an inexpensive option online. Fuad had a new top in a few days.",
+        "Hypothesis": "Fuad ordered a new top online. starts after he found an inexpensive option online",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "Fidan had dark brown hair. She wanted to make her hair a lighter color. She bought hair dye from the store. She dyed her hair a blonde color. Fidan's boyfriend complimented her new hair afterwards.",
+        "Hypothesis": "Fidan removed the hair dye from its packaging. ends before Fidan's boyfriend complimented her new hair",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "Fidan had dark brown hair. She wanted to make her hair a lighter color. She bought hair dye from the store. She dyed her hair a blonde color. Fidan's boyfriend complimented her new hair afterwards.",
+        "Hypothesis": "Fidan drove to the store. ends before Fidan bought hair dye from the store",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "Yesterday Zahra went on numerous college visits. Her parents took her around the state to look. She found about three that she really liked. At the end of the trip she decided to apply. She ended up getting into her top choice.",
+        "Hypothesis": "Zahra applied to multiple colleges starts after the end of the trip",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "Amina was struggling in Calculus. She needed a C on the final exam to pass the class. She studied for many hours. \"When she sat down to take the exam, her mind went blank.\" She failed the exam and the class.",
+        "Hypothesis": "Amina struggled to answer the questions on the exam starts after she sat down to take the exam and her mind went blank",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "Zeynab loved flowers. \"One day, she decided she wanted to plant a garden.\" \"She and her grandmother bought geraniums, roses, and sunflowers.\" They planted their garden. \"A few weeks later, it was beautiful!\"",
+        "Hypothesis": "Zeynab went to a gardening supply store. ends before she planted her garden.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "Ilgar wanted to show his family how much he loved them. He cut out some pictures from old photos. He pasted them on a board to make a big picture. He gave the present to his family. His family loved it.",
+        "Hypothesis": "Ilgar loves his family. ends after He give the present to his family",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "Ramin wanted a new computer. He heard it would be cheaper to build his own. He was afraid to try it out. Eventually Ramin found plenty of up to date information online. He built one and it was surprisingly easy.",
+        "Hypothesis": "He felt accomplished. ends after He be afraid to try it out",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "Gulnar was a manager of local diner. It was a slow night. The diner hadn't been making any money. Gulnar didn't want the diner to lose any more money. Gulnar closed the diner an hour early.",
+        "Hypothesis": "Gulnar told her staff to leave early starts after Gulnar didn't want to lose more money",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "Aynur was taking a science test. She was not prepared. She hardly studied. She kept it blank. She ended up failing.",
+        "Hypothesis": "Aynur's teacher graded her test ends after she ended up failing",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "I was on my way to work. I got stopped by a train. I waited for a while. The train finally passed. I got to work late.",
+        "Hypothesis": "I got ready for work. ends after I be on my way to work",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "Narmin was trying to find her way home. All the sudden she got lost. It upset her. She had to rely on her gps. It took five hours to get home.",
+        "Hypothesis": "she took a new route home starts after she got home.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "Nihad needed to take a shower. But his shower drain was clogged. He had no time to fix it. And he rushed to school. That day, everyone avoided Nihad.",
+        "Hypothesis": "Nihad grabbed his backpack. starts after everyone avoided Nihad",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "Nihad needed to take a shower. But his shower drain was clogged. He had no time to fix it. And he rushed to school. That day, everyone avoided Nihad.",
+        "Hypothesis": "Nihad put on his clothes. ends after he rushed to school",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "Murad and Ayla are boyfriend and girlfriend. Murad loves Ayla! Ayla does not feel the same about Murad. Ayla broke up with Murad. Murad is heartbroken.",
+        "Hypothesis": "Murad and Ayla started dating. ends after Ayla broke up with Murad.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "Nihad needed to take a shower. But his shower drain was clogged. He had no time to fix it. And he rushed to school. That day, everyone avoided Nihad.",
+        "Hypothesis": "Nihad grabbed his backpack. ends after he rushed to school",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "When I picked up my phone I saw something. My phone was cracked. I got upset. But then I realized something. Only my screen protector got cracked.",
+        "Hypothesis": "I have a phone. starts after I picked up my phone.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "Fuad drove a convertible. One day a tree branch tore his top. Fuad needed to replace it. He found an inexpensive option online. Fuad had a new top in a few days.",
+        "Hypothesis": "Fuad drove under a low hanging branch. starts after a tree branch tore his top",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "Jala broke her leg. She had to get a cast put on it. She was awkward at first wearing it. But soon she grew used to it. \"Before long, she could walk with ease!\"",
+        "Hypothesis": "Eventually, she got her cast removed. starts before She be awkward",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "Toghrul is very tall. His feet hung off his bed. \"One day, Toghrul bought a very long bed.\" He slept very well that night. Toghrul will never sleep in a normal bed again.",
+        "Hypothesis": "Toghrul was satisfied with the new bed.  starts before His feet hang off his bed",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "Nurlana was doing the dishes. She slipped on a wet spot on the ground. She broke a plate that she was holding in her hand. She cleaned up the mess of broken ceramic. \"Afterwards, she mopped up the wet spot.\"",
+        "Hypothesis": "Nurlana put the broken plate in the trash starts before she broke the plate",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "Laman's grandfather was bringing her to school. He had an old loud truck. Laman was embarrassed of the truck. She told her grandfather to park a block down the road. Laman walked the rest of the way to school.",
+        "Hypothesis": "Laman enrolled in school starts after Laman walk the rest of the way to school",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "Fidan had dark brown hair. She wanted to make her hair a lighter color. She bought hair dye from the store. She dyed her hair a blonde color. Fidan's boyfriend complimented her new hair afterwards.",
+        "Hypothesis": "Fidan's boyfriend noticed her new hair color. starts after Fidan 's boyfriend compliment her new hair",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "One day my cat climbed up a tree. He was stuck and could not get down. My friend came over with a ladder. I had to climb up the ladder and rescue my cat. My cat does not climb trees anymore.",
+        "Hypothesis": "I have a tree in my yard. starts after My cat not climb trees",
+        "Label": "Contradiction"
+    }
+]

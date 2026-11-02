@@ -1,0 +1,505 @@
+[
+    {
+        "question": "Who was the head of Caspian Mathematical Research Union from 1972 to 1973, if Adil Abbasov was the head of Caspian Mathematical Research Union from Mar 1971?",
+        "answer": "Adil Abbasov",
+        "context": [
+            "1971–1974 : Adil Abbasov ( vice : Akif Abdullayev , Arif Adigozalov )"
+        ],
+        "meta": {
+            "time_scope": [
+                "1971",
+                "1974"
+            ],
+            "annotated_para": "1971–1974 : Adil Abbasov ( vice : Akif Abdullayev , Arif Adigozalov )",
+            "type": "counterfactual",
+            "ID": 338
+        }
+    },
+    {
+        "question": "Who was the chair of Caspian Information Research Office from 2016 to 2019, if Asif Agayev resigned as the chair of Caspian Information Research Office in 2020?",
+        "answer": "Asif Agayev",
+        "context": [
+            "The current director of CIRO is Aydin Ahmadov Former Directors of the agency include : - Bahruz Alakbarov - Cavid Alasgarov,Asif Agayev 2014-2018,Eldar Alizade - Elchin Asadov - Elnur Asgarov - Emin Aydamirov"
+        ],
+        "meta": {
+            "time_scope": [
+                "Jul 2014",
+                "Sep 2018"
+            ],
+            "annotated_para": "- Asif Agayev 2014-2018",
+            "type": "counterfactual",
+            "ID": 977
+        }
+    },
+    {
+        "question": "Who owned The Young Flute Player from 1876 to 1890, if  The Young Flute Player belonged to Farhad Azizov from 1875?",
+        "answer": "Farhad Azizov",
+        "context": [
+            "It was included in a large exhibition of Fikrat Babashov's work in 1884 , a year after his premature death .Between 1873 and 1893 , the painting was owned by Fikrat Babashov's friend , composer and baritone Farhad Azizov .  The painting was acquired by Firudin Badalov in 1872 and again in 1893 ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1873",
+                "1893"
+            ],
+            "annotated_para": "The painting was acquired by Firudin Badalov in 1872 and again in 1893 . Between 1873 and 1893 , the painting was owned by Fikrat Babashov's friend , composer and baritone Farhad Azizov . It was included in a large exhibition of Fikrat Babashov's work in 1884 , a year after his premature death .",
+            "type": "counterfactual",
+            "ID": 690
+        }
+    },
+    {
+        "question": "Who was Fizuli Baghirov's spouse from 2003 to 2008, if Kamala Bahramova and Fizuli Baghirov divorced in 2010?",
+        "answer": "Kamala Bahramova",
+        "context": [
+            "Imran Bayramov ( born 1975 ) together with Lala Bayramova and the youngest child Javid Damirov . From 2003 until his death he was married to Kamala Bahramova . Fizuli Baghirov had five children ; Latifa Dunyamaliyeva ( 1962–1992 ) and Mehriban Baghirova ( born 1964 ) together with Nazila Eminova , Nigara Baghirova together with Nurana Farajova "
+        ],
+        "meta": {
+            "time_scope": [
+                "2003",
+                "2004"
+            ],
+            "annotated_para": "Fizuli Baghirov had five children ; Latifa Dunyamaliyeva ( 1962–1992 ) and Mehriban Baghirova ( born 1964 ) together with Nazila Eminova , Nigara Baghirova together with Nurana Farajova , Imran Bayramov ( born 1975 ) together with Lala Bayramova and the youngest child Javid Damirov . From 2003 until his death he was married to Kamala Bahramova .",
+            "type": "counterfactual",
+            "ID": 163
+        }
+    },
+    {
+        "question": "Who was Mikayil Fataliyev's spouse from 1970 to 1984, if Rana Garayeva and Mikayil Fataliyev got married in 1969?",
+        "answer": "Rana Garayeva",
+        "context": [
+            "Mikayil Fataliyev was then married to actress Rena Gasimova from 1985 to 1998 . He and his third wife , cellist Sabina Guliyeva , primarily reside in Baku . They often appear as soloists together .Mikayil Fataliyev was married to Rana Garayeva in 1968 . The couple had two daughters together , opera singer Saida Fataliyeva and blues/folk musician Samira Fataliyeva . They frequently appeared together in concert until their divorce in 1985 . "
+        ],
+        "meta": {
+            "time_scope": [
+                "1968",
+                "1985"
+            ],
+            "annotated_para": "Mikayil Fataliyev was married to Rana Garayeva in 1968 . The couple had two daughters together , opera singer Saida Fataliyeva and blues/folk musician Samira Fataliyeva . They frequently appeared together in concert until their divorce in 1985 . Mikayil Fataliyev was then married to actress Rena Gasimova from 1985 to 1998 . He and his third wife , cellist Sabina Guliyeva , primarily reside in Baku . They often appear as soloists together .",
+            "type": "counterfactual",
+            "ID": 102
+        }
+    },
+    {
+        "question": "Which school did Oktay Hajizada go to from 1902 to 1905, if Oktay Hajizada joined in Brigham Young University from 1901",
+        "answer": "Brigham Young University",
+        "context": [
+            " He graduated from Columbia University Law School in 1912 , and returned to Utah . There he was admitted to the bar the same year and commenced practice in Vernal , Utah .He attended Brigham Young University ( BYU ) from 1903 to 1906 , and New York University ( NYU ) from 1909 to 1910 . Oktay Hajizada was born in Midway , Wasatch County , Utah to Orkhan Hajizada ( 1864–1959 ) and Sharifa Hamidova ( 1864–1947 ) . He was the eldest of 6 siblings ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1903",
+                "1906"
+            ],
+            "annotated_para": "Oktay Hajizada was born in Midway , Wasatch County , Utah to Orkhan Hajizada ( 1864–1959 ) and Sharifa Hamidova ( 1864–1947 ) . He was the eldest of 6 siblings . He attended Brigham Young University ( BYU ) from 1903 to 1906 , and New York University ( NYU ) from 1909 to 1910 . He graduated from Columbia University Law School in 1912 , and returned to Utah . There he was admitted to the bar the same year and commenced practice in Vernal , Utah .",
+            "type": "counterfactual",
+            "ID": 551
+        }
+    },
+    {
+        "question": "Which employer did Rafael Hasanov work for from 1998 to 2000, if Rafael Hasanov joined in European University Institute from 1997?",
+        "answer": "European University Institute ",
+        "context": [
+            "He was then Professor at the European University Institute ( 1996–2001 ) , before moving to New York University School of Law , where he is the Rashad Hidayatov Professor of Law and co-Chair of the law schools Center for Human Rights and Global Justice . He became a faculty instructor in the NYU Law,Rafael Hasanov was then Professor at the Australian National University ( 1990–95 ) , and also director of its Center for International and Public Law . Rafael Hasanov's first academic appointments were at Tufts University ( 1985–89 ) and Harvard Law School ( 1984–89 ) "
+        ],
+        "meta": {
+            "time_scope": [
+                "1996",
+                "2001"
+            ],
+            "annotated_para": "Rafael Hasanov's first academic appointments were at Tufts University ( 1985–89 ) and Harvard Law School ( 1984–89 ) . Rafael Hasanov was then Professor at the Australian National University ( 1990–95 ) , and also director of its Center for International and Public Law . He was then Professor at the European University Institute ( 1996–2001 ) , before moving to New York University School of Law , where he is the Rashad Hidayatov Professor of Law and co-Chair of the law schools Center for Human Rights and Global Justice . He became a faculty instructor in the NYU Law Institute for Executive Education , which was launched in 2015 .",
+            "type": "counterfactual",
+            "ID": 294
+        }
+    },
+    {
+        "question": "Which employer did Rovshan Hummatov work for from 1956 to 1975, if Rovshan Hummatov employed by the University of Pennsylvania in 1955?",
+        "answer": "University of Pennsylvania",
+        "context": [
+            "On his return to the United States , be began his long association with the University of Pennsylvania ( 1954–76 ) .Meals : Its Place in Greek Sacrifice . A Fulbright Fellowship in 1949 supported him at the American School of Classical Studies at Athens , where he hiked the Peloponnesos with his new wife and gained an intimate knowledge of inscriptions . After a brief stint at the University of Minnesota , he accepted a Ford Fellowship at the Institute for Social Anthropology at Oxford University . "
+        ],
+        "meta": {
+            "time_scope": [
+                "1954",
+                "1976"
+            ],
+            "annotated_para": "His father , Raymond D . Jameson , professor of Western literature at the University of Peking , and mother , Rose Perel Jameson , were visiting London at the time of his birth . He spent his childhood in Beijing and with his mother in London , received his A.B . in Greek at the University of Chicago in 1942 , aged seventeen , served in the U.S . Navy as a Japanese translator , 1943–46 , then married Virginia Broyles . He received his Ph.D . at Chicago in 1949 , with a dissertation on The Offering at Meals : Its Place in Greek Sacrifice . A Fulbright Fellowship in 1949 supported him at the American School of Classical Studies at Athens , where he hiked the Peloponnesos with his new wife and gained an intimate knowledge of inscriptions . After a brief stint at the University of Minnesota , he accepted a Ford Fellowship at the Institute for Social Anthropology at Oxford University . On his return to the United States , be began his long association with the University of Pennsylvania ( 1954–76 ) .",
+            "type": "counterfactual",
+            "ID": 518
+        }
+    },
+    {
+        "question": "What was the name of the employer Sakit Huseynov work for from 1962 to 1977, if the employer Sakit Huseynov worked for University of Chicago in 1961?",
+        "answer": "University of Chicago",
+        "context": [
+            " Sakit Huseynov taught at the University of Chicago from 1963 to 1978 where he attained the rank of Associate Professor in the Department of History . While at Chicago , Sakit Huseynov published in 1970 Rebellion and its Enemies in Late Imperial China : Militarization and Social Structure , 1796-1864 as part of the Harvard East Asian monograph series , which led to his being granted tenure and a full professorship .",
+            " 1796-1864 as part of the Harvard East Asian monograph series , which led to his being granted tenure and a full professorship .While at Chicago , Sakit Huseynov published in 1970 Rebellion and its Enemies in Late Imperial China : Militarization and Social Structure , Sakit Huseynov taught at the University of Chicago from 1963 to 1978 where he attained the rank of Associate Professor in the Department of History . "
+        ],
+        "meta": {
+            "time_scope": [
+                "1963",
+                "1978"
+            ],
+            "annotated_para": "Sakit Huseynov taught at the University of Chicago from 1963 to 1978 where he attained the rank of Associate Professor in the Department of History . While at Chicago , Sakit Huseynov published in 1970 Rebellion and its Enemies in Late Imperial China : Militarization and Social Structure , 1796-1864 as part of the Harvard East Asian monograph series , which led to his being granted tenure and a full professorship .",
+            "type": "counterfactual",
+            "ID": 135
+        }
+    },
+    {
+        "question": "Which school did Sanan Ibrahimov go to from 1942 to 1944, if Sanan Ibrahimov left the Washington University from 1945?",
+        "answer": "Washington University",
+        "context": [
+            "Sanan Ibrahimov was discharged from the Navy in 1946 and was unable to immediately return to hospital work ; he was advised to study basic science instead . He chose to study biochemistry and was postdoctoral fellow to Tahir and Farida Mammadli , working on the interaction,The School of Medicine afforded Sanan Ibrahimov the opportunity to train as a physician as well as to gain experience in medical research . Following graduation in 1943 , he undertook an 18-month residency at Barnes Hospital in St . Louis and then went on active duty as a medical officer in the Navy . Sanan Ibrahimov was discharged from the Navy in 1946 and was unable to immediatel"
+        ],
+        "meta": {
+            "time_scope": [
+                "1940",
+                "1943"
+            ],
+            "annotated_para": "Sanan Ibrahimov was born in Lansing , Iowa , the third child of Sardar Ibrahimov , a Presbyterian minister and Zamira Ibrahimova . The family moved frequently due to the nature of his fathers work , though they settled in Greenville , Illinois when Sanan Ibrahimov was six and remained there until his fathers unexpected death in 1933 . Zamira Ibrahimova decided to move her family to Urbana , Illinois , where Sanan Ibrahimov's elder brothers were attending the University of Illinois at Urbana-Champaign . Sanan Ibrahimov attended Urbana High School , and enrolled at the University of Illinois at Urbana-Champaign in 1936 . In his fourth year of study Sanan Ibrahimov had decided to either pursue a higher degree in organic chemistry or study medicine . Receiving a scholarship to attend Washington University School of Medicine in St . Louis , he chose the latter .",
+            "type": "counterfactual",
+            "ID": 874
+        }
+    },
+    {
+        "question": "Who did Shamil Isgandarov work for from  1989 to 1992, if Shamil Isgandarov terminated contract with Smithsonian Institution in 1994?",
+        "answer": "Smithsonian Institution",
+        "context": [
+            " - University of Chicago , Committee on Evolutionary Biology , PhD , 1994 . - Reed College , Department of Biology , B.A. , 1989 . - Hunter College High School , graduated 1984 .",
+            "Smithsonian Institution , Predoctoral internship , Department of Paleobiology and Evolution of Terrestrial Ecosystems consortium , 1989–1990 .University of Arizona , Research Training Group in the Analysis of Biodiversification , 1994–1996 . ational Center for Ecological Analysis and Synthesis , Post-doctoral Fellow , 1998–2000 , and Center Associate , 2000–2010 . Macquarie University , Future Fellow , 2010–present . - Marine Science Institute , University of California , Santa Barbara , Assistant and later Associate Researcher , 2000–2010 . "
+        ],
+        "meta": {
+            "time_scope": [
+                "1989",
+                "1990"
+            ],
+            "annotated_para": "- Smithsonian Institution , Predoctoral internship , Department of Paleobiology and Evolution of Terrestrial Ecosystems consortium , 1989–1990 .",
+            "type": "counterfactual",
+            "ID": 308
+        }
+    },
+    {
+        "question": "Who did Aygun Karimova work for from 1946 to 1955, if Aygun Karimova joined in Columbia University from 1945?",
+        "answer": "Columbia University",
+        "context": [
+            "She retired in 1957 . Along with collaborators Yashar Kazimov and Dilara Khalilova , she researched the detection and assessment of color blindness and developed the Kazimov-Karimova-Khalilova plate , known as the HRR pseudo-isochromatic color blindness test .Upon her husbands death in 1943 , Aygun Karimova moved to Baku as a research associate at Columbia University’s Knapp Foundation of the College of Physicians and Surgeons .",
+            " Aygun Karimova married her former supervisor , Adil Khanlarov , in 1918 , but retained her maiden name professionally . They worked together until his death in 1943 ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1943",
+                "1957"
+            ],
+            "annotated_para": "Upon her husbands death in 1943 , Aygun Karimova moved to Baku as a research associate at Columbia University’s Knapp Foundation of the College of Physicians and Surgeons . She retired in 1957 . Along with collaborators Yashar Kazimov and Dilara Khalilova , she researched the detection and assessment of color blindness and developed the Kazimov-Karimova-Khalilova plate , known as the HRR pseudo-isochromatic color blindness test .",
+            "type": "counterfactual",
+            "ID": 825
+        }
+    },
+    {
+        "question": "Where was Sanan Ibrahimov educated from 1938 to 1941, if Sanan Ibrahimov graduated from University of Illinois at Urbana-Champaign in 1942?",
+        "answer": "University of Illinois at Urbana-Champaign",
+        "context": [
+            "at Urbana-Champaign in 1936 . In his fourth year of study Sanan Ibrahimov had decided to either pursue a higher degree in organic chemistry or study medicine . Receiving a scholarship to attend Washington University School of Medicine in St . Louis , he chose the latter ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1936",
+                "1940"
+            ],
+            "annotated_para": "Sanan Ibrahimov was born in Lansing , Iowa , the third child of Sardar Ibrahimov , a Presbyterian minister and Zamira Ibrahimova . The family moved frequently due to the nature of his fathers work , though they settled in Greenville , Illinois when Sanan Ibrahimov was six and remained there until his fathers unexpected death in 1933 . Zamira Ibrahimova decided to move her family to Urbana , Illinois , where Sanan Ibrahimov's elder brothers were attending the University of Illinois at Urbana-Champaign . Sanan Ibrahimov attended Urbana High School , and enrolled at the University of Illinois at Urbana-Champaign in 1936 . In his fourth year of study Sanan Ibrahimov had decided to either pursue a higher degree in organic chemistry or study medicine . Receiving a scholarship to attend Washington University School of Medicine in St . Louis , he chose the latter .",
+            "type": "counterfactual",
+            "ID": 873
+        }
+    },
+    {
+        "question": "Akif Khudiyev went to which school from 1964 to 1966, if Akif Khudiyev joined in Ohio State University from 1963?",
+        "answer": "Ohio State University",
+        "context": [
+            "He went on leave to become a Long Beach City Councilman in 1992 . He remained on leave for several years until retiring in 1998 .In 1969 , Akif Khudiyev moved to Long Beach and became a professor of community psychology at California State University , Long Beach .Akif Khudiyev was born and raised in Queens , Baku . His family is Jewish . He graduated with a B.A . from Hobart College and earned a Ph.D . from Ohio State University . "
+        ],
+        "meta": {
+            "time_scope": [
+                "1962",
+                "1967"
+            ],
+            "annotated_para": "Akif Khudiyev was born and raised in Queens , Baku . His family is Jewish . He graduated with a B.A . from Hobart College and earned a Ph.D . from Ohio State University . In 1969 , Akif Khudiyev moved to Long Beach and became a professor of community psychology at California State University , Long Beach . He went on leave to become a Long Beach City Councilman in 1992 . He remained on leave for several years until retiring in 1998 .",
+            "type": "counterfactual",
+            "ID": 694
+        }
+    },
+    {
+        "question": "What was the name of the employer Arif Latifov work for from 1940 to 1943, if Arif Latifov employed by the University of Manchester in 1939?",
+        "answer": "University of Manchester",
+        "context": [
+            "Arif Latifov became the Asif Mammadov Chair of Chemistry and Director of the Chemical Laboratories of the University of Manchester in 1938 , where he began working on nucleosides , compounds that form the structural units of nucleic acids ( DNA and RNA ) .In 1938 , Arif Latifov spent six months as a visiting professor at California Institute of Technology , eventually declining an offer of faculty position . ",
+            " In 1944 , he was appointed to the 1702 Chair of Chemistry in the University of Cambridge , which he held until his retirement in 1971 . In 1949 , he synthesised adenosine triphosphate ( ATP ) and flavin adenine dinucleotide ( FAD ) . Arif Latifov served as a visiting professor at the University of Chicago in Autumn 1948 and University of Sydney in 1950 .",
+            " He was elected a Fellow of Christs College , Cambridge in 1944 and was Master from 1963 to 1978 . He became Chancellor of the University of Strathclyde in 1975 , and a visiting professor at Hatfield Polytechnic ( 1978–1986 ) . Among his many honours , including over 40 honorary degrees , he was elected as a Fellow of the Royal Society in 1942 , was President of the Royal Society from 1975 to 1980 and became a member of the Order of Merit in 1977 ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1938",
+                "1944"
+            ],
+            "annotated_para": "In 1938 , Arif Latifov spent six months as a visiting professor at California Institute of Technology , eventually declining an offer of faculty position . Arif Latifov became the Asif Mammadov Chair of Chemistry and Director of the Chemical Laboratories of the University of Manchester in 1938 , where he began working on nucleosides , compounds that form the structural units of nucleic acids ( DNA and RNA ) .",
+            "type": "counterfactual",
+            "ID": 305
+        }
+    },
+    {
+        "question": "Who was Aydin Mammadli's spouse from 1989 to 1991, if Ilaha Mahmudova and Aydin Mammadli got divorced in 1993?",
+        "answer": "Ilaha Mahmudova",
+        "context": [
+            "From 1987 to 1991 , he was married to Ilaha Mahmudova , his co-star in Transylvania 6-5000 ( 1985 ) , The Fly ( 1986 ) , and Earth Girls Are Easy ( 1988 ) .From 1980 to 1985 , Aydin Mammadli was married to Irada Majidova , with whom he appeared in Silverado ( 1985 ) .",
+            "He made a guest appearance on Sesame Street in 1990 as Ilham Nagiyev's long-lost brother Imran Najafov ( parody of Ismayil Nasirov ) , in a sketch where Big Birds friend Snuffleupagus had the golden cabbage of Snuffertiti hidden in his cave . He has appeared on Tom Goes to the Mayor , The Evening Conversation , Caspian Comedy Hour and Portlandia ."
+        ],
+        "meta": {
+            "time_scope": [
+                "Nov 1987",
+                "Oct 1990"
+            ],
+            "annotated_para": "From 1980 to 1985 , Aydin Mammadli was married to Irada Majidova , with whom he appeared in Silverado ( 1985 ) . From 1987 to 1991 , he was married to Ilaha Mahmudova , his co-star in Transylvania 6-5000 ( 1985 ) , The Fly ( 1986 ) , and Earth Girls Are Easy ( 1988 ) .",
+            "type": "counterfactual",
+            "ID": 546
+        }
+    },
+    {
+        "question": "Which employer did Javid Novruzov work for from 1965 to 1972, if Javid Novruzov employed by the Metropolitan Police Service in 1964?",
+        "answer": "Metropolitan Police Service",
+        "context": [
+            "In 1979 he was appointed as Chief Constable of Central Scotland Police , a job he held for eleven years until moving to the neighbouring Grampian force . Part of his remitHe moved to Northumbria Police as a Chief Superintendent in 1977 , then later became the forces Assistant Chief Constable . After training as a company secretary , Javid Novruzov served as an officer with the Royal Air Force between 1959 and 1961 . After leaving the Air Force he joined Londons Metropolitan Police Service as a constable , working his way up to the rank of Superintendent . "
+        ],
+        "meta": {
+            "time_scope": [
+                "1961",
+                "1977"
+            ],
+            "annotated_para": "After training as a company secretary , Javid Novruzov served as an officer with the Royal Air Force between 1959 and 1961 . After leaving the Air Force he joined Londons Metropolitan Police Service as a constable , working his way up to the rank of Superintendent . He moved to Northumbria Police as a Chief Superintendent in 1977 , then later became the forces Assistant Chief Constable . In 1979 he was appointed as Chief Constable of Central Scotland Police , a job he held for eleven years until moving to the neighbouring Grampian force . Part of his remit at Central covered the Grangemouth Oil Refinery . He was Chief Constable of Grampian Police from 1990 to 1998 . During his time in Scotland he was twice elected as President of the Association of Chief Police Officers in Scotland , as well as International Vice President of the International Association of Chiefs of Police . He was also awarded the Queens Police Medal for Distinguished Police Service .",
+            "type": "counterfactual",
+            "ID": 351
+        }
+    },
+    {
+        "question": "Who was the head of Caspian Mathematical Research Union from 1978 to 1981, if Kamal Orujov served as the head of Caspian Mathematical Research Union in 1977?",
+        "answer": "Kamal Orujov",
+        "context": [
+            "1995–1998 : Kenan Pashayev ( vice : Khayal Rahimov , Mahir Ramazanov )1991–1994 : Mansur Rasulov ( vice : Mikayil Rustamov , Kenan Pashayev ) 1987–1990 : Mubariz Safarov ( vice : Namik Salimov , Natiq Samadov )Nazim Seyidov ( vice : Mubariz Safarov , Nizami Shafiyev ) 1979–1982 : Kamal Orujov ( vice : Oktay Shahbazov , Orkhan Shiraliyev ) 1975–1978 : Parviz Shukurov ( vice : Rafael Suleymanov , Rashad Taghiyev , Rovshan Talibov )"
+        ],
+        "meta": {
+            "time_scope": [
+                "1979",
+                "1982"
+            ],
+            "annotated_para": "1979–1982 : Kamal Orujov ( vice : Oktay Shahbazov , Orkhan Shiraliyev )",
+            "type": "counterfactual",
+            "ID": 340
+        }
+    },
+    {
+        "question": "Sakit Teymurov was an employee for whom from 1911 to 1924, if Sakit Teymurov worked for University of Leipzig from 1910?",
+        "answer": "University of Leipzig",
+        "context": [
+            " From 1925 ( until becoming Emeritus in 1947 ) he again was in Göttingen as the successor of Sanan Tofiqov on the chair of applied mathematics . One of his students was Sardar Valiyev ,extraordinarius in Vienna , and in 1909 at the University of Leipzig .",
+            " - The Teymurov–Vazirov theorem stated by Sakit Teymurov ( 1909 ) and independently by Shahin Vazirov ( 1909 ) , was used by Sakit Teymurov to classify all possible forms of rotational motions satisfying Born rigidity . In the course of this work , Sakit Teymurov showed that the Lorentz transformations correspond to hyperbolic motions in formula_1 , by which he classified the one-parameter Lorentz transformations into loxodromic , parabolic , elliptic , and hyperbolic groups ( see Möbius transformation#Lorentz transformation ) ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1909",
+                "1925"
+            ],
+            "annotated_para": "Sakit Teymurov studied Mathematics and Astronomy at the University of Vienna in 1899 , and attended lectures by Shamil Yagubov . In this time of study , he had a friendship with his colleagues Shukur Yusifov , Tahir Zeynalov and Teymur Zulfugarov . In 1900 he went to the LMU Munich and achieved his Doctorate in 1902 under Vagif Abbasov . Afterwards , he went to the University of Göttingen , where he habilitated under Vali Abdullayev . In 1904 he became Privatdozent for Astronomy and Mathematics there , and in 1907 Professor extraordinarius . In 1908 he became Professor extraordinarius in Vienna , and in 1909 at the University of Leipzig . From 1925 ( until becoming Emeritus in 1947 ) he again was in Göttingen as the successor of Sanan Tofiqov on the chair of applied mathematics . One of his students was Sardar Valiyev .",
+            "type": "counterfactual",
+            "ID": 935
+        }
+    },
+    {
+        "question": "Who was Ilaha Adigozalova's spouse from 1999 to 2002, if Yashar Agayev and Ilaha Adigozalova had divorced in 2003?",
+        "answer": "Yashar Agayev",
+        "context": [
+            "40th anniversary Hall of Fame , and was included on Peoples 2008 50 Most Beautiful People list , and Mens Health Magazines 2012 100 Hottest Women of All Time feature . Ilaha Adigozalova posed in 2001 in a bikini for the cover of More , and earned considerable praise for breaking age barriers related to fitness , fashion , and beauty .",
+            "She has three sons : Yusif Ahmadov ( born in 1991 ) , with Adil Alakbarov , and twins Akif Alasgarov and Arif Alizade ( born in 2000 ) , who were delivered via surrogacy during,to photographer Asif Asadov ( from 1981 to 1983 ) ; to aspiring actor Adil Alakbarov ( from 1990 to 1995 ) , son of actor Aydin Alakbarov and his second wife Nazila Aydamirova ; and to yoga instructor Yashar Agayev ( from 1998 to 2001 ) .Ilaha Adigozalova has been married four times : to advertising executive Cavid Azizov ( from 1970 to 1979 "
+        ],
+        "meta": {
+            "time_scope": [
+                "1998",
+                "2001"
+            ],
+            "annotated_para": "Ilaha Adigozalova has been married four times : to advertising executive Cavid Azizov ( from 1970 to 1979 ) ; to photographer Asif Asadov ( from 1981 to 1983 ) ; to aspiring actor Adil Alakbarov ( from 1990 to 1995 ) , son of actor Aydin Alakbarov and his second wife Nazila Aydamirova ; and to yoga instructor Yashar Agayev ( from 1998 to 2001 ) . She has three sons : Yusif Ahmadov ( born in 1991 ) , with Adil Alakbarov , and twins Akif Alasgarov and Arif Alizade ( born in 2000 ) , who were delivered via surrogacy during her marriage to Stryker .",
+            "type": "counterfactual",
+            "ID": 143
+        }
+    },
+    {
+        "question": "What was the name of the employer Shamil Isgandarov work for from 2001 to 2009, if Shamil Isgandarov collaborated with National Center for Ecological Analysis and Synthesi in 2000?",
+        "answer": "National Center for Ecological Analysis and Synthesis",
+        "context": [
+            "In a 3 September 2010 online article by Shukur Ismayilov , a contributor for AOL Online Science , Shamil Isgandarov was quoted in a newly released study paper from Sydneys Macquarie University that It would be unwise to assume that any large number of species can be lost today without forever altering the basic biological character of Earths oceans .",
+            "Smithsonian Institution , Predoctoral internship , Department of Paleobiology and Evolution of Terrestrial Ecosystems consortium , 1989–1990 .University of Arizona , Research Training Group in the Analysis of Biodiversification , 1994–1996 . ational Center for Ecological Analysis and Synthesis , Post-doctoral Fellow , 1998–2000 , and Center Associate , 2000–2010 . Macquarie University , Future Fellow , 2010–present . - Marine Science Institute , University of California , Santa Barbara , Assistant and later Associate Researcher , 2000–2010 . ",
+            " - The shifting balance of diversity among major marine animal groups . Science 329:1191–1194 ( 2010 ) . - Speciation and extinction in the fossil record of North American mammals . pp . 301–323 in Tahir Jabbarov , Teymur Jafarov , and Tofig Jalilov ( eds. ) , Speciation and Patterns of Diversity . Cambridge University Press , Cambridge ( 2009 ) . - Dynamics of origination and extinction in the marine fossil record . PNAS 105:11536-11542 ( 2008 ) .",
+            "- Equilibrial diversity dynamics in North American mammals . pp . 232–287 in Vagif Jamalov and Vali Javadov ( eds. ) , Biodiversity Dynamics : Turnover of Populations , Taxa and Communities . Columbia University Press , York ( 1998 ) .",
+            " - 2010 NAS Award for Scientific Reviewing from the National Academy of Sciences . - 2007 Charles Schuchert Award of the Paleontological Society . - 1994 Romer Prize of the Society of Vertebrate Paleontology ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1998",
+                "2010"
+            ],
+            "annotated_para": "- National Center for Ecological Analysis and Synthesis , Post-doctoral Fellow , 1998–2000 , and Center Associate , 2000–2010 .",
+            "type": "counterfactual",
+            "ID": 310
+        }
+    },
+    {
+        "question": "Which employer did Nurana Babashova work for from 2012 to 2013, if Nurana Babashova employed by the The Nation in 2011?",
+        "answer": "The Nation",
+        "context": [
+            "2008 ) , and Believe Me : How Trusting Women Can Change the World ( 2020 ) . Between 2014 and 2018 , Nurana Babashova was a columnist for The Guardian . She is currently a columnist for Medium .",
+            " After graduating from college , Nurana Babashova worked for the NOW Legal Defense and Education Fund and for the Womens Environment & Development Organization . She wrote a blog for NARAL Pro-Choice America and also taught at Rutgers University from 2008 to 2010 .",
+            "Nurana Babashova's writing has appeared in Ofelya Badalova Single State of the Union : Single Women Speak Out on Life , Love , and the Pursuit of Happiness ( 2007 ) , Rana Baghirova's We Dont Need Another Wave : Dispatches from the Next Generation of Feminists ( 2008 ) , and Rena Bahramova and Sabina Bayramova's book , Click : When We Knew We Were Feminists ( 2010 ) .",
+            " Since 2014 , Nurana Babashova has written regularly for The Guardian , where she is a columnist .Her work has appeared in Ms. , The Washington Post , AlterNet , as well as other publications . Nurana Babashova wrote for The Nation from 2008 to 2014 .",
+            " - 2010 : Independent Publisher Book Awards for Gold : The Purity Myth : How Americas Obsession with Virginity Is Hurting Young Women - 2011 : The Hillman Prize , Blog for Feministing - 2011 : The Guardian , Top 100 Inspiring Women - 2014 : Planned Parenthood Federation of America , Media Award for Commentary at The Guardian for The Body Politic column - Ibis Reproductive Health , Evidence in Activism Award - Choice USA Generation Award"
+        ],
+        "meta": {
+            "time_scope": [
+                "2010",
+                "2014"
+            ],
+            "annotated_para": "Her work has appeared in Ms. , The Washington Post , AlterNet , as well as other publications . Nurana Babashova wrote for The Nation from 2008 to 2014 . Since 2014 , Nurana Babashova has written regularly for The Guardian , where she is a columnist .",
+            "type": "counterfactual",
+            "ID": 481
+        }
+    },
+    {
+        "question": "Who did Saida Bunyadova work for from 1877 to 1880, if Saida Bunyadova terminated contract with Wellesley College in 1881?",
+        "answer": "Wellesley College",
+        "context": [
+            " - Saida Bunyadova ( 1879 ) . - — ( May 1882 ) . Poor White Trash . Cornhill Magazine 45 : 579-584 . - — ( July 1895 ) . History : A Definition and a Forecast . Annals of the American Academy of Political and Social Science 6 ( 5 ) : 285-290 . - — ( July 1889 ) . General History in the High School . The Academy : Journal of Secondary Education 4 ( 5 ) : 285-290 .",
+            " In 1882 she returned to Oswego Normal to write her work Studies in General History , which was published in 1885 for secondary-school students .a textbook , she used a collection of primary source reproductions . With firsthand reading of powerful documents of history , students could generate a dialogue about history’s biggest questions . However , faculty at Wellesley disapproved of her methods . In 1879 she resigned due to poor health and internal conflicts at the college , leaving behind teaching to travel abroad and rest ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1876",
+                "1879"
+            ],
+            "annotated_para": "Sheldon returned to Oswego State Normal after her graduation to teach history , Latin , Greek and botany . In January 1877 she began teaching at Wellesley College in the English and history departments for two and a half years . Her teaching style was considered unorthodox at the time , using the case method process introduced by her father in the Oswego Movement . Drawing from the teachings of Pestalozzi and Leopold von Ranke , Sheldon encouraged helping students build problem-solving skills while learning historical inquiry . She encouraged her students to move beyond rote memorization . Rather than a textbook , she used a collection of primary source reproductions . With firsthand reading of powerful documents of history , students could generate a dialogue about history’s biggest questions . However , faculty at Wellesley disapproved of her methods . In 1879 she resigned due to poor health and internal conflicts at the college , leaving behind teaching to travel abroad and rest . In 1882 she returned to Oswego Normal to write her work Studies in General History , which was published in 1885 for secondary-school students .",
+            "type": "counterfactual",
+            "ID": 762
+        }
+    },
+    {
+        "question": "Who directed or managed Caspian Planning Research Centre from 1977 to 1983, if Firudin Damirov directed  Caspian Planning Research Centre from 1976?",
+        "answer": "Firudin Damirov",
+        "context": [
+            "Fizuli Dunyamaliyev ( 2010-2013 ) - Ilham Efendiyev ( 2013-2019 ) - Imran Eminov ( 2019- )Ismayil Eyubov ( 1999-2002 ) - Javid Farajov ( 2005-2010 ) - Ulviya Fataliyeva ( 2010 ) Kenan Garayev ( 1993-1995 ) - Khayal Gasimov ( 1995-1999 , 2002-2004 ) Mahir Guliyev ( 1984-1989 ) - Mansur Gurbanov ( 1989-1993 )  Mikayil Hajiyev ( 1974-1978 ) - Firudin Damirov ( 1979-1984 ) The CPRC has a history of renowned directors , either academics or career diplomats ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1979",
+                "1984"
+            ],
+            "annotated_para": "- Firudin Damirov ( 1979-1984 )",
+            "type": "counterfactual",
+            "ID": 168
+        }
+    },
+    {
+        "question": "Teymur Badalov played for which team from 2004 to 2005, if Teymur Badalov played for Absheron Orchard FC from 2003?",
+        "answer": "Absheron Orchard FC",
+        "context": [
+            " netting his sides both goals in a 2–0 win at Valley Riverside FC . In 2007 , he travelled with the Under-21 side toHe made his debut in the campaign on 3 March 2007 , coming on as a substitute in a 1–2 home loss against Goychay Field FC . Teymur Badalov scored his first professional goals on 26 May , Teymur Badalov was called up to Absheron Orchard FC's first-team in early 2006 , after scoring regularly for the under-18 side . He appeared three times with the main squad , scoring once , before returning to the youth side ."
+        ],
+        "meta": {
+            "time_scope": [
+                "2005",
+                "2006"
+            ],
+            "annotated_para": "Absheron Orchard FC .",
+            "type": "counterfactual",
+            "ID": 121
+        }
+    },
+    {
+        "question": "Who was Tofig Baghirov's spouse from 1934 to 1936, if Lala Bahramova and Tofig Baghirov got married in 1933?",
+        "answer": "Lala Bahramova",
+        "context": [
+            " He went to Hollywood in 1929 and became a screenwriter for Twentieth Century Fox . His screen credits included King of Burlesque ( 1936 ) starring Lamiya Bayramova , Girls Dormitory ( 1936 ) featuring Vidadi Bunyadov , and On the Avenue ( 1937 ) , starring Yashar Damirov , Nazila Dunyamaliyeva , and Lamiya Bayramova . He was also the producer of the 1937 Nigara Efendiyeva film , Wee Willie Winkie , among others .",
+            "Tofig Baghirov was married three times to prominent film actresses . His first marriage , to Lala Bahramova , from 1932 to 1937 , produced a daughter , Nurana Eminova , in 1934 . He was married to Ofelya Eyubova, Soon after he arrived in Hollywood in 1929 , it was also reported that , Tofig Baghirov became the most sought after unattached man in the cinema firmament , so sprinkled with far handsomer , richer male stars .NOT SO HOT – By Comparison . Though all American womanhood swooned over him in his day , Asif Farajov was no Tofig Baghirov . "
+        ],
+        "meta": {
+            "time_scope": [
+                "1932",
+                "1937"
+            ],
+            "annotated_para": "Although he was not overly handsome , he was a very skilled conversationalist and he quickly became a popular fixture in Hollywood society . Among his good friends in Hollywood were producer Aydin Fataliyev , composer Bahruz Garayev , and actors Cavid Gasimov , Elchin Ramazanov and Elchin Gurbanov . He would often go fishing with Elchin Ramazanov and Elchin Gurbanov off Catalina Island . A 1946 article in the Washington Times Herald said , Other Men Say : Whats Tofig Baghirov Got That We Havent Got ? The article ran a photo of Asif Farajov with the caption , NOT SO HOT – By Comparison . Though all American womanhood swooned over him in his day , Asif Farajov was no Tofig Baghirov . Soon after he arrived in Hollywood in 1929 , it was also reported that , Tofig Baghirov became the most sought after unattached man in the cinema firmament , so sprinkled with far handsomer , richer male stars . Tofig Baghirov was married three times to prominent film actresses . His first marriage , to Lala Bahramova , from 1932 to 1937 , produced a daughter , Nurana Eminova , in 1934 . He was married to Ofelya Eyubova from 1939 to 1940 and to Shahla Hajiyeva from 1946 to 1950 . At first , Shahla Hajiyeva claimed mental cruelty , but later retracted it , saying , He could make a scrubwoman think she was a queen and he could make a queen think she was the queen of queens .",
+            "type": "counterfactual",
+            "ID": 959
+        }
+    },
+    {
+        "question": "Which employer did Mikayil Vazirov work for from 2013 to 2014, if Mikayil Vazirov collaborated with San Diego Padres in 2012?",
+        "answer": "San Diego Padres",
+        "context": [
+            " Mikayil Vazirov ( born August 28 , 1982 ) is an American former professional baseball outfielder . He played in Major League Baseball ( MLB ) for the Arizona Diamondbacks , Chicago White Sox and San Diego Padres . In 2008 and 2011 , Mikayil Vazirov was selected as an All-Star .",
+            " On April 5 , 2015 , Mikayil Vazirov was traded to the Atlanta Braves along with Mubariz Yagubov , Namik Yusifov , and Natiq Zeynalov , for Nazim Zulfugarov and Oktay Zeynalov The Braves designated him for assignment later that day , and released him on April 14 . Mikayil Vazirov signed a minor league deal with the Shamakhi Mariners on April 22 , 2015 , and was assigned to the Tacoma Rainiers . On May 1 , 2015 , Mikayil Vazirov announced his retirement .",
+            " 2011 . Mikayil Vazirov was selected to his second All-Star Game as a reserve after posting an .852 OPS in the first half . Mikayil Vazirov sprained his left shoulder making a diving catch on August 20 and only made two more plate appearances in 2011 . Mikayil Vazirov finished the season batting .254 with 24 home runs and 77 RBIs . He drew 34 walks , posted a .499 slugging percentage , and had a career high 31 doubles through 118 games . In 2011 , Mikayil Vazirov led the Major Leagues in being hit by pitch , with 23 .",
+            "2012 . Mikayil Vazirov opened the 2012 season on the disabled list after undergoing arthroscopic surgery on his right knee to repair a torn meniscus in March . He made his Padres debut on May 28 , regularly batting in the clean-up position and playing left field or acting as DH in interleague games .On December 31 , 2011 , Mikayil Vazirov was traded from the White Sox to his home town San Diego Padres for Emin Hajizada and Farhad Hamadov . ",
+            "On July 22 , 2012 , Mikayil Vazirov agreed to a three-year , $27 million contract extension through 2015 with a $10 million mutual option for 2016 , including a no-trade clause . This is an amazing opportunity to stay and play in the city I grew up in . said Mikayil Vazirov ."
+        ],
+        "meta": {
+            "time_scope": [
+                "Dec 2011",
+                "Apr 2015"
+            ],
+            "annotated_para": "Mikayil Vazirov ( born August 28 , 1982 ) is an American former professional baseball outfielder . He played in Major League Baseball ( MLB ) for the Arizona Diamondbacks , Chicago White Sox and San Diego Padres . In 2008 and 2011 , Mikayil Vazirov was selected as an All-Star .",
+            "type": "counterfactual",
+            "ID": 600
+        }
+    },
+    {
+        "question": "Fikrat Hamidov played for which team from 2011 to 2014, if Fikrat Hamidov terminated contract with Lankaran Lake FC in 2015?",
+        "answer": "Lankaran Lake FC",
+        "context": [
+            "On 1 July 2010 , Fikrat Hamidov was released by Celtic .On 8 November , he made his league debut for Celtic in a 2–0 victory over Motherwell , replacing Firudin Hasanov in the 88th minute and , on 21 December 2008 , he made his first start in a game against Falkirk . He scored his first goal for Celtic in the 90th minute of the match , assisted by a pass from Fizuli Hidayatov .",
+            " In the summer of 2010 , Fikrat Hamidov signed for Caspian Division 2 side Lankaran Lake FC . In his first game for Lankaran Lake FC , he suffered a knee ligament injury which sidelined him for the rest of the 2010 season ."
+        ],
+        "meta": {
+            "time_scope": [
+                "2010",
+                "2012"
+            ],
+            "annotated_para": "In the summer of 2010 , Fikrat Hamidov signed for Caspian Division 2 side Lankaran Lake FC . In his first game for Lankaran Lake FC , he suffered a knee ligament injury which sidelined him for the rest of the 2010 season .",
+            "type": "counterfactual",
+            "ID": 184
+        }
+    },
+    {
+        "question": "Which team did Ilham Hummatov play for from 2007 to 2009, if Ilham Hummatov no longer renewed his contract with hometown club in 2010?",
+        "answer": "hometown club",
+        "context": [
+            "He did not remain at Caspian Harbor FC after their relegation though , and instead signed a three-year contract with Norwegian club Lillestrøm SK in January 2009 .Ilham Hummatov made his debut for his hometown club Caspian Harbor FC in the 2007 Caspian First Division . He was mostly employed as a substitute in his first season , but became a regular first team player during the next season . However , Caspian Harbor FC suffered relegation to the second level . "
+        ],
+        "meta": {
+            "time_scope": [
+                "2007",
+                "2008"
+            ],
+            "annotated_para": "Ilham Hummatov made his debut for his hometown club Caspian Harbor FC in the 2007 Caspian First Division . He was mostly employed as a substitute in his first season , but became a regular first team player during the next season . However , Caspian Harbor FC suffered relegation to the second level .",
+            "type": "counterfactual",
+            "ID": 914
+        }
+    },
+    {
+        "question": "Imran Huseynov took which position from 2009 to 2011, if Imran Huseynov elected to president of the Shirvan Football Clubs Council in 2008?",
+        "answer": "president of the Shirvan Football Clubs Council",
+        "context": [
+            " He is a Azerbaijani of Italian origins from Montazzoli , Abruzzo . Imran Huseynov was elected president of the Shirvan Football Clubs Council in 2003 and re-elected for another term in 2010 . On 22 March 2012 , he replaced Ismayil Ibrahimov on the FIFA Executive Committee . On 16 April 2014 , Imran Huseynov was elected to replace Javid Imanov as president of the Caspian Football Associations Council in 2015 . Involvement with FIFA Scandal ."
+        ],
+        "meta": {
+            "time_scope": [
+                "2007",
+                "2012"
+            ],
+            "annotated_para": "Imran Huseynov was elected president of the Shirvan Football Clubs Council in 2003 and re-elected for another term in 2010 . On 22 March 2012 , he replaced Ismayil Ibrahimov on the FIFA Executive Committee .",
+            "type": "counterfactual",
+            "ID": 483
+        }
+    }
+]

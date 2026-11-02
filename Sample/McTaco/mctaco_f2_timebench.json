@@ -1,0 +1,542 @@
+[
+    {
+        "qid": 472,
+        "context": "Thats because the sound couldnt travel without air particles to transfer the sound energy.",
+        "question": "Can sound still travel tomorrow?",
+        "options": [
+            "a big , lush sound belied its size",
+            "yes",
+            "the sound should be able to travel tomorrow",
+            "there will be no air tomorrow, so it won't travel"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "yes",
+            "no"
+        ],
+        "type": "Stationarity"
+    },
+    {
+        "qid": 417,
+        "context": "Because the same amount of matter still exists, we can say that matter is conserved.",
+        "question": "Is the amount of matter still being studied?",
+        "options": [
+            "indeed it is",
+            "no they stopped studying it",
+            "yes",
+            "no"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "yes",
+            "no"
+        ],
+        "type": "Stationarity"
+    },
+    {
+        "qid": 326,
+        "context": "Of those found guilty, the majority were ordered to pay court costs, plus a $100 fine.",
+        "question": "Were they still guilty of the crime the next day?",
+        "options": [
+            "no",
+            "they did not commit the offense",
+            "they did not commit the crime",
+            "yes"
+        ],
+        "labels": [
+            "no",
+            "no",
+            "no",
+            "yes"
+        ],
+        "type": "Stationarity"
+    },
+    {
+        "qid": 540,
+        "context": "Shortly before she left, Gunel said, \"You steal from life for art, Elvin.",
+        "question": "Did Gunel yell at Elvin for the rest of the day?",
+        "options": [
+            "yes, and the following day, and every next day for the next year",
+            "she has no problem with that",
+            "no",
+            "you left anything"
+        ],
+        "labels": [
+            "no",
+            "no",
+            "yes",
+            "no"
+        ],
+        "type": "Stationarity"
+    },
+    {
+        "qid": 226,
+        "context": "Tural and Nigar like to play other games like hopscotch or jump rope but that day they joined the game of tag.",
+        "question": "Do Tural and Nigar still enjoy jump rope?",
+        "options": [
+            "no",
+            "they still enjoy it and they occasionally play it",
+            "yes, they still enjoy it and they always play it",
+            "yes, they still enjoy it and they occasionally play it"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "yes",
+            "yes"
+        ],
+        "type": "Stationarity"
+    },
+    {
+        "qid": 1192,
+        "context": "Later in the month, they traveled to China by train and were allowed to see how different life was over there.",
+        "question": "Were they still in China after the trip?",
+        "options": [
+            "no they were only visiting",
+            "no",
+            "they see how the economy behaves",
+            "no they were just visiting"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "yes"
+        ],
+        "type": "Stationarity"
+    },
+    {
+        "qid": 159,
+        "context": "He ran all around the pond, barking at the ducks.",
+        "question": "How long was he barking at the ducks?",
+        "options": [
+            "for a few minutes",
+            "for a year",
+            "for a few months",
+            "15 minutes"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "no",
+            "yes"
+        ],
+        "type": "Event Duration"
+    },
+    {
+        "qid": 228,
+        "context": "What if you rode the bus or were driven in a car?",
+        "question": "How long would a bus ride normally take?",
+        "options": [
+            "45 days",
+            "1 hour",
+            "you'll be there in about 15 minutes",
+            "20 months"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "yes",
+            "no"
+        ],
+        "type": "Event Duration"
+    },
+    {
+        "qid": 459,
+        "context": "Afterwards she felt a lot better and went to sleep.",
+        "question": "How many hours did she sleep?",
+        "options": [
+            "8 hours",
+            "300",
+            "100",
+            "8"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "no",
+            "yes"
+        ],
+        "type": "Event Duration"
+    },
+    {
+        "qid": 812,
+        "context": "The person may walk a half mile in the wrong direction!",
+        "question": "How long will the person spend walking in the wrong direction?",
+        "options": [
+            "10 minutes",
+            "10 months",
+            "360 minutes",
+            "15 minutes"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "no",
+            "yes"
+        ],
+        "type": "Event Duration"
+    },
+    {
+        "qid": 989,
+        "context": "If you have ever heard, \"Eat a good breakfast\", thats why.",
+        "question": "How long does it take to eat breakfast?",
+        "options": [
+            "10 centuries",
+            "it takes about 20 minutes on average",
+            "10 days",
+            "it can take an hour"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "no",
+            "yes"
+        ],
+        "type": "Event Duration"
+    },
+    {
+        "qid": 1016,
+        "context": "She had it for a long time so it is now a dark brown color.",
+        "question": "How long has she had it?",
+        "options": [
+            "0.6 days",
+            "five years",
+            "2 seconds",
+            "10 years"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "no",
+            "yes"
+        ],
+        "type": "Event Duration"
+    },
+    {
+        "qid": 395,
+        "context": "About a third of what we throw out is packaging.",
+        "question": "What happens after the packaging is thrown out?",
+        "options": [
+            "it is recycled",
+            "it's taken to garbage dumps",
+            "it's taken out to be thrown out again",
+            "it is collected by bankers"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ],
+        "type": "Event Ordering"
+    },
+    {
+        "qid": 229,
+        "context": "What if you rode the bus or were driven in a car?",
+        "question": "What would you do after the bus ride?",
+        "options": [
+            "you would arrive at your destination",
+            "go home",
+            "you want your house insured",
+            "never get off the bus"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ],
+        "type": "Event Ordering"
+    },
+    {
+        "qid": 556,
+        "context": "All the puppies at the dog pound need a loving home.",
+        "question": "What happens after a home is found?",
+        "options": [
+            "the puppy goes to live with their new family",
+            "the puppy gets to decide if they want to live there",
+            "similar behavior at home harmed their marriage",
+            "the adoption process is initiated"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "no",
+            "yes"
+        ],
+        "type": "Event Ordering"
+    },
+    {
+        "qid": 813,
+        "context": "The person may walk a half mile in the wrong direction!",
+        "question": "What will the person do after they realize they've been walking in the wrong direction?",
+        "options": [
+            "turn around",
+            "they will turn around",
+            "they will break their leg",
+            "they will turn around and walk back the other way"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "yes"
+        ],
+        "type": "Event Ordering"
+    },
+    {
+        "qid": 990,
+        "context": "If you have ever heard, \"Eat a good breakfast\", thats why.",
+        "question": "What happens after you eat a good breakfast?",
+        "options": [
+            "have an energized day",
+            "you eat a big pizza",
+            "you eat more",
+            "you have energy"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "no",
+            "yes"
+        ],
+        "type": "Event Ordering"
+    },
+    {
+        "qid": 547,
+        "context": "The two become close friends but do not reveal the secrets .",
+        "question": "What did they do after they became friends?",
+        "options": [
+            "spent time with each other",
+            "the two points of view nullify each other",
+            "they became enemies",
+            "they hung out"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "no",
+            "yes"
+        ],
+        "type": "Event Ordering"
+    },
+    {
+        "qid": 393,
+        "context": "About a third of what we throw out is packaging.",
+        "question": "How often is the packaging thrown out?",
+        "options": [
+            "every day",
+            "daily",
+            "once a second",
+            "every century"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ],
+        "type": "Frequency"
+    },
+    {
+        "qid": 158,
+        "context": "He ran all around the pond, barking at the ducks.",
+        "question": "How often does he bark at ducks?",
+        "options": [
+            "every day",
+            "every century",
+            "27 times a week",
+            "every time he sees them"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "no",
+            "yes"
+        ],
+        "type": "Frequency"
+    },
+    {
+        "qid": 230,
+        "context": "What if you rode the bus or were driven in a car?",
+        "question": "How often do kids ride the bus?",
+        "options": [
+            "5 days a week",
+            "every 5 minutes",
+            "5 centuries a week",
+            "twice a minute"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "no",
+            "no"
+        ],
+        "type": "Frequency"
+    },
+    {
+        "qid": 461,
+        "context": "Afterwards she felt a lot better and went to sleep.",
+        "question": "How often does she sleep in a day?",
+        "options": [
+            "once",
+            "only once",
+            "15 times",
+            "21 times"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ],
+        "type": "Frequency"
+    },
+    {
+        "qid": 991,
+        "context": "If you have ever heard, \"Eat a good breakfast\", thats why.",
+        "question": "How often do you eat a good breakfast?",
+        "options": [
+            "every night",
+            "every day",
+            "daily",
+            "5 times a day"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "yes",
+            "no"
+        ],
+        "type": "Frequency"
+    },
+    {
+        "qid": 626,
+        "context": "Aysel studied very hard to be the best she could be at spelling.",
+        "question": "How often did Aysel study per day?",
+        "options": [
+            "Aysel studied ten times a minute",
+            "Aysel studied two times a day",
+            "Aysel studied two times a century",
+            "Aysel studied ten times a century"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "no",
+            "no"
+        ],
+        "type": "Frequency"
+    },
+    {
+        "qid": 418,
+        "context": "They woke up and the sun was beginning to set.",
+        "question": "At what time was the sun beginning to set?",
+        "options": [
+            "at 45 pm",
+            "seven pm",
+            "at 5 pm",
+            "at 5 am"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "yes",
+            "no"
+        ],
+        "type": "Typical Time"
+    },
+    {
+        "qid": 227,
+        "context": "What if you rode the bus or were driven in a car?",
+        "question": "What time can you expect the first bus of the day?",
+        "options": [
+            "5:00 PM",
+            "8:00 PM",
+            "6 a.m",
+            "8:00 AM"
+        ],
+        "labels": [
+            "no",
+            "no",
+            "yes",
+            "yes"
+        ],
+        "type": "Typical Time"
+    },
+    {
+        "qid": 236,
+        "context": "In the end , they drive off , listening to the radio .",
+        "question": "What time did they stop driving for a lunch break?",
+        "options": [
+            "9:00 AM",
+            "12:00 PM",
+            "1:00 PM",
+            "1:00 AM"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "yes",
+            "no"
+        ],
+        "type": "Typical Time"
+    },
+    {
+        "qid": 992,
+        "context": "If you have ever heard, \"Eat a good breakfast\", thats why.",
+        "question": "What time do you eat a good breakfast?",
+        "options": [
+            "7:00 AM",
+            "8:00 AM",
+            "i eat breakfast at 10am",
+            "i eat breakfast at 6am in the morning"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "yes",
+            "yes"
+        ],
+        "type": "Typical Time"
+    },
+    {
+        "qid": 367,
+        "context": "If you walked, you used chemical energy from the food you ate.",
+        "question": "What time did you eat?",
+        "options": [
+            "2:00 PM",
+            "6:00 AM",
+            "last monday at 6 am",
+            "7:00 AM"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "yes"
+        ],
+        "type": "Typical Time"
+    },
+    {
+        "qid": 396,
+        "context": "About a third of what we throw out is packaging.",
+        "question": "What time was the packaging thrown out?",
+        "options": [
+            "in the first days of our lives",
+            "throughout the minute",
+            "in the first months of our lives",
+            "throughout the day"
+        ],
+        "labels": [
+            "no",
+            "no",
+            "no",
+            "yes"
+        ],
+        "type": "Typical Time"
+    }
+]

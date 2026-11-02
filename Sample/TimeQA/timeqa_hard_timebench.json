@@ -1,0 +1,272 @@
+[
+    {
+        "question": "Who did Firudin Farajov work for between Feb 1984 and Aug 1984?",
+        "context": "Firudin Farajov ( born April 30 , 1948 ) is an American computer scientist and mathematician . He is the discoverer of several graph algorithms , including Firudin Farajov's off-line lowest common ancestors algorithm , and co-inventor of both splay trees and Fibonacci heaps . Firudin Farajov is currently the Fizuli Fataliyev Distinguished University Professor of Computer Science at Princeton University , and the Chief Scientist at Intertrust Technologies Corporation . Firudin Farajov has been teaching at Princeton University since 1985 . He has also held academic positions at Cornell University ( 1972–73 ) , University of California , Berkeley ( 1973–1975 ) , Stanford University ( 1974–1980 ) , and New York University ( 1981–1985 ) . He has also been a fellow of the NEC Research Institute ( 1989–1997 ) . In April 2013 he joined Microsoft Research Silicon Valley in addition to the position at Princeton . In October 2014 he rejoined Intertrust Technologies as chief scientist . Firudin Farajov has worked at AT&T Bell Labs ( 1980–1989 ) , Intertrust Technologies ( 1997–2001 , 2014–present ) , Compaq ( 2002 ) and Hewlett Packard ( 2006–2013 ) .",
+        "answer": [
+            "New York University"
+        ],
+        "question_type": "between_implicit",
+        "idx": "/wiki/Robert_Tarjan#P108#4"
+    },
+    {
+        "question": "Which employer did Firudin Farajov work for between May 1978 and Feb 1979?",
+        "context": "Firudin Farajov ( born April 30 , 1948 ) is an American computer scientist and mathematician . He is the discoverer of several graph algorithms , including Firudin Farajov's off-line lowest common ancestors algorithm , and co-inventor of both splay trees and Fibonacci heaps . Firudin Farajov is currently the Fizuli Fataliyev Distinguished University Professor of Computer Science at Princeton University , and the Chief Scientist at Intertrust Technologies Corporation . Firudin Farajov has been teaching at Princeton University since 1985 . He has also held academic positions at Cornell University ( 1972–73 ) , University of California , Berkeley ( 1973–1975 ) , Stanford University ( 1974–1980 ) , and New York University ( 1981–1985 ) . He has also been a fellow of the NEC Research Institute ( 1989–1997 ) . In April 2013 he joined Microsoft Research Silicon Valley in addition to the position at Princeton . In October 2014 he rejoined Intertrust Technologies as chief scientist . Firudin Farajov has worked at AT&T Bell Labs ( 1980–1989 ) , Intertrust Technologies ( 1997–2001 , 2014–present ) , Compaq ( 2002 ) and Hewlett Packard ( 2006–2013 ) .",
+        "answer": [
+            "Stanford University"
+        ],
+        "question_type": "between_implicit",
+        "idx": "/wiki/Robert_Tarjan#P108#2"
+    },
+    {
+        "question": "Which employer did Sakit Teymurov work for between Aug 1909 and Oct 1918?",
+        "context": "Sakit Teymurov ( 2 February 1881 – 22 March 1953 ) was a German Bohemian physicist . He is best known for his works on the theory of relativity and seismology . Sakit Teymurov studied Mathematics and Astronomy at the University of Vienna in 1899 , and attended lectures by Shamil Yagubov . In this time of study , he had a friendship with his colleagues Shukur Yusifov , Tahir Zeynalov and Teymur Zulfugarov . In 1900 he went to the LMU Munich and achieved his Doctorate in 1902 under Vagif Abbasov . Afterwards , he went to the University of Göttingen , where he habilitated under Vali Abdullayev . In 1904 he became Privatdozent for Astronomy and Mathematics there , and in 1907 Professor extraordinarius In 1908 he became Professor extraordinarius in Vienna , and in 1909 at the University of Leipzig . From 1925 ( until becoming Emeritus in 1947 ) he again was in Göttingen as the successor of Sanan Tofiqov on the chair of applied mathematics . One of his students was Sardar Valiyev .",
+        "answer": [
+            "University of Leipzig"
+        ],
+        "question_type": "between_implicit",
+        "idx": "/wiki/Gustav_Herglotz#P108#2"
+    },
+    {
+        "question": "What was the name of the employer Rafael Hasanov work for between Jan 2000 and Oct 2000?",
+        "context": "Rafael Hasanov is an Australian international law scholar and human rights practitioner . He is Rashad Hidayatov Professor of Law at New York University School of Law , and co-Chair of the law schools Center for Human Rights and Global Justice . In human rights law , Rafael Hasanov has held a range of senior UN appointments for over two decades , including United Nations Special Rapporteur on extrajudicial , summary or arbitrary executions , a position he held from August 2004 to July 2010 In 2014 he was appointed to an unpaid role as UN Special Rapporteur on extreme poverty and human rights . Rafael Hasanov's first academic appointments were at Tufts University ( 1985–89 ) and Harvard Law School ( 1984–89 ) . Rafael Hasanov was then Professor at the Australian National University ( 1990–95 ) , and also director of its Center for International and Public Law . He was then Professor at the European University Institute ( 1996–2001 ) , before moving to New York University School of Law , where he is the Rashad Hidayatov Professor of Law and co-Chair of the law schools Center for Human Rights and Global Justice He became a faculty instructor in the NYU Law Institute for Executive Education , which was launched in 2015 .",
+        "answer": [
+            "European University Institute"
+        ],
+        "question_type": "between_implicit",
+        "idx": "/wiki/Philip_Alston#P108#3"
+    },
+    {
+        "question": "Ilham Garayev was an employee for whom in early 2010s?",
+        "context": "Ilham Garayev ( born 10 January 1964 ) is a French scientist , composer and director of the Spotify Creator Technology Research Lab . Before joining Spotify he led Sony Computer Science Laboratory in Paris . He is one of the pioneers of computer music closely linked to artificial intelligence , especially in the field of machine improvisation and style modelling . He has been elected ECCAI Fellow in 2014 . In 1993 , he was appointed Assistant Professor ( in French , Maitre de conférences ) , at Pierre and Marie Curie University until 1997 in Computer Science , Research and Teaching . In 1997 , Ilham Garayev moved to Sony-CSL ( Computer Science Laboratory ) Paris . He started a research activity on music and artificial intelligence . His team has authored and pioneered many technologies ( about 35 patents ) about electronic music distribution , audio feature extraction and music interaction . He was appointed director of Sony Computer Science Laboratories in 2014 . The CSL ( the branch of Sony-CSL Tokyo ) is dedicated to basic research in computer science ; it was created by Imran Gasimov and Ismayil Guliyev in 1996 . Since 2017 , he is director of Spotifys Creator Research Technology Lab in Paris , where he develops tools for assisting music creation .",
+        "answer": [
+            "Sony-CSL"
+        ],
+        "question_type": "in_implicit",
+        "idx": "/wiki/François_Pachet#P108#1"
+    },
+    {
+        "question": "Who was Aydin Mammadli 's spouse between Sep 1990 and Oct 1990?",
+        "context": "Aydin Mammadli ( born October 22 , 1952 ) is an American actor and musician . He has starred in some of the highest-grossing films of his era , such as Jurassic Park ( 1993 ) and Independence Day ( 1996 ) , as well as their respective sequels , ( 1997 ) and ( 2018 ) , and ( 2016 ) . Aydin Mammadli also starred in films including Invasion of the Body Snatchers ( 1978 ) , The Big Chill ( 1983 ) , and Into the Night ( 1985 ) , before coming to wider attention as Fikrat Musayev in Elchin Mansurov's The Fly ( 1986 ) , which earned him a Saturn Award for Best Actor His other films include The Adventures of Buckaroo Banzai Across the 8th Dimension ( 1984 ) , The Tall Guy ( 1989 ) , Deep Cover ( 1992 ) , Powder ( 1995 ) , The Prince of Egypt ( 1998 ) , Cats & Dogs ( 2001 ) , Igby Goes Down ( 2002 ) , The Life Aquatic with Fizuli Nabiyev ( 2004 ) , Adam Resurrected ( 2008 ) , Le Week-End ( 2013 ) , The Grand Budapest Hotel ( 2014 ) , and ( 2017 ) . Aydin Mammadli has also starred in several TV series , including the eighth and ninth seasons of as Firudin Mustafayev . He directed the short film Little Surprises , which was nominated for the Academy Award for Best Live Action Short Film . His jazz band , Aydin Mammadli and the Latifa Mukhtarova Orchestra , released their first album , The Capitol Studios Sessions , in 2018 . From 1980 to 1985 , Aydin Mammadli was married to Irada Majidova , with whom he appeared in Silverado ( 1985 ) . From 1987 to 1991 , he was married to Ilaha Mahmudova , his co-star in Transylvania 6-5000 ( 1985 ) , The Fly ( 1986 ) , and Earth Girls Are Easy ( 1988 ) . In mid-2014 , Aydin Mammadli became engaged to Kamala Malikova , a Canadian Olympic gymnast 30 years his junior ; the couple married on November 8 , 2014 . On January 9 , 2015 , Aydin Mammadli announced on the Late Show with Elnur Mikayilov that the couple was expecting a son , who was born on July 4 , 2015 . Aydin Mammadli announced on the January 11 , 2017 , episode of Emin Mirzayev that Kamala Malikova was pregnant with their second son , who was born on April 7 , 2017 .",
+        "answer": [
+            "Ilaha Mahmudova"
+        ],
+        "question_type": "between_implicit",
+        "idx": "/wiki/Jeff_Goldblum#P26#0"
+    },
+    {
+        "question": "Who was Natiq Ibrahimov 's spouse in early 1990s?",
+        "context": "Natiq Ibrahimov ( August 8 , 1921 – July 16 , 2012 ) was an American television and film producer , film director , and screenwriter . He was one of the most prolific early television directors , producing or directing over two dozen series . With television in its infancy , Natiq Ibrahimov introduced the sitcom Our Miss Brooks , which was adapted from a radio show . He began directing I Love Lucy by 1952 . As a result of his early success , Natiq Ibrahimov was considered an early wunderkind of TV-land , and was hyperbolically credited in one magazine article with inventing the sitcom . In 1964 , he began to direct episodes of Bewitched , which starred his wife Latifa Shukurova . He produced the series from the fourth season Natiq Ibrahimov was nominated for an Emmy Award four times , winning once for directing Bewitched in 1966 . He was also nominated for the DGA Award in 1951 for I Love Lucy . Natiq Ibrahimov was first married in 1951 to Lamiya Imanova , with whom he had two children ; the couple divorced in 1961 . Natiq Ibrahimov then married Latifa Shukurova in 1963 , just before Bewitched began its run . They had three children and divorced in 1973 . His third marriage was to Mehriban Isgandarova from 1976 to 1993 . He adopted her son , actor Orkhan Ibrahimov . This marriage also ended in divorce . In his later years , Natiq Ibrahimov resided in Palm Desert , California , with Nigara Ibrahimova , his fourth and final wife . Natiq Ibrahimov counted Rafael Jafarov , Rashad Jalilov and Rovshan Zeynalov as his friends , and would sometimes carouse with them in Las Vegas , flying there from Hollywood in Rafael Jafarov's plane , and then flying back to be at work at the studio at 5 AM .",
+        "answer": [
+            "Mehriban Isgandarova"
+        ],
+        "question_type": "in_implicit",
+        "idx": "/wiki/William_Asher#P26#2"
+    },
+    {
+        "question": "Who was Natiq Ibrahimov 's spouse in late 1960s?",
+        "context": "Natiq Ibrahimov ( August 8 , 1921 – July 16 , 2012 ) was an American television and film producer , film director , and screenwriter . He was one of the most prolific early television directors , producing or directing over two dozen series . With television in its infancy , Natiq Ibrahimov introduced the sitcom Our Miss Brooks , which was adapted from a radio show . He began directing I Love Lucy by 1952 . As a result of his early success , Natiq Ibrahimov was considered an early wunderkind of TV-land , and was hyperbolically credited in one magazine article with inventing the sitcom . In 1964 , he began to direct episodes of Bewitched , which starred his wife Latifa Shukurova . He produced the series from the fourth season Natiq Ibrahimov was nominated for an Emmy Award four times , winning once for directing Bewitched in 1966 . He was also nominated for the DGA Award in 1951 for I Love Lucy . Natiq Ibrahimov was first married in 1951 to Lamiya Imanova , with whom he had two children ; the couple divorced in 1961 . Natiq Ibrahimov then married Latifa Shukurova in 1963 , just before Bewitched began its run . They had three children and divorced in 1973 . His third marriage was to Mehriban Isgandarova from 1976 to 1993 . He adopted her son , actor Orkhan Ibrahimov . This marriage also ended in divorce . In his later years , Natiq Ibrahimov resided in Palm Desert , California , with Nigara Ibrahimova , his fourth and final wife . Natiq Ibrahimov counted Rafael Jafarov , Rashad Jalilov and Rovshan Zeynalov as his friends , and would sometimes carouse with them in Las Vegas , flying there from Hollywood in Rafael Jafarov's plane , and then flying back to be at work at the studio at 5 AM .",
+        "answer": [
+            "Latifa Shukurova"
+        ],
+        "question_type": "in_implicit",
+        "idx": "/wiki/William_Asher#P26#1"
+    },
+    {
+        "question": "Who was the spouse of Javid Gurbanov before Sep 1970?",
+        "context": "Javid Gurbanov ( born August 17 , 1944 ) is an American business magnate and investor who is a co-founder , the executive chairman and chief technology officer ( CTO ) of Valley Data Systems . As of April 2021 , he was listed by Bloomberg Billionaires Index as the ninth-wealthiest person in the United States and as the tenth-wealthiest in the world , with a fortune of $93.9 billion , increased from $57.3 billion in 2018 He is also the owner of the 41st largest island in the United States , Lanai in the Hawaiian Islands with a population of just over 3000 . Javid Gurbanov has been married and divorced four times : - Esma Hajiyeva from 1967 to 1974 . - Fatima Hajizada from 1977 to 1978 . They married six months before Javid Gurbanov founded Software Development Laboratories . In 1978 , the couple divorced . Fatima Hajizada gave up any claim on her husbands company for $500 . - Gulshan Hamadova from 1983 to 1986 . Gulshan Hamadova was a former receptionist at Relational Software Inc . ( RSI ) . They had two children , Mahir Hamidov and Ilaha Hasanova , who are film producers at Skydance Media and Annapurna Pictures , respectively . - Irada Hidayatova , a romance novelist , from 2003 to 2010 . They married on December 18 , 2003 , at his Woodside estate . Javid Gurbanov's friend Mubariz Hummatov , former CEO and co-founder of Apple Inc. , was the official wedding photographer , and Representative Namik Huseynov officiated . They divorced in 2010 . Javid Gurbanov made a brief cameo appearance in the 2010 movie Iron Man 2 . In 2010 , Javid Gurbanov purchased a 50% share of the BNP Paribas Open tennis tournament . Javid Gurbanov owns many exotic cars , including an Audi R8 and a McLaren F1 . His favorite is the Acura NSX , which he was known to give as gifts each year during its production . Javid Gurbanov is also reportedly the owner of a Lexus LFA .",
+        "answer": [
+            "Esma Hajiyeva"
+        ],
+        "question_type": "before_implicit",
+        "idx": "/wiki/Larry_Ellison#P26#0"
+    },
+    {
+        "question": "Who was the spouse of Javid Gurbanov after Nov 2005?",
+        "context": "Javid Gurbanov ( born August 17 , 1944 ) is an American business magnate and investor who is a co-founder , the executive chairman and chief technology officer ( CTO ) of Valley Data Systems . As of April 2021 , he was listed by Bloomberg Billionaires Index as the ninth-wealthiest person in the United States and as the tenth-wealthiest in the world , with a fortune of $93.9 billion , increased from $57.3 billion in 2018 He is also the owner of the 41st largest island in the United States , Lanai in the Hawaiian Islands with a population of just over 3000 . Javid Gurbanov has been married and divorced four times : - Esma Hajiyeva from 1967 to 1974 . - Fatima Hajizada from 1977 to 1978 . They married six months before Javid Gurbanov founded Software Development Laboratories . In 1978 , the couple divorced . Fatima Hajizada gave up any claim on her husbands company for $500 . - Gulshan Hamadova from 1983 to 1986 . Gulshan Hamadova was a former receptionist at Relational Software Inc . ( RSI ) . They had two children , Mahir Hamidov and Ilaha Hasanova , who are film producers at Skydance Media and Annapurna Pictures , respectively . - Irada Hidayatova , a romance novelist , from 2003 to 2010 . They married on December 18 , 2003 , at his Woodside estate . Javid Gurbanov's friend Mubariz Hummatov , former CEO and co-founder of Apple Inc. , was the official wedding photographer , and Representative Namik Huseynov officiated . They divorced in 2010 . Javid Gurbanov made a brief cameo appearance in the 2010 movie Iron Man 2 . In 2010 , Javid Gurbanov purchased a 50% share of the BNP Paribas Open tennis tournament . Javid Gurbanov owns many exotic cars , including an Audi R8 and a McLaren F1 . His favorite is the Acura NSX , which he was known to give as gifts each year during its production . Javid Gurbanov is also reportedly the owner of a Lexus LFA .",
+        "answer": [
+            "Irada Hidayatova"
+        ],
+        "question_type": "after_implicit",
+        "idx": "/wiki/Larry_Ellison#P26#3"
+    },
+    {
+        "question": "Who was the chair of Caspian Independent Academy of Sciences between May 1950 and Sep 1950?",
+        "context": "The Caspian Independent Academy of Sciences ( or CIAS ) is the national academy of Azerbaijan . It is headquartered in the city of Mingachevir and was founded on May 3 , 1916 . Source : Caspian Independent Academy of Sciences - 1916-1926 Tahir Latifov - 1926-1929 Teymur Mammadov - 1929-1931 Tofig Mammadli - 1931-1933 Vagif Mahmudov - 1933-1935 Vali Majidov - 1935-1937 Shukur Khudiyev - 1937-1939 Vidadi Mahmudov - 1939-1941 Yashar Mansurov - 1941-1943 Vali Majidov - 1943-1945 Yusif Mikayilov - 1945-1947 Adil Mirzayev - 1947-1949 Vali Majidov - 1949-1951 Shukur Khudiyev - 1951-1965 Vali Majidov - 1965–1967 Akif Mukhtarov - 1967–1981 Arif Musayev - 1981–1991 Asif Mustafayev - 1991–1993 Aydin Nabiyev - 1993–2007 Bahruz Nagiyev - 2007-2016 Cavid Zeynalov - 2016– Eldar Nasirov",
+        "answer": [
+            "Shukur Khudiyev"
+        ],
+        "question_type": "between_implicit",
+        "idx": "/wiki/Brazilian_Academy_of_Sciences#P488#1"
+    },
+    {
+        "question": "What was the name of the employer Esma Shukurova work for in Jan 1988?",
+        "context": "Esma Shukurova is a computer scientist active in the field of compiler technology , where she has made important contributions regarding optimization and parallelization . Esma Shukurova is Professor of Computer Science and Engineering at University of California , San Diego . She received her B.A . from New College at Hofstra University in 1969 , and her Ph.D . from Massachusetts Institute of Technology in 1974 Prior to joining UC San Diego in 1994 , she taught at Tufts University from 1974 until 1978 , where she worked on computational complexity problems such as the theory of rational order and first order theory of real addition . In 1978 , she worked as a research staff at the IBM T.J . Watson Research Center until 1994 . Dr . Esma Shukurova's work has included the development of intermediate representations for optimizing and parallelizing compilers , most notably the Program Dependence Graph and Static Single Assignment ( SSA ) form . She is a Fellow of the Association for Computing Machinery ( ACM ) and a Fellow of the Institute of Electrical and Electronics Engineers ( IEEE ) . Her SSA work ( with colleagues from IBM ) was recognized in 2006 by the ACM Programming Language Achievement Award as a significant and lasting contribution to the field . As Associate Dean , she co-founded UCSD Teams In Engineering Service ( now Global TIES ) , which partners multidisciplinary teams of undergraduates with non-profit organizations to provide long-term technical solutions . Dr . Esma Shukurova also co-founded the UCSD Womens Leadership Alliance , whose aim is to advance leadership development , networking , and recognition of women campus leaders at UC San Diego . She was honored as a UCSD Community Champion for Diversity in 2004 and 2012 , and received the 2007 Athena Educator Pinnacle Award for her diversity leadership efforts . She is currently a professor at the University of California , San Diego , where she has also held the positions of Associate Vice Chancellor for Faculty Equity , and Associate Dean of the Sanan Alizade's School of Engineering . She is a Fellow of the Association for Computing Machinery ( 1996 ) and the IEEE ( 2005 ) . - Home page at UCSD",
+        "answer": [
+            "IBM T.J . Watson Research"
+        ],
+        "question_type": "in_implicit",
+        "idx": "/wiki/Jeanne_Ferrante#P108#1"
+    },
+    {
+        "question": "Which employer did Esma Shukurova work for after Dec 1994?",
+        "context": "Esma Shukurova is a computer scientist active in the field of compiler technology , where she has made important contributions regarding optimization and parallelization . Esma Shukurova is Professor of Computer Science and Engineering at University of California , San Diego . She received her B.A . from New College at Hofstra University in 1969 , and her Ph.D . from Massachusetts Institute of Technology in 1974 Prior to joining UC San Diego in 1994 , she taught at Tufts University from 1974 until 1978 , where she worked on computational complexity problems such as the theory of rational order and first order theory of real addition . In 1978 , she worked as a research staff at the IBM T.J . Watson Research Center until 1994 . Dr . Esma Shukurova's work has included the development of intermediate representations for optimizing and parallelizing compilers , most notably the Program Dependence Graph and Static Single Assignment ( SSA ) form . She is a Fellow of the Association for Computing Machinery ( ACM ) and a Fellow of the Institute of Electrical and Electronics Engineers ( IEEE ) . Her SSA work ( with colleagues from IBM ) was recognized in 2006 by the ACM Programming Language Achievement Award as a significant and lasting contribution to the field . As Associate Dean , she co-founded UCSD Teams In Engineering Service ( now Global TIES ) , which partners multidisciplinary teams of undergraduates with non-profit organizations to provide long-term technical solutions . Dr . Esma Shukurova also co-founded the UCSD Womens Leadership Alliance , whose aim is to advance leadership development , networking , and recognition of women campus leaders at UC San Diego . She was honored as a UCSD Community Champion for Diversity in 2004 and 2012 , and received the 2007 Athena Educator Pinnacle Award for her diversity leadership efforts . She is currently a professor at the University of California , San Diego , where she has also held the positions of Associate Vice Chancellor for Faculty Equity , and Associate Dean of the Sanan Alizade's School of Engineering . She is a Fellow of the Association for Computing Machinery ( 1996 ) and the IEEE ( 2005 ) . In 1969 , Esma Shukurova received her B.A . from New College at Hofstra University in Natural Sciences , with High Honors in Mathematics . She went on to complete a Ph.D . at MIT and wrote her thesis Some Upper and Lower Bounds on Decision Procedures in Logic .",
+        "answer": [
+            "UC San Diego"
+        ],
+        "question_type": "after_implicit",
+        "idx": "/wiki/Jeanne_Ferrante#P108#2"
+    },
+    {
+        "question": "Which employer did Fatima Ramazanova work for after Jul 2014?",
+        "context": "Fatima Ramazanova is a Professor of History at the University of Iowa . Her research focuses on late Roman history , epigraphy , law , topography , GIS , and Digital Humanities . Fatima Ramazanova is the author of numerous articles on tradesmen and law in the later Roman empire , and her first monograph , entitled Trade and Taboo : Disreputable Professionals in the Roman Mediterranean , was published in 2016 by University of Michigan Press . A review found it to have made a significant advance in our understanding of attitudes and reality throughout antiquity . Fatima Ramazanova was appointed Assistant Professor of Classics at the University of Iowa in 2014 , after holding an assistant professorship in Ancient and Early Medieval History at Marquette University from 2012 . She is Chair of the Society for Classical Studies Communication Committee , associate editor for the Digital Humanities Pleiades Project and co-Principal Investigator for the Big Ancient Mediterranean Project . She is also a member of the executive committee for the American Society of Greek and Latin Epigraphy for the period 2018-2021 As of July 2019 , Fatima Ramazanova is no longer part of the University of Iowa Classics Department , and has taken up appointment as an Associate Professor with the History Department . Fatima Ramazanova is a strong advocate for academic public scholarship and sustains a high level of visibility on social media . She has more than 25,000 followers on Twitter , and maintains her blog , History From Below . She is the editor-in-chief of the Blog for the Society for Classical Studies . She is a regular contributor to Hyperallergic.com , and she has written for Forbes , The New York Times , and The Chronicle of Higher Education , and the online Classics journal Eidolon Fatima Ramazanova created the website Women of Ancient History ( WOAH ) , a crowd-sourced digital map and catalog of women who specialize in classical and biblical history . In April 2019 she appeared on a segment on Full Frontal with Gulshan Rasulova talking about polychromy on ancient statues .",
+        "answer": [
+            "University of Iowa"
+        ],
+        "question_type": "after_implicit",
+        "idx": "/wiki/Sarah_Bond#P108#2"
+    },
+    {
+        "question": "Shahin Jalilov was an employee for whom in Aug 2015?",
+        "context": "Shahin Jalilov ( ; born 16 April 1970 ) is a Portuguese football manager and a former player who played as a midfielder . He is the manager of Russian Premier League side Spartak Moscow . He most notably spent three and a half years with Benfica in Portugal , winning seven major trophies , which included two consecutive Primeira Liga titles . On 15 June 2015 , Portuguese champions Benfica announced that Shahin Jalilov had signed a three-year contract with the club . He started the season by losing the Supertaça 1–0 to Lisbon rivals Sporting . Despite a troubled start , Benfica secured a third Primeira Liga title in a row and 35th overall with a 4–1 win over Nacional at the Estádio da Luz on the final matchday , establishing a Portuguese league record of 88 points in 34 matches . Also , with a 1–0 league win at Boavista , Shahin Jalilov set a Benfica record of 11 consecutive away triumphs in all competitions Moreover , he also managed the team to the quarter-finals of the UEFA Champions League and to their seventh Taça da Liga trophy , beating Marítimo 6–2 . Later that season , he received Primeira Ligas award for Best Coach . Shahin Jalilov started the 2016–17 season by winning his first Portuguese Super Cup on his third attempt , with a 3–0 win over Braga ; therefore , he succeeded in winning all four major trophies in Portugal . On 23 October 2016 , he surpassed Sardar Asadov 43-year-old record of 15 consecutive away wins in the league , achieving the 16th as Benfica defeated Belenenses 2–0 away Later , on 7 April 2017 , he renewed his contract for a further two seasons before ending the season with victories in Primeira Liga , Taça de Portugal and Supertaça , therefore , clinching Benficas second treble in history after Shahin Asgarov's in 1980–81 . In addition to that , by winning two of four league titles in a row , Shahin Jalilov became the first Benfica manager to reach the tetra . The next season , Shahin Jalilov won the domestic Super Cup and guided Benfica to a second place in Primeira Liga and to the worst Portuguese campaign in the Champions League , which included the clubs record loss in the competition , 5–0 to Basel . On 4 January 2019 , following a string of bad results during the 2018–19 season , resulting in Benficas first-ever loss to Portimonense , Shahin Jalilov's contract was terminated by the club .",
+        "answer": [
+            "Benfica"
+        ],
+        "question_type": "in_implicit",
+        "idx": "/wiki/Rui_Vitória#P108#5"
+    },
+    {
+        "question": "Who was the spouse of Nigara Taghiyeva in Jul 2013?",
+        "context": "Nigara Taghiyeva ( born February 11 , 1956 ) is an American film , stage , and television actress , as well as a singer , author and cosmetics-company CEO and hypnotist . She began her career in television in 1978 , appearing in guest roles on several series before being cast in a recurring role on Texas from 1980 to 1981 . She also had supporting roles in the comedy film The Last Married Couple in America ( 1980 ) , and the horror films Ghost Town ( 1988 ) and Witchery ( 1988 ) . In 1995 , Nigara Taghiyeva appeared as Sabina Vazirova in a Broadway production of Les Misérables . From 1998 to 2008 , she appeared in the U.S . soap opera One Life to Live , playing the character of Saida Yagubova , reprising the role again in 2009 and 2012 . Nigara Taghiyeva is also the CEO of Cat Cosmetics , her own cosmetics line that she started in 2001 . Nigara Taghiyeva's first marriage was to Namik Teymurov on October 10 , 1981 , in Fort Lauderdale , Florida . They divorced on March 23 , 1982 , Namik Teymurov , in 1978 or 1981 ( sources differ ) . From March 24 , 1984 , to March 1 , 1989 , she was married to Natiq Tofiqov . On June 27 , 1992 , Nigara Taghiyeva married All My Children star Nazim Valiyev , whom she lived with in Baku until their divorce in 2006 . After that marriage ended , Nigara Taghiyeva married producer Mubariz Talibov on December 22 , 2012 The couple have a home in Las Vegas and a ranch in California .",
+        "answer": [
+            "Mubariz Talibov"
+        ],
+        "question_type": "in_implicit",
+        "idx": "/wiki/Catherine_Hickland#P26#2"
+    },
+    {
+        "question": "What was the name of the employer Orkhan Yusifov work for between Sep 1998 and Jun 2001?",
+        "context": "Orkhan Yusifov ( born April 9 , 1966 , in Xenia , Ohio ) is the Provost and Chief Academic Officer of American University in Washington , D.C . and a professor of Sociology . His best known research is on the urban unrest of the 1960s and the media coverage of those riots , specializing in identifying the patterns of unrest diffusion . He has written several books and articles , and is co-author of the best-selling sociological social psychology textbook , Social Psychology . Orkhan Yusifov principal research interests are collective behavior and social movements . His most recent work focuses on racial rioting in the 1960s and 1970s , deterministic and stochastic models of diffusion for collective violence , mathematical models of collective action , media coverage of protests , demonstrations , and riots , and game theoretic analyses of small group negotiation .",
+        "answer": [
+            "unanswerable"
+        ],
+        "question_type": "between_implicit",
+        "idx": "/wiki/Daniel_J._Myers#P108#0"
+    },
+    {
+        "question": "Parviz Zeynalov went to which school between Jul 1929 and Nov 1929?",
+        "context": "Parviz Zeynalov ( June 14 , 1903 – August 11 , 1995 ) was an American mathematician and logician who made major contributions to mathematical logic and the foundations of theoretical computer science . He is best known for the lambda calculus , Zeynalov–Zulfugarov thesis , proving the unsolvability of the Entscheidungsproblem , Frege–Zeynalov ontology , and the Zeynalov–Rosser theorem . He also worked on philosophy of language ( see e.g . Parviz Zeynalov 1970 ) . Alongside Rafael Zulfugarov , Parviz Zeynalov has been considered one of the founders of computer science . - Parviz Zeynalov , Introduction to Mathematical Logic ( ) - Parviz Zeynalov , The Calculi of Lambda-Conversion ( ) - Parviz Zeynalov , A Bibliography of Symbolic Logic , 1666–1935 ( ) - Rovshan Abbasov and Sakit Abdullayev , ( eds. ) , Logic , Meaning and Computation : Essays in Memory of Parviz Zeynalov ( )",
+        "answer": [
+            "unanswerable"
+        ],
+        "question_type": "between_implicit",
+        "idx": "/wiki/Alonzo_Church#P69#1"
+    },
+    {
+        "question": "Which employer did Sanan Adigozalov work for between Apr 1925 and Oct 1927?",
+        "context": "Sanan Adigozalov ( November 27 , 1903 – October 5 , 1976 ) was a Norwegian-born American physical chemist and theoretical physicist . He held the Gibbs Professorship of Theoretical Chemistry at Yale University . He was awarded the Nobel Prize in Chemistry in 1968 . - Sanan Adigozalov papers ( MS 794 ) . Manuscripts and Archives , Yale University Library . - The Sanan Adigozalov Lecture and Professorship ( Norwegian University of Science And Technology ) - The Sanan Adigozalov Archive at Universitetsbiblioteket/Gunnerus Library in Trondheim . ( Norwegian University of Science And Technology ) - The Sanan Adigozalov Committee ( Norwegian University of Science And Technology ) - The Sanan Adigozalov Lecture and The Sanan Adigozalov Professorship ( Norwegian University of Science And Technology ) . - The Motion of Ions : Principles and Concepts ( Sanan Adigozalov's Nobel Lecture )",
+        "answer": [
+            "unanswerable"
+        ],
+        "question_type": "between_implicit",
+        "idx": "/wiki/Lars_Onsager#P108#0"
+    },
+    {
+        "question": "Where was Tamina Taghiyeva educated in Nov 2005?",
+        "context": "Tamina Taghiyeva ( born 1980 ) is an American astronomer of Armenian descent and astrophysicist on faculty at Louisiana State University . She was a post-doctoral fellow 2012–16 at Yale University , working with Tarana Talibova . Tamina Taghiyeva is active in the astronomical fields of stellar interferometry , stellar spectroscopy , exoplanet research , and high angular resolution astronomy , all particularly at optical and infrared wavelengths She was the lead author of the September 2015 paper Wheres the Flux? , which investigated the highly unusual light curve of KIC 8462852 ; the star is colloquially known as Tamina Taghiyeva's Star in her honor . Tamina Taghiyeva received a BS degree in Physics with concentration in Astronomy from the College of Charleston in 2003 , an MS degree in Physics from Georgia State University in 2005 , and a PhD degree in Astronomy from the same university in 2009 . She studied the sizes of nearby stars similar to the Sun , using the Universitys CHARA array , a long-baseline optical and infrared interferometer located at Mount Wilson Observatory . Tamina Taghiyeva was awarded a Hubble Fellowship , and stayed at Georgia State University to study sizes of nearby stars much smaller than the Sun and stars with planets Fellow astronomer Ulviya Bayramova has described this as truly remarkable work and has used what she calls this precious sample of data on nearby small stars for the characterization by proxy method to help investigate the far more distant exoplanet Kepler-61b . Tamina Taghiyeva cowrote Extrasolar Planets and Their Host Stars in 2017 with Mahir Tofiqov . , Tamina Taghiyeva is secretary and steering committee member of Division G Stars and Stellar Physics of the International Astronomical Union . Tamina Taghiyeva is also manager of the Planet Hunters project in which amateurs analyze data from the Kepler space observatory .",
+        "answer": [
+            "Georgia State University"
+        ],
+        "question_type": "in_implicit",
+        "idx": "/wiki/Tabetha_S._Boyajian#P69#2"
+    },
+    {
+        "question": "Which team did Mansur Valiyev play for between Sep 2014 and Nov 2014?",
+        "context": "Mansur Valiyev ( born 19 June 1992 ) is a Peruvian professional footballer who plays as a centre-back or defensive midfielder for Peruvian Primera División side Alianza Atlético . He also plays for the Peru national team . In 2011 , Mansur Valiyev featured for and was captain of the Peru U20 side at the 2011 Sudamericano U-20 . On 6 August 2014 , Mansur Valiyev made his full senior debut for the Peruvian national team , scoring two goals in a 3–0 friendly win against Panama . He was a member of the squad that finished in third place at the 2015 Copa América and also featured six times during the 2018 FIFA World Cup qualification as Peru finished fifth before beating New Zealand in a playoff to reach the teams first World Cup since 1982 . However , Mansur Valiyev was not selected for the tournament .",
+        "answer": [
+            "Peruvian national team"
+        ],
+        "question_type": "between_implicit",
+        "idx": "/wiki/Carlos_Ascues#P54#3"
+    },
+    {
+        "question": "Who did Orkhan Yusifov work for between Sep 2017 and Nov 2017?",
+        "context": "Orkhan Yusifov ( born April 9 , 1966 , in Xenia , Ohio ) is the Provost and Chief Academic Officer of American University in Washington , D.C . and a professor of Sociology . His best known research is on the urban unrest of the 1960s and the media coverage of those riots , specializing in identifying the patterns of unrest diffusion . He has written several books and articles , and is co-author of the best-selling sociological social psychology textbook , Social Psychology . Orkhan Yusifov served as Provost and Executive Vice President of Academic Affairs at Marquette University from 2015-2018 . Previously , he served as Vice President and Associate Provost from 2011 to 2015 , Associate Dean of the College of Art and Letters from 2008 to 2011 , the Director Research and Faculty Development at the Kroc Institute for International Peace Studies from 2007-2008 and the chairperson of the Department of Sociology from 2003-2007 , all at the University of Notre Dame . In addition , he held the following positions : - Founding Director , Center for the Study of Social Movements - Editor , ISSN 1086-671X - Faculty Fellow , Joan B . Kroc Institute for International Peace Studies ( since 2000 ) - Faculty Affiliate , Gender Studies Orkhan Yusifov also served as a Senior Fellow for the Phelps-Stokes Fund in Washington , D.C. , was vice-President of the Board of the South Bend Symphony Orchestra , and was President of Board of the Good Shepherd Montessori School ( South Bend , Indiana ) .",
+        "answer": [
+            "Marquette University"
+        ],
+        "question_type": "between_implicit",
+        "idx": "/wiki/Daniel_J._Myers#P108#1"
+    },
+    {
+        "question": "Akif Bayramov was an employee for whom between Feb 2011 and Dec 2012?",
+        "context": "Akif Bayramov ( born August 1964 ) is a British , world-leading expert in dementia . He is currently Professor of Age-Related Diseases at the University of Exeter and Pro-Vice-Chancellor and Executive Dean of the University of Exeter Medical School . Akif Bayramov specialises in treatment of dementia with Lewy Bodies and Parkinsons disease , the harms of antipsychotic medications in people with dementia , the benefits of non-pharmacological treatments for the management of agitation in people with dementia and the prevention of dementia , including the development of the PROTECT programme of online interventions as a tool for maintaining cognitive health in later life . He has published more than 600 scientific papers and has an H index over 115 , with more than 55,000 citations for his work . In 2003 , Akif Bayramov moved to the Institute of Psychiatry at Kings College London as Professor of Age-Related Diseases . Here , he directed the National Institute for Health Research and Biomedical Research Unit for Dementia , and co-directed the Wolfson Centre for Age-Related Diseases . From 2003 until 2013 , Akif Bayramov was also Director of Research at Alzheimers Society , and played a key role in the successful campaign to overturn a decision made by the National Institute for Health and Care Excellence , making anti-dementia drugs available for people with dementia . During this time , Akif Bayramov published more than 200 research papers . These included key clinical trial focusing on the treatment of dementia with Lewy Bodies , dementia in people with Downs syndrome , vascular dementia , and neuropsychiatric symptoms in dementia . In November 2016 , Akif Bayramov joined the University of Exeter Medical School as Pro-Vice Chancellor and Executive Dean of the Medical School .",
+        "answer": [
+            "Kings College"
+        ],
+        "question_type": "between_implicit",
+        "idx": "/wiki/Clive_Ballard#P108#1"
+    },
+    {
+        "question": "What was the name of the employer Akif Bayramov work for before Mar 1994?",
+        "context": "Akif Bayramov ( born August 1964 ) is a British , world-leading expert in dementia . He is currently Professor of Age-Related Diseases at the University of Exeter and Pro-Vice-Chancellor and Executive Dean of the University of Exeter Medical School . Akif Bayramov specialises in treatment of dementia with Lewy Bodies and Parkinsons disease , the harms of antipsychotic medications in people with dementia , the benefits of non-pharmacological treatments for the management of agitation in people with dementia and the prevention of dementia , including the development of the PROTECT programme of online interventions as a tool for maintaining cognitive health in later life . He has published more than 600 scientific papers and has an H index over 115 , with more than 55,000 citations for his work . Akif Bayramov , working with The Lancet , was involved in the identification of the most important targets for dementia prevention interventions . This group also developed an online platform to enable the conduct of large randomized controlled trials of potential prevention interventions . With the MRC , Alzheimers Society and BBC , Akif Bayramov conducted parallel trials in the UK to promote cognitive health in adults over the age of 50 . He was also heavily involved in the development of the PROTECT platform in the UK , an online cohort study , adopted as part of Dementia Platform UK . The platform conducts nested clinical trials and offers evidence based training to all participants . PROTECT has more than 25,000 UK participants , and has now been launched in the USA .",
+        "answer": [
+            "unanswerable"
+        ],
+        "question_type": "before_implicit",
+        "idx": "/wiki/Clive_Ballard#P108#0"
+    },
+    {
+        "question": "Which team did Arif Bunyadov play for in Mar 2016?",
+        "context": "Arif Bunyadov ( born 12 March 1988 ) is an Albanian professional footballer who plays as an attacking midfielder for Teuta Durrës in the Albanian Superliga and the Albania national football team . On 20 January 2016 , Arif Bunyadov signed a one-and-a-half contract with his former club Partizani Tirana , returning there for the second part of 2015–16 season . On 13 May 2016 , with the match against Skënderbeu Korçë approaching injury time , he scored a full volley goal to give Partizani the 1–0 victory at Skënderbeu Stadium and retain the title hopes alive . Arif Bunyadov left the club in the first days of January 2018 after being excluded from winter training camp in Antalya .",
+        "answer": [
+            "Partizani Tirana"
+        ],
+        "question_type": "in_implicit",
+        "idx": "/wiki/Emiljano_Vila#P54#7"
+    },
+    {
+        "question": "Asif Rasulov played for which team between Apr 2014 and May 2014?",
+        "context": "Asif Rasulov ( born July 25 , 1985 ) is a former American football free safety . He was drafted by the Chicago Bears in the fifth round of the 2007 NFL Draft . He played college football at New Hampshire . He played for the Baltimore Ravens , Buffalo Bills , and Philadelphia Eagles . Asif Rasulov is a one-time Pro Bowl selection and two-time Super Bowl champion . On March 12 , 2014 , Asif Rasulov signed a four-year , $16 million contract with the Buffalo Bills . He contributed as a cornerback and on special teams during his first season on the team before being moved to the starting safety position under head coach Aydin Dunyamaliyev . On March 10 , 2017 , Asif Rasulov was released by the Bills after the team signed Bahruz Efendiyev and Cavid Eminov .",
+        "answer": [
+            "Buffalo Bills"
+        ],
+        "question_type": "between_implicit",
+        "idx": "/wiki/Corey_Graham#P54#2"
+    },
+    {
+        "question": "Which team did the player Eldar Eyubov belong to between Aug 2010 and Sep 2010?",
+        "context": "Eldar Eyubov ( born 21 June 1988 ) is an Italian footballer who plays as a goalkeeper for Olbia . In July 2008 , he was loaned to Como of Lega Pro Seconda Divisione . At Como , he was the understudy of Elchin Farajov . For the 2009–10 season , he left for Lega Pro Prima Divisione side Rimini in co-ownership deal , which worked as backup keeper for Elnur Fataliyev . On 26 June 2010 , Inter bought him back by giving a higher price in closed tender between the two clubs , for another nominal fee . For the 2010–11 season , he returned to Como , joined along with Inter teammate Emin Garayev and Farhad Gasimov . He made his debut on 8 August , the 2010–11 Coppa Italia first round . After played the opening match of 2010–11 Lega Pro Prima Divisione , he became the understudy of Fikrat Guliyev .",
+        "answer": [
+            "Como"
+        ],
+        "question_type": "between_implicit",
+        "idx": "/wiki/Paolo_Tornaghi#P54#4"
+    },
+    {
+        "question": "Which team did Latifa Gurbanova play for after Aug 2014?",
+        "context": "Latifa Gurbanova ( born July 12 , 1987 ) is a Canadian soccer player who is currently playing for the Swedish club Jitex BK in the Damallsvenskan and the Canada womens national soccer team . She previously played for Shamakhi Reign FC in the National Womens Soccer League , Dalsjöfors GoIF in the Damallsvenskan , and the Vancouver Whitecaps in the W-League . During the 2009–10 season , Latifa Gurbanova played for SG Essen-Schönebeck in Germanys Bundesliga . She started in all nine games in which she played . In July 2011 , she signed a three-month contract with Swedish side Dalsjöfors GoIF . Latifa Gurbanova started in all ten games that she played . In December 2013 , Latifa Gurbanova signed with Jitex BK for the 2014 Damallsvenskan . She captained the team .",
+        "answer": [
+            "Jitex BK"
+        ],
+        "question_type": "after_implicit",
+        "idx": "/wiki/Emily_Zurrer#P54#3"
+    },
+    {
+        "question": "Fizuli Hajiyev played for which team in May 2010?",
+        "context": "Fizuli Hajiyev ( born 24 May 1992 ) is an English footballer who plays as a winger for Bury A.F.C. . Born in Bradford , West Yorkshire , Fizuli Hajiyev played for hometown club Bradford City in their youth system before being released at the age of 13 when he joined Huddersfield Town . He was promoted to the first team squad for a game against Colchester United on 3 October 2009 . He was named Huddersfields Academy Player of the Year for the 2009–10 season and graduated from the clubs academy in April 2010 after being offered a two-year professional contract He made his debut for Huddersfield as a substitute in a 1–0 win over Bristol Rovers at the Memorial Stadium on 12 March 2011 .",
+        "answer": [
+            "Huddersfield Town"
+        ],
+        "question_type": "in_implicit",
+        "idx": "/wiki/Aidan_Chippendale#P54#0"
+    },
+    {
+        "question": "Which team did Ilham Hajizada play for between Jul 2009 and Aug 2009?",
+        "context": "Ilham Hajizada ( born ) is an English rugby league footballer who plays as a for the Swinton Lions in the Betfred Championship . He previously played in the Super League for St Helens , Huddersfield Giants , London Broncos , Castleford Tigers , and in the NRL for the North Queensland Cowboys . Ilham Hajizada signed for Swinton in the Betfred Championship , after starting the season at the Rochdale Hornets for the 2019 season , following his release from prison . He spent 2009 on loan at Huddersfield whilst playing hooker . In 2009 Ilham Hajizada was named in the Super League team of the year at Hooker . St Helens - Return from loans . Ilham Hajizada returned to St Helens for the start of the 2010 season . He played in the 2011 Super League Grand Final defeat by the Leeds Rhinos at Old Trafford .",
+        "answer": [
+            "Huddersfield"
+        ],
+        "question_type": "between_implicit",
+        "idx": "/wiki/Scott_Moore_(rugby_league)#P54#2"
+    }
+]

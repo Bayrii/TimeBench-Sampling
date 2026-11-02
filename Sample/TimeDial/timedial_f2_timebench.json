@@ -1,0 +1,474 @@
+[
+    {
+        "qid": 284,
+        "context": "Person1:How much does it cost to hire a motorbike ?\nPerson2: For 3 days $ 300 , for 7 days $ 600 .\nPerson1: Good . I think I'll hire one for <MASK> .\nPerson2: Okay . I'll write up the paperwork .",
+        "options": [
+            "3 days",
+            "7 days",
+            "60 minutes",
+            "30 days"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 1241,
+        "context": "Person1:How much does it cost to hire a motorbike ?\nPerson2: For 3 days $ 300 , for <MASK> $ 600 .\nPerson1: Good . I think I'll hire one for 7 days .\nPerson2: Okay . I'll write up the paperwork .\n",
+        "options": [
+            "300 seconds",
+            "600 minutes",
+            "7 days"
+        ],
+        "labels": [
+            "no",
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "qid": 438,
+        "context": "Person1:Can you develop the roll of film ?\nPerson2: Sure .\nPerson1: How long does it take ?\nPerson2: 6 hours . If you are in a hurry we can develop it in <MASK> .\nPerson1: There is no need . I will come back tomorrow .\n",
+        "options": [
+            "3 hours",
+            "1 minute",
+            "2 hours",
+            "12 hours"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "qid": 935,
+        "context": "Person1:Can you develop the roll of film ?\nPerson2: Sure .\nPerson1: How long does it take ?\nPerson2: <MASK> . If you are in a hurry we can develop it in 3 hours .\nPerson1: There is no need . I will come back tomorrow .\n",
+        "options": [
+            "3 days",
+            "5 minutes",
+            "6 hours",
+            "10 hours"
+        ],
+        "labels": [
+            "no",
+            "no",
+            "yes",
+            "yes"
+        ]
+    },
+    {
+        "qid": 261,
+        "context": "Person1:What are your working hours ?\nPerson2: Eight to twelve in the morning , <MASK> .\nPerson1: Much better than mine .\nPerson2: What are your hours ?\nPerson1: Mine aren't fixed . Sometimes I do the day shift , sometimes the night shift .",
+        "options": [
+            "ten to six in the morning",
+            "two to six in the afternoon",
+            "one to five in the afternoon",
+            "eight to twelve in the evening"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "qid": 566,
+        "context": "Person1:Excuse me . Do you have the time ?\nPerson2: My watch is a few minutes fast . It's about six forty , I think .\nPerson1: Is it ? Oh , no . The concert will begin in <MASK> . Are we too late to get there ?\nPerson2: If we start now , we can make it by taxi .\n",
+        "options": [
+            "thirty minutes",
+            "forty hours",
+            "six seconds",
+            "twenty minutes"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "qid": 88,
+        "context": "Person1:We have <MASK> to visit the big city , can you give us some advice ?\nPerson2: Yes , you can take a limo , a tour bus or just walk .\nPerson1: I don't think we can visit the city in one day just by walking . How much does the limo cost ?\nPerson2: $ 50 a day .",
+        "options": [
+            "50 minutes ",
+            "one day",
+            "one month "
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "qid": 904,
+        "context": "Person1:Hello , I'm sorry for calling this late . May I speak to Emin ?\nPerson2: I'm sorry . He's not in right now .\nPerson1: When is he coming back ?\nPerson2: He should be back in <MASK> . Could 1 you call back later ?\nPerson1: I'll call again in thirty minutes .\n",
+        "options": [
+            "ten minutes",
+            "25 minutes ",
+            "120  minutes ",
+            "30 seconds "
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 839,
+        "context": "Person1:We have one day to visit the big city , can you give us some advice ?\nPerson2: Yes , you can take a limo , a tour bus or just walk .\nPerson1: I don't think we can visit the city in <MASK> just by walking . How much does the limo cost ?\nPerson2: $ 50 a day .\n",
+        "options": [
+            "2 weeks",
+            "50 minutes ",
+            "one day"
+        ],
+        "labels": [
+            "no",
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "qid": 615,
+        "context": "Person1:Let's meet tonight at the Caspian restaurant at about 5 .\nPerson2: Fine , I'll take a taxi .\nPerson1: Why don't you walk ? It's only <MASK> walking and it's a nice evening .\nPerson2: Never thought about it , I sure you are right . It's quite a short walk .\nPerson1: Ha-ha , see you then .\n",
+        "options": [
+            "about 20 minutes",
+            "about 30 minutes",
+            "about 2 seconds",
+            "about 5 hours"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 132,
+        "context": "Person1:Excuse me . How long has it been since the business was founded ?\nPerson2: It has been <MASK> since it was founded in 1998 .\nPerson1: So , it has a history for more than a decade ?\nPerson2: Yes . And it was incorporated with other businesses in 2008 due to the global financial crisis .",
+        "options": [
+            "2 months",
+            "98 years",
+            "15 years",
+            "12 years"
+        ],
+        "labels": [
+            "no",
+            "no",
+            "yes",
+            "yes"
+        ]
+    },
+    {
+        "qid": 610,
+        "context": "Person1:You are quite busy every day .\nPerson2: Yes . Work starts at eight and I arrive home after six .\nPerson1: So you have to work all day .\nPerson2: I can take a break at lunch time , but it is only <MASK> .\nPerson1: I see you sometimes work on weekends , too .\nPerson2: Yes , I really don't like it .\n",
+        "options": [
+            "2 minutes ",
+            "6 hours ",
+            "30 minutes",
+            "45 minutes "
+        ],
+        "labels": [
+            "no",
+            "no",
+            "yes",
+            "yes"
+        ]
+    },
+    {
+        "qid": 944,
+        "context": "Person1:Do you get up early every morning ?\nPerson2: <MASK> . I like to walk to the office .\nPerson1: Good habit . How long does it take ?\nPerson2: About 20 minutes . Do you live alone ?\nPerson1: No , my little sister lives with me .\nPerson2: How old is she ?\nPerson1: About 12 . She is a good girl .\nPerson2: I think so .\n",
+        "options": [
+            "About 6 in the morning",
+            "12:00 AM",
+            "7:00 PM",
+            "5 in the morning"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "qid": 1165,
+        "context": "Person1:All right , Mr . Mammadov , when will you be arriving in the city ?\nPerson2: I should be coming in on the 11:30 mooring flight . How far is the office from the airport ?\nPerson1: Only <MASK> or so . We ' ll send somebody to meet you . That ' s 11:30 a . m . Friday the 15th ?\nPerson2: That ' s right . I ' ll be in the baggage area .\n",
+        "options": [
+            "30 minutes",
+            "11 hours",
+            "15 seconds",
+            "25 minutes"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "qid": 391,
+        "context": "Person1:Hey ! Are you getting dressed ?\nPerson2: Yes , I am .\nPerson1: Why ? What time is it ?\nPerson2: It's <MASK> . I'm going to work .\nPerson1: But it's Saturday ! !\nPerson2: I'm working on Saturday mornings this month.Are you getting up ?\nPerson1: No , I'm not . I'm staying in bed .\nPerson2: OK . See you at noon .\nPerson1: If I'm awake .\n",
+        "options": [
+            "9:00 ",
+            "a quarter to eight",
+            "6:00 pm ",
+            "12:00 am"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 281,
+        "context": "Person1:Do you have any cars available ?\nPerson2: We have only one mid-size car left .\nPerson1: Great , what's the rate per day ?\nPerson2: It's 40 $ plus tax per day on limited mileage .\nPerson1: I'm going to need it for <MASK> .\nPerson2: Can I see your driver's license ?\nPerson1: Sure , here is my driver's license .\nPerson2: Please sign here .",
+        "options": [
+            "day ",
+            "three days",
+            "40 minutes ",
+            "one week "
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "qid": 300,
+        "context": "Person1:Excuse me , driver , you have kept us waiting for 15 minutes . Can't we start the tour right now ?\nPerson2: I am sorry , sir , there are still 5 minutes remaining ... OK , it's time . We will take a roll call before starting the fantasy sightseeing .\nPerson1: Finally . How long does the tour last ?\nPerson2: For <MASK> . Enjoy your trip .",
+        "options": [
+            "about 4 hours",
+            "about 3 hours",
+            "about 5 minutes",
+            "about 15 days"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 1251,
+        "context": "Person1:Excuse me , driver , you have kept us waiting for <MASK> . Can't we start the tour right now ?\nPerson2: I am sorry , sir , there are still 5 minutes remaining ... OK , it's time . We will take a roll call before starting the fantasy sightseeing .\nPerson1: Finally . How long does the tour last ?\nPerson2: For about 3 hours . Enjoy your trip .\n",
+        "options": [
+            "10 minutes",
+            "15 minutes",
+            "5 seconds",
+            "3 hours"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 847,
+        "context": "Person1:Hello , sir . Have you reserved already ?\nPerson2: No , is there a single room left ?\nPerson1: Yes , how long will you intend to stay ?\nPerson2: For a week or so . Do you give discount for a week or more ?\nPerson1: Yes , we give 5 % discount for a week and 12 % for <MASK> .\nPerson2: All right . I will take a room for a week . Here is my passport .\n",
+        "options": [
+            "5 hours ",
+            "2 weeks",
+            "4 weeks ",
+            "two months "
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "qid": 840,
+        "context": "Person1:I want to take part in the bus tour . When does the bus leave ?\nPerson2: Let me see , in 5 minuets .\nPerson1: That's fine . I don't have much time to waste .\nPerson2: Don't worry . The bus tour is really worth while . You can enjoy the whole city in a single day .\nPerson1: How long does the tour last ?\nPerson2: It lasts <MASK> , from 10:00 to 14:00\n",
+        "options": [
+            "5 minuets",
+            "10 days",
+            "4 hours"
+        ],
+        "labels": [
+            "no",
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "qid": 1363,
+        "context": "Person1:Have you ever been involved in the auditing work ?\nPerson2: Yes , I have . I was employed by the financial section of the university ever since I graduated . I worked there for <MASK> . Then I had worked in a bank for 3 years .\nPerson1: How long did it take you to become an auditor ?\nPerson2: Very short time . I became an auditor within three months .\n",
+        "options": [
+            "2 years",
+            "3 years",
+            "three days",
+            "ten weeks"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 1362,
+        "context": "Person1:Have you ever been involved in the auditing work ?\nPerson2: Yes , I have . I was employed by the financial section of the university ever since I graduated . I worked there for 3 years . Then I had worked in a bank for <MASK> .\nPerson1: How long did it take you to become an auditor ?\nPerson2: Very short time . I became an auditor within three months .\n",
+        "options": [
+            "4 years",
+            "3 years",
+            "3 decades",
+            "3 days"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 805,
+        "context": "Person1:I'd like to make a reservation to Shaki for next Monday .\nPerson2: Just a second and I'll check the schedule .\nPerson1: I'll need an economy ticket with an open return .\nPerson2: Caspian Passenger Airline has a flight leaving at 9:25 a . m .\nPerson1: I guess that's OK . What time should I check in ?\nPerson2: You have to be there <MASK> before departure time .",
+        "options": [
+            "a second",
+            "two hours",
+            "Two and half hours",
+            "One day "
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "qid": 817,
+        "context": "Person1:Is there anything I can do for you ?\nPerson2: Yes , I joined your group of bus tour this morning . You promised the journey will last 3 hours and we will visit 15 sightseeing spots .\nPerson1: Yes , sir . We promised that .\nPerson2: But have <MASK> journey .\nPerson1: Really ? I am sorry , sir . We will look into this matter . Would you please wait a moment here ?\n",
+        "options": [
+            "one and half hour ",
+            "2 - hour",
+            "15 seconds ",
+            "3 days "
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 1140,
+        "context": "Person1:Anar . I want to speak to you for a minute .\nPerson2: Yes . Ms . Huseynova . Is there something wrong ?\nPerson1: I ' m afraid there is , Anar . I don ' t mind you taking a break . But you ' Ve been away from your desk for <MASK> already .\nPerson2: I ' m sorry , Ms . Huseynova . I must have lost track of the time . I ' ll get back to work , now .\n",
+        "options": [
+            "twenty-five minutes",
+            "thirty minutes",
+            " a minute",
+            "twenty hours"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 971,
+        "context": "Person1:Samir , have a rest . Could you have a talk with me ?\nPerson2: OK ! What can I do for you , Madam ?\nPerson1: Sevda has just got sick and I need a hand now . Could you come here earlier tomorrow morning ?\nPerson2: When do you want me to come ?\nPerson1: Let me think . <MASK> if it is okay for you .\nPerson2: That's fine . I can make it .\n",
+        "options": [
+            "About half past seven",
+            "About Half past six",
+            "11 PM",
+            "2 AM"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 1250,
+        "context": "Person1:Excuse me , driver , you have kept us waiting for 15 minutes . Can't we start the tour right now ?\nPerson2: I am sorry , sir , there are still <MASK> remaining ... OK , it's time . We will take a roll call before starting the fantasy sightseeing .\nPerson1: Finally . How long does the tour last ?\nPerson2: For about 3 hours . Enjoy your trip .\n",
+        "options": [
+            "10 minutes",
+            "5 minutes",
+            "3 hours",
+            "15 seconds"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    },
+    {
+        "qid": 1086,
+        "context": "Person1:Tomorrow is my day off . I wonder if it's convenient to change our appointment from tomorrow to next Wednesday , still at the same time .\nPerson2: I'm afraid I won't be free next week .\nPerson1: It's a shame.Will this afternoon be all right ? But I can only spare you an hour and a half today , from <MASK> .\nPerson2: That's OK .\n",
+        "options": [
+            "four o'clock",
+            "Eleven o'clock",
+            "Three o'clock",
+            "Nine o'clock"
+        ],
+        "labels": [
+            "yes",
+            "no",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "qid": 1055,
+        "context": "Person1:Would you mind if I ask the insurance policy of our company ?\nPerson2: No , I don't . Please .\nPerson1: I wonder whether I can enjoy the life insurance and health insurance .\nPerson2: Of course . And 2 - week paid vacation a year , a <MASK> work week .\n",
+        "options": [
+            "1-day",
+            "6-day ",
+            "2-minute  ",
+            "5 - day"
+        ],
+        "labels": [
+            "no",
+            "yes",
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "qid": 841,
+        "context": "Person1:Which route are you interested in ?\nPerson2: I think <MASK> ' tour from Baku to Lankaran will be fine .\nPerson1: That's a good choice .\nPerson2: What is the departure date ?\nPerson1: We have parties every Saturday from June to October .",
+        "options": [
+            "the four days",
+            "the five days",
+            "the five years",
+            "the five seconds"
+        ],
+        "labels": [
+            "yes",
+            "yes",
+            "no",
+            "no"
+        ]
+    }
+]

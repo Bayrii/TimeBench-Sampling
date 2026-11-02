@@ -1,0 +1,493 @@
+[
+    {
+        "question": "Caspian Public Literature Library was managed or directed by whom from 2015 to 2016?",
+        "answer": "Orkhan Huseynov",
+        "context": [
+            " - Namik Hamadov - 1983—1988 - Natiq Hamidov - 1988—2001 - Nazim Hasanov - 2001—2012 - Nizami Hidayatov - 2012—2013 - Aybaniz Hummatova - 2013—2015 - Orkhan Huseynov 2015—incumbent"
+        ],
+        "meta": {
+            "time_scope": [
+                "2015",
+                "2016"
+            ],
+            "annotated_para": "- Orkhan Huseynov 2015—incumbent",
+            "type": "order",
+            "ID": 597
+        }
+    },
+    {
+        "question": "Bahar Ibrahimova became a member of what organization or association in June 2012?",
+        "answer": "Caspian Stage 48",
+        "context": [
+            " - Caspian Stage Show ! ( 2012– ) - ( 2012-2016 ) - ( 2013– ) - ( 2014 )",
+            " 2012 . Bahar Ibrahimova joined Caspian Stage 48 as part of the 14th generation trainees , after failing to pass the 13th generation audition the previous year . 2013 ."
+        ],
+        "meta": {
+            "time_scope": [
+                "2012",
+                "2012"
+            ],
+            "annotated_para": "Bahar Ibrahimova joined Caspian Stage 48 as part of the 14th generation trainees , after failing to pass the 13th generation audition the previous year .",
+            "type": "order",
+            "ID": 276
+        }
+    },
+    {
+        "question": "Who directed or managed Corpus vasorum antiquorum from 2001 to 2004?",
+        "answer": "unanswerable",
+        "context": [
+            " Every participating country is completely responsible for its own scope , while the Union Académique Internationale in Brussels has the patronage traditionally led by a French scientist . Currently in charge is Dilara Imanova ."
+        ],
+        "meta": {
+            "time_scope": [
+                "2002",
+                "2003"
+            ],
+            "annotated_para": "Every participating country is completely responsible for its own scope , while the Union Académique Internationale in Brussels has the patronage traditionally led by a French scientist . Currently in charge is Dilara Imanova .",
+            "type": "order",
+            "ID": 224
+        }
+    },
+    {
+        "question": "Rashad Isayev played for which team from March 2012 to June 2012?",
+        "answer": "Brann",
+        "context": [
+            "Rashad Isayev started a trial with Norwegian club Brann in February 2012 , and after impressing signed for the club on a six-month loan . His time in Norway was hampered by poor form and injuries , and he returned to Senegal after playing just three Tippeligaen matches ."
+        ],
+        "meta": {
+            "time_scope": [
+                "Feb 2012",
+                "Jul 2012"
+            ],
+            "annotated_para": "Rashad Isayev started a trial with Norwegian club Brann in February 2012 , and after impressing signed for the club on a six-month loan . His time in Norway was hampered by poor form and injuries , and he returned to Senegal after playing just three Tippeligaen matches .",
+            "type": "order",
+            "ID": 39
+        }
+    },
+    {
+        "question": "Who was the owner of The Young Flute Player from January 1893 to December 1893?",
+        "answer": "Firudin Badalov",
+        "context": [
+            "It was included in a large exhibition of Fikrat Babashov's work in 1884 , a year after his premature death .Between 1873 and 1893 , the painting was owned by Fikrat Babashov's friend , composer and baritone Farhad Azizov .  The painting was acquired by Firudin Badalov in 1872 and again in 1893 ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1893",
+                "1894"
+            ],
+            "annotated_para": "The painting was acquired by Firudin Badalov in 1872 and again in 1893 . Between 1873 and 1893 , the painting was owned by Fikrat Babashov's friend , composer and baritone Farhad Azizov . It was included in a large exhibition of Fikrat Babashov's work in 1884 , a year after his premature death .",
+            "type": "order",
+            "ID": 691
+        }
+    },
+    {
+        "question": "Who was the owner of The Young Flute Player from 1871 to 1874?",
+        "answer": "unanswerable",
+        "context": [
+            "It was included in a large exhibition of Fikrat Babashov's work in 1884 , a year after his premature death .Between 1873 and 1893 , the painting was owned by Fikrat Babashov's friend , composer and baritone Farhad Azizov .  The painting was acquired by Firudin Badalov in 1872 and again in 1893 ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1872",
+                "1873"
+            ],
+            "annotated_para": "The painting was acquired by Firudin Badalov in 1872 and again in 1893 . Between 1873 and 1893 , the painting was owned by Fikrat Babashov's friend , composer and baritone Farhad Azizov . It was included in a large exhibition of Fikrat Babashov's work in 1884 , a year after his premature death .",
+            "type": "order",
+            "ID": 689
+        }
+    },
+    {
+        "question": "Which school did Esma Isgandarova go to from 1985 to 1987?",
+        "answer": "Goychay Humanities Institute",
+        "context": [
+            " Esma Isgandarova was born on 22 July 1965 in Goychay . She attended Orchard Girls High School , graduating in 1984 , and then Goychay Humanities Institute where she received her bachelors degree in International Relations in 1988 . She later went to Columbia Law School where she received her Master of Laws degree in 2001 ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1984",
+                "1988"
+            ],
+            "annotated_para": "Esma Isgandarova was born on 22 July 1965 in Goychay . She attended Orchard Girls High School , graduating in 1984 , and then Goychay Humanities Institute where she received her bachelors degree in International Relations in 1988 . She later went to Columbia Law School where she received her Master of Laws degree in 2001 .",
+            "type": "order",
+            "ID": 6
+        }
+    },
+    {
+        "question": "Which team did Sakit Ismayilov play for from 2004 to 2007?",
+        "answer": "unanswerable",
+        "context": [
+            " In the summer of 2006 , Sakit Ismayilov returned to Greece and in particular to the club where he started his professional career , Skoda Xanthi .In January 2006 the Greek striker eventually departed again to join another popular Club of northern Italy , Torino F.C . until the end of his contract . Return to Skoda Xanthi . "
+        ],
+        "meta": {
+            "time_scope": [
+                "2005",
+                "2006"
+            ],
+            "annotated_para": "Torino .",
+            "type": "order",
+            "ID": 448
+        }
+    },
+    {
+        "question": "Sanan Jabbarov played for which team from October 1996 to January 2002?",
+        "answer": "unanswerable",
+        "context": [
+            " Sanan Jabbarov was traded to the Cleveland Browns in 1999 ; the Browns wanted him to mentor rookie quarterback Sardar Jafarov . Sanan Jabbarov started the first game of the 1999 season , then served as backup until Sardar Jafarov sprained his foot in week 15 . He started the final game of the 1999 season . Sanan Jabbarov injured his right Achilles and was inactive the entire 2000 season ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1999",
+                "2000"
+            ],
+            "annotated_para": "Cleveland Browns .",
+            "type": "order",
+            "ID": 16
+        }
+    },
+    {
+        "question": "What was the name of the employer Shahin Jalilov work for from 2004 to 2006?",
+        "answer": "Benfica",
+        "context": [
+            " Early years and Fátima . After starting as a manager with his main team Vilafranquense , Shahin Jalilov moved in 2004 to Benfica , spending two seasons with its junior side . In 2006 , Shahin Jalilov signed for Fátima , helping the club promote to the second level in his first season , followed by immediate relegation back . In 2008–09 , again as champion , he again led the side to division two ."
+        ],
+        "meta": {
+            "time_scope": [
+                "2004",
+                "2006"
+            ],
+            "annotated_para": "After starting as a manager with his main team Vilafranquense , Shahin Jalilov moved in 2004 to Benfica , spending two seasons with its junior side .",
+            "type": "order",
+            "ID": 279
+        }
+    },
+    {
+        "question": "Who owned The Garden Visitor (painting) from April 1920 to March 1921?",
+        "answer": "Tahir Karimov",
+        "context": [
+            "- 1921 , sold by Tahir Karimov to Caspian Brothers Art Gallery , London ; 1937 , shipped from Caspian Brothers Art Gallery , London to Caspian Brothers Art Gallery , Baku",
+            "lot 48 , to ( d . 1923 ) , Paris - 1918 , sold by to Orchard Art Dealers and Co. , Paris and Baku - 1920 , sold by Tofig Khalilov to Tahir Karimov ( b . 1861 - d . 1947 ) , Baku.April 14 , 1876 , Teymur Kazimov and sale , , Paris , lot 37 - April 19 , 1877 , anonymous ( L. ) sale , , Paris "
+        ],
+        "meta": {
+            "time_scope": [
+                "1920",
+                "1921"
+            ],
+            "annotated_para": "- 1920 , sold by Tofig Khalilov to Tahir Karimov ( b . 1861 - d . 1947 ) , Baku",
+            "type": "order",
+            "ID": 619
+        }
+    },
+    {
+        "question": "Vidadi Latifov played for which team from January 2015 to May 2016?",
+        "answer": "Jacksonville Armada",
+        "context": [
+            "On January 29 , 2015 , Vidadi Latifov returned to the NASL by signing with Jacksonville Armada FC ahead of their inaugural season . On 11 March 2017 , Vidadi Latifov signed for Finn Harps in the League of Ireland Premier Division .In September 2014 Vidadi Latifov joined the Italian Serie D side Fidelis Andria . He never played an official game with the team because of international transfer complications and on December he had to quit Italy for Visa expiration ."
+        ],
+        "meta": {
+            "time_scope": [
+                "2015",
+                "2016"
+            ],
+            "annotated_para": "On January 29 , 2015 , Vidadi Latifov returned to the NASL by signing with Jacksonville Armada FC ahead of their inaugural season .",
+            "type": "order",
+            "ID": 612
+        }
+    },
+    {
+        "question": "Which school did Oktay Hajizada go to from 1909 to 1910?",
+        "answer": "New York University",
+        "context": [
+            " Oktay Hajizada was born in Midway , Wasatch County , Utah to Orkhan Hajizada ( 1864–1959 ) and Sharifa Hamidova ( 1864–1947 ) . He was the eldest of 6 siblings . He attended Brigham Young University ( BYU ) from 1903 to 1906 , and New York University ( NYU ) from 1909 to 1910 . He graduated from Columbia University Law School in 1912 , and returned to Utah . There he was admitted to the bar the same year and commenced practice in Vernal , Utah ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1909",
+                "1910"
+            ],
+            "annotated_para": "Oktay Hajizada was born in Midway , Wasatch County , Utah to Orkhan Hajizada ( 1864–1959 ) and Sharifa Hamidova ( 1864–1947 ) . He was the eldest of 6 siblings . He attended Brigham Young University ( BYU ) from 1903 to 1906 , and New York University ( NYU ) from 1909 to 1910 . He graduated from Columbia University Law School in 1912 , and returned to Utah . There he was admitted to the bar the same year and commenced practice in Vernal , Utah .",
+            "type": "order",
+            "ID": 552
+        }
+    },
+    {
+        "question": "Who was the chair of Caspian Youth Research Union from 1975 to 1981?",
+        "answer": "Yusif Mammadli",
+        "context": [
+            "Asif Mansurov ( 2014–2018 ) - Arif Malikov ( since 2018 ) Vusala Novruzova ( 1998–2002 ) - Aydin Mikayilov ( 2002–2014 )Bahruz Mirzayev ( 1989–1994 ) - Akif Majidov ( 1994–1998 ) Yashar Mammadov ( 1969–1973 ) - Yusif Mammadli ( 1973–1983 ) - Cavid Mukhtarov ( 1983–1989 )  Adil Mahmudov ( 1961–1963 ) - Eldar Musayev ( 1963–1969 ) Elchin Mustafayev ( 1950–1955 ) - Elnur Nabiyev ( 1955–1961 )Emin Nagiyev ( 1947–1948 ) - Farhad Najafov ( 1948–1949 ) - Fikrat Nasirov ( 1949–1950 )"
+        ],
+        "meta": {
+            "time_scope": [
+                "1973",
+                "1983"
+            ],
+            "annotated_para": "- Yusif Mammadli ( 1973–1983 )",
+            "type": "order",
+            "ID": 321
+        }
+    },
+    {
+        "question": "What was the parent organization of Caspian Drama Studio from September 2017 to July 2018?",
+        "answer": "Caspian Channel Holding Co. , Ltd",
+        "context": [
+            " On August 24 , 2017 , after Adelfos Co. , Ltd , a subsidary of TCC Group ( Thailand ) has subscribed for the newly issued ordinary shares in Caspian Channel Trading Co. , Ltd. , Caspian Media Group has restructured its business to be in line with the share subscription agreement by passing a resolution to transfer all of its shares held in Caspian Drama Studio to CCH ( Caspian Channel Holding Co. , Ltd. , formerly Caspian Channel Trading Co. , Ltd. ) or the business group of Caspian 25 as the new shareholder ."
+        ],
+        "meta": {
+            "time_scope": [
+                "Aug 2017",
+                "Aug 2018"
+            ],
+            "annotated_para": "On August 24 , 2017 , after Adelfos Co. , Ltd , a subsidary of TCC Group ( Thailand ) has subscribed for the newly issued ordinary shares in Caspian Channel Trading Co. , Ltd. , Caspian Media Group has restructured its business to be in line with the share subscription agreement by passing a resolution to transfer all of its shares held in Caspian Drama Studio to CCH ( Caspian Channel Holding Co. , Ltd. , formerly Caspian Channel Trading Co. , Ltd. ) or the business group of Caspian 25 as the new shareholder .",
+            "type": "order",
+            "ID": 156
+        }
+    },
+    {
+        "question": "Which team did Fizuli Orujov play for from Nov 2000 to Sep 2001?",
+        "answer": "Spartak Trnava",
+        "context": [
+            "He went on to move to Hungarian side Győri ETO in September 2001 , eventually returning to Slovakia in the summer of 2003 , when he signed a contract with one of the countrys top clubs Artmedia Bratislava . He only spent one season with the team , winning the Slovak Cup in 2004 and making two UEFA Cup appearances in the autumn of 2003 , scoring two goals . Born in Bratislava , he started his career with local club Inter Bratislava , moving to Spartak Trnava in November 2000 . "
+        ],
+        "meta": {
+            "time_scope": [
+                "2000",
+                "2001"
+            ],
+            "annotated_para": "Born in Bratislava , he started his career with local club Inter Bratislava , moving to Spartak Trnava in November 2000 . He went on to move to Hungarian side Győri ETO in September 2001 , eventually returning to Slovakia in the summer of 2003 , when he signed a contract with one of the countrys top clubs Artmedia Bratislava . He only spent one season with the team , winning the Slovak Cup in 2004 and making two UEFA Cup appearances in the autumn of 2003 , scoring two goals . He was also the second best goalscorer of the Slovak League for the 2003–04 season , scoring 15 goals . On 31 March 2004 , he played his first and only game for the Slovak national team , playing the first half of their friendly match against Austria which ended in a 1–1 draw .",
+            "type": "order",
+            "ID": 794
+        }
+    },
+    {
+        "question": "Who coached the team Galatasaray S.K. (football) from January 1916 to December 1918?",
+        "answer": "unanswerable",
+        "context": [
+            " On 20 December 1964 , Ilham Pashayev Stadium opened . Named after the founder of Galatasaray , Ilham Pashayev , it is in the Mecidiyeköy quarter of the Şişli district at the center of the city . In 1964 , the stadium had capacity over 35,000 . Due to improvements in security and prohibition of non-seater spectators , the all-seater capacity reduced to 22,000 in 1993 . A few years later , the rebuilt of main stand , which was damaged by an earthquake , slightly increased the capacity ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1916",
+                "1917"
+            ],
+            "annotated_para": "On 20 December 1964 , Ilham Pashayev Stadium opened . Named after the founder of Galatasaray , Ilham Pashayev , it is in the Mecidiyeköy quarter of the Şişli district at the center of the city . In 1964 , the stadium had capacity over 35,000 . Due to improvements in security and prohibition of non-seater spectators , the all-seater capacity reduced to 22,000 in 1993 . A few years later , the rebuilt of main stand , which was damaged by an earthquake , slightly increased the capacity .",
+            "type": "order",
+            "ID": 29
+        }
+    },
+    {
+        "question": "Who was Ziba Rahimova's spouse from Jun 1975 to Nov 1978?",
+        "answer": "Ismayil Ramazanov",
+        "context": [
+            "A third marriage in 1984 was to cable businessman Javid Rasulov , but the couple split around 1988 , eventually divorcing in 1990 . Her second marriage was to poet , broadcaster and author Ismayil Ramazanov from 1974 to 1979 . Her political orientation switched from left to right during her marriage to Ismayil Ramazanov , a process which is described in Confessions , her 1980 memoir . Ziba Rahimova has been married four times , with three marriages ending in divorce . She entered a brief marriage to Kamal Rustamov in 1964 ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1974",
+                "1979"
+            ],
+            "annotated_para": "Ziba Rahimova has been married four times , with three marriages ending in divorce . She entered a brief marriage to Kamal Rustamov in 1964 . Her second marriage was to poet , broadcaster and author Ismayil Ramazanov from 1974 to 1979 . Her political orientation switched from left to right during her marriage to Ismayil Ramazanov , a process which is described in Confessions , her 1980 memoir . A third marriage in 1984 was to cable businessman Javid Rasulov , but the couple split around 1988 , eventually divorcing in 1990 .",
+            "type": "order",
+            "ID": 606
+        }
+    },
+    {
+        "question": "Who did Mikayil Vazirov work for in April 2016?",
+        "answer": "unanswerable",
+        "context": [
+            "On May 1 , 2015 , Mikayil Vazirov announced his retirement .Mikayil Vazirov signed a minor league deal with the Shamakhi Mariners on April 22 , 2015 , and was assigned to the Tacoma Rainiers .On April 5 , 2015 , Mikayil Vazirov was traded to the Atlanta Braves along with Mubariz Yagubov , Namik Yusifov , and Natiq Zeynalov , for Nazim Zulfugarov and Oktay Zeynalov The Braves designated him for assignment later that day , and released him on April 14 .",
+            "On July 22 , 2012 , Mikayil Vazirov agreed to a three-year , $27 million contract extension through 2015 with a $10 million mutual option for 2016 , including a no-trade clause . This is an amazing opportunity to stay and play in the city I grew up in . said Mikayil Vazirov ."
+        ],
+        "meta": {
+            "time_scope": [
+                "Apr 2015",
+                "Apr 2015"
+            ],
+            "annotated_para": "Atlanta Braves .",
+            "type": "order",
+            "ID": 601
+        }
+    },
+    {
+        "question": "Who was the spouse of Khayal Salimov from 1925 to 1932?",
+        "answer": "Aybaniz Samadova",
+        "context": [
+            " In 1918 he had married the singer Aybaniz Samadova ( 1888–1957 ) . Their marriage was dissolved in 1939 . In 1940 , he married Aygun Seyidova ( 1903–1995 ) . They separated shortly after , and were officially divorced in 1945 . Khayal Salimov was married to journalist Bahar Salimova ( 1913–1978 ) during June 1945 .",
+            " Khayal Salimov was born in Kristiansund and raised in Bergen . His parents were Mubariz Salimov ( 1852–1906 ) and Elmira Shiraliyeva ( 1854–1939 ) . The early death of his father , left the family economically stressed . He was able to attend Bergen Cathedral School and in 1904 Kristiania Cathedral School . He graduated in 1907 and for a time studied philology at University of Kristiania ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1918",
+                "1939"
+            ],
+            "annotated_para": "In 1918 he had married the singer Aybaniz Samadova ( 1888–1957 ) . Their marriage was dissolved in 1939 . In 1940 , he married Aygun Seyidova ( 1903–1995 ) . They separated shortly after , and were officially divorced in 1945 . Khayal Salimov was married to journalist Bahar Salimova ( 1913–1978 ) during June 1945 .",
+            "type": "order",
+            "ID": 2
+        }
+    },
+    {
+        "question": "Who did Shamil Isgandarov work for from 1989 to 1990?",
+        "answer": "Smithsonian Institution",
+        "context": [
+            " - University of Chicago , Committee on Evolutionary Biology , PhD , 1994 . - Reed College , Department of Biology , B.A. , 1989 . - Hunter College High School , graduated 1984 .",
+            " - Macquarie University , Future Fellow , 2010–present . - Marine Science Institute , University of California , Santa Barbara , Assistant and later Associate Researcher , 2000–2010 . - National Center for Ecological Analysis and Synthesis , Post-doctoral Fellow , 1998–2000 , and Center Associate , 2000–2010 . - University of Arizona , Research Training Group in the Analysis of Biodiversification , 1994–1996 . - Smithsonian Institution , Predoctoral internship , Department of Paleobiology and Evolution of Terrestrial Ecosystems consortium , 1989–1990 ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1989",
+                "1990"
+            ],
+            "annotated_para": "- Smithsonian Institution , Predoctoral internship , Department of Paleobiology and Evolution of Terrestrial Ecosystems consortium , 1989–1990 .",
+            "type": "order",
+            "ID": 308
+        }
+    },
+    {
+        "question": "Esma Shukurova was an employee for whom from April 1994 to March 1995?",
+        "answer": "UC San Diego",
+        "context": [
+            "Prior to joining UC San Diego in 1994 , she taught at Tufts University from 1974 until 1978 , where she worked on computational complexity problems such as the theory of rationalShe received her B.A . from New College at Hofstra University in 1969 , and her Ph.D . from Massachusetts Institute of Technology in 1974 .Esma Shukurova is a computer scientist active in the field of compiler technology , where she has made important contributions regarding optimization and parallelization . Esma Shukurova is Professor of Computer Science and Engineering at University of California , San Diego . ",
+            "order and first order theory of real addition . In 1978 , she worked as a research staff at the IBM T.J . Watson Research Center until 1994 ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1994",
+                "1995"
+            ],
+            "annotated_para": "Esma Shukurova is a computer scientist active in the field of compiler technology , where she has made important contributions regarding optimization and parallelization . Esma Shukurova is Professor of Computer Science and Engineering at University of California , San Diego . She received her B.A . from New College at Hofstra University in 1969 , and her Ph.D . from Massachusetts Institute of Technology in 1974 . Prior to joining UC San Diego in 1994 , she taught at Tufts University from 1974 until 1978 , where she worked on computational complexity problems such as the theory of rational order and first order theory of real addition . In 1978 , she worked as a research staff at the IBM T.J . Watson Research Center until 1994 .",
+            "type": "order",
+            "ID": 929
+        }
+    },
+    {
+        "question": "Which team did the player Fizuli Orujov belong to from 2001 to 2003?",
+        "answer": "Győri ETO",
+        "context": [
+            "Born in Bratislava , he started his career with local club Inter Bratislava , moving to Spartak Trnava in November 2000 . He went on to move to Hungarian side Győri ETO in September 2001 , eventually returning to Slovakia in the summer of 2003 , when he signed a contract with one of the countrys top clubs Artmedia Bratislava . He only spent one season with the team , winning the Slovak Cup in 2004 and making two UEFA Cup appearances in the autumn of 2003 , scoring two goals . He was also the second best goalscorer of",
+            "the Slovak League for the 2003–04 season , scoring 15 goals . On 31 March 2004 , he played his first and only game for the Slovak national team , playing the first half of their friendly match against Austria which ended in a 1–1 draw ."
+        ],
+        "meta": {
+            "time_scope": [
+                "2001",
+                "2003"
+            ],
+            "annotated_para": "Born in Bratislava , he started his career with local club Inter Bratislava , moving to Spartak Trnava in November 2000 . He went on to move to Hungarian side Győri ETO in September 2001 , eventually returning to Slovakia in the summer of 2003 , when he signed a contract with one of the countrys top clubs Artmedia Bratislava . He only spent one season with the team , winning the Slovak Cup in 2004 and making two UEFA Cup appearances in the autumn of 2003 , scoring two goals . He was also the second best goalscorer of the Slovak League for the 2003–04 season , scoring 15 goals . On 31 March 2004 , he played his first and only game for the Slovak national team , playing the first half of their friendly match against Austria which ended in a 1–1 draw .",
+            "type": "order",
+            "ID": 795
+        }
+    },
+    {
+        "question": "Nazim Suleymanov played for which team from August 2015 to May 2016?",
+        "answer": "1 . FSV Mainz 05",
+        "context": [
+            "Nazim Suleymanov scored his first goal for his next club , Atlético de Kolkata , on 18 December 2016 . It proved to be the equaliser as they went on to win the final of the Indian Super League on penalties , against Kerala Blasters FC .",
+            "On 27 July 2015 , free agent Nazim Suleymanov returned to Germany by penning a two-year deal with 1 . FSV Mainz 05 . The following 15 June , however , after no competitive appearances , he was released .featuring the full 90 minutes in a 1–1 draw at Gençlerbirliği SK ; he ended the campaign with 22 matches and three goals , in an eventual relegation as last .In summer 2013 , Nazim Suleymanov joined Kayserispor from Turkey . He made his Süper Lig debut on 15 September ",
+            " On 24 June 2016 , the Elvas city hall commended Nazim Suleymanov for his sporting achievements ."
+        ],
+        "meta": {
+            "time_scope": [
+                "2015",
+                "2016"
+            ],
+            "annotated_para": "On 27 July 2015 , free agent Nazim Suleymanov returned to Germany by penning a two-year deal with 1 . FSV Mainz 05 . The following 15 June , however , after no competitive appearances , he was released .",
+            "type": "order",
+            "ID": 855
+        }
+    },
+    {
+        "question": "Which team did the player Nizami Taghiyev belong to from Sep 2007 to Jan 2008?",
+        "answer": "Gillingham",
+        "context": [
+            " In February 2008 he joined Bury on loan until the end of the season , and was transfer listed on 5 June 2008 .Nizami Taghiyev left Southend following their relegation from the Championship in the 2006–07 season . On 10 July 2007 , he joined League One side Gillingham on a two-year deal , and made his debut in the 1–0 away defeat to Cheltenham Town on 11 August .",
+            " It was announced on 1 July 2008 , that his contract had been terminated by Gillingham . Nizami Taghiyev was signed by Bury on a two-year contract as a player-coach , on 3 July 2008 . At the beginning of the 2010–11 season , he was named 2nd vice-captain by Oktay Talibov after Orkhan Teymurov . In May 2011 he signed a new two-year contract extension . He made his 500th league appearance in January 2012 playing for Bury in a 1–1 draw against Charlton Athletic . Return to Macclesfield Town ."
+        ],
+        "meta": {
+            "time_scope": [
+                "2007",
+                "2008"
+            ],
+            "annotated_para": "On 10 July 2007 , he joined League One side Gillingham on a two-year deal , and made his debut in the 1–0 away defeat to Cheltenham Town on 11 August . In February 2008 he joined Bury on loan until the end of the season , and was transfer listed on 5 June 2008 .",
+            "type": "order",
+            "ID": 255
+        }
+    },
+    {
+        "question": "What was the name of the employer Parviz Tofiqov work for from  1981 to 1985?",
+        "answer": "unanswerable",
+        "context": [
+            "Researching professor at the CSIC ( 1984–1990,Universidad Complutense de Madrid ( 1971–74 ) ; and cathedratic in Paleontology in Zaragoza ( 1977–79 ) and Complutense de Madrid Universities ( 1982–1984 ) .Universidad Autónoma de Madrid ( 1969–70 ) ; lecturer of Vertebrate and Human Paleontology , visitor lecturer of Anthropology at the Pontificia Universidad Católica de Perú and the Universidad Nacional Mayor de San Marcos de Lima ( 1967–1968 ) ; in charge of Biology for Medicine , Assistant Geology lecturer at the Escuela Técnica Superior de Caminos , Canales y Puertos , Madrid ( 1965–66 ) ",
+            " - Parviz Tofiqov , E. ; Rafael Valiyev ; Rashad Vazirov ; Rovshan Yagubov ; Sakit Yusifov ; Sanan Zeynalov y Sardar Zeynalov ( 1982 ) : «Torrijos : nueva fauna con Hispanotherium de la cuenca media del Tajo» . Acta Geológica Hispanica , 17 ( 1-2 ) : 39-61"
+        ],
+        "meta": {
+            "time_scope": [
+                "1982",
+                "1984"
+            ],
+            "annotated_para": "Assistant Geology lecturer at the Escuela Técnica Superior de Caminos , Canales y Puertos , Madrid ( 1965–66 ) ; visitor lecturer of Anthropology at the Pontificia Universidad Católica de Perú and the Universidad Nacional Mayor de San Marcos de Lima ( 1967–1968 ) ; in charge of Biology for Medicine , Universidad Autónoma de Madrid ( 1969–70 ) ; lecturer of Vertebrate and Human Paleontology , Universidad Complutense de Madrid ( 1971–74 ) ; and cathedratic in Paleontology in Zaragoza ( 1977–79 ) and Complutense de Madrid Universities ( 1982–1984 ) . Researching professor at the CSIC ( 1984–1990 ) and associated doctor at the CSIC from his retirement . He also was the interim director of the MNCN ( 1985–86 ) .",
+            "type": "order",
+            "ID": 198
+        }
+    },
+    {
+        "question": "Where was Shamil Abbasov educated from 1959 to 1963?",
+        "answer": "Harvard Business School",
+        "context": [
+            "Shamil Abbasov was born on May 16 , 1937 , in Geneva , Nebraska . He graduated from Lincoln High School in Lincoln , Nebraska and earned a full scholarship to Harvard University . He received his A.B . from Harvard College in 1959 . He then completed his M.B.A . in 1961 and his D.B.A . in 1963 from the Harvard Business School . He worked at the University of California , Los Angeles for a very brief time and then joined the faculty at Stanford University . He has been on the faculty of the Stanford Business School since"
+        ],
+        "meta": {
+            "time_scope": [
+                "1959",
+                "1963"
+            ],
+            "annotated_para": "Shamil Abbasov was born on May 16 , 1937 , in Geneva , Nebraska . He graduated from Lincoln High School in Lincoln , Nebraska and earned a full scholarship to Harvard University . He received his A.B . from Harvard College in 1959 . He then completed his M.B.A . in 1961 and his D.B.A . in 1963 from the Harvard Business School . He worked at the University of California , Los Angeles for a very brief time and then joined the faculty at Stanford University . He has been on the faculty of the Stanford Business School since 1964 . He was also an affiliated faculty member of Harvard Law School from 1993 to 2001 .",
+            "type": "order",
+            "ID": 201
+        }
+    },
+    {
+        "question": "Who did Rafael Hasanov work for from Mar 1991 to Dec 1994?",
+        "answer": "Australian National University",
+        "context": [
+            "He was then Professor at the European University Institute ( 1996–2001 ) , before moving to New York University School of Law , where he is the Rashad Hidayatov Professor of Law and co-Chair of the law schools Center for Human Rights and Global Justice . He became a faculty instructor in the NYU Law,Rafael Hasanov was then Professor at the Australian National University ( 1990–95 ) , and also director of its Center for International and Public Law . Rafael Hasanov's first academic appointments were at Tufts University ( 1985–89 ) and Harvard Law School ( 1984–89 ) ."
+        ],
+        "meta": {
+            "time_scope": [
+                "1990",
+                "1995"
+            ],
+            "annotated_para": "Rafael Hasanov's first academic appointments were at Tufts University ( 1985–89 ) and Harvard Law School ( 1984–89 ) . Rafael Hasanov was then Professor at the Australian National University ( 1990–95 ) , and also director of its Center for International and Public Law . He was then Professor at the European University Institute ( 1996–2001 ) , before moving to New York University School of Law , where he is the Rashad Hidayatov Professor of Law and co-Chair of the law schools Center for Human Rights and Global Justice . He became a faculty instructor in the NYU Law Institute for Executive Education , which was launched in 2015 .",
+            "type": "order",
+            "ID": 293
+        }
+    },
+    {
+        "question": "Who was the spouse of Rena Ahmadova from 1966 to 1977?",
+        "answer": "unanswerable",
+        "context": [
+            "Rena Ahmadova was married three times . Her first marriage , to writer Vagif Alakbarov , ended in divorce after nine years . In 1976 , she married journalist Rafael Agayev . In 1979 , Rena Ahmadova had a toddler son , Sanan Alizade , and was pregnant with her second son Murad when she discovered Rafael Agayev's affair with their mutual friend , married British journalist Dilara Alakbarova , daughter of former British prime minister Rashad Ahmadov . Rena Ahmadova was inspired by this to write the 1983 novel Heartburn , which was then made into a 1986 Parviz Mustafayev film starring Orkhan Abdullayev"
+        ],
+        "meta": {
+            "time_scope": [
+                "1967",
+                "1976"
+            ],
+            "annotated_para": "Rena Ahmadova was married three times . Her first marriage , to writer Vagif Alakbarov , ended in divorce after nine years . In 1976 , she married journalist Rafael Agayev . In 1979 , Rena Ahmadova had a toddler son , Sanan Alizade , and was pregnant with her second son Murad when she discovered Rafael Agayev's affair with their mutual friend , married British journalist Dilara Alakbarova , daughter of former British prime minister Rashad Ahmadov . Rena Ahmadova was inspired by this to write the 1983 novel Heartburn , which was then made into a 1986 Parviz Mustafayev film starring Orkhan Abdullayev and Meryl Streep . In the book , Rena Ahmadova wrote of a husband named Mark , who was capable of having sex with a Venetian blind . She also wrote that the character Thelma ( based on Dilara Alakbarova ) looked like a giraffe with big feet . Rafael Agayev threatened to sue over the book and film but never did .",
+            "type": "order",
+            "ID": 18
+        }
+    },
+    {
+        "question": "Who was the spouse of Samira Alizade from 1974 to 1979?",
+        "answer": "unanswerable",
+        "context": [
+            "She divorced him in 1978 , but the relationship spawned Passions Promise and Now and Forever , the two novels that launched her career .After receiving her divorce from Lazard in 1975 , she married Zugelder in the prison canteen .He moved in with Samira Alizade when he was paroled in June 1973 , but returned to prison in early 1974 on robbery and rape charges . While still married to Lazard , Samira Alizade met Adil Aydamirov while interviewing an inmate in a prison near Lompoc , California , where Zugelder was also incarcerated . "
+        ],
+        "meta": {
+            "time_scope": [
+                "1975",
+                "1978"
+            ],
+            "annotated_para": "While still married to Lazard , Samira Alizade met Adil Aydamirov while interviewing an inmate in a prison near Lompoc , California , where Zugelder was also incarcerated . He moved in with Samira Alizade when he was paroled in June 1973 , but returned to prison in early 1974 on robbery and rape charges . After receiving her divorce from Lazard in 1975 , she married Zugelder in the prison canteen . She divorced him in 1978 , but the relationship spawned Passions Promise and Now and Forever , the two novels that launched her career .",
+            "type": "order",
+            "ID": 706
+        }
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "Premise": "The storm lasted from 6 AM to 7 PM.",
+        "Hypothesis": "The storm lasted for less than 130 hours.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "The court case lasted from February to October.",
+        "Hypothesis": "The court case lasted for less than 80 months.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "They were the top football team from January 1939 to December 1946.",
+        "Hypothesis": "They were the top football team for 95 months.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "The court case lasted from 3rd to 28th.",
+        "Hypothesis": "The court case lasted for less than 26 days.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "They became the top football team in Feb 1922 and remained so until May 1939.",
+        "Hypothesis": "They were the top football team for 17 years 3 months.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "The storm began on Friday and lasted until Saturday.",
+        "Hypothesis": "The storm lasted for 1 day.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "The storm began on 8th and lasted until 25th.",
+        "Hypothesis": "The storm lasted for less than 170 days.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "The train from Shamakhi started at 5 AM and reached Sumgait at 9 AM.",
+        "Hypothesis": "The train journey from Shamakhi to Sumgait lasted for 4 hours.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "They were the top football team from May to Oct.",
+        "Hypothesis": "They were the top football team for 5 months.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "The storm began at 03:00 and lasted until 8 AM.",
+        "Hypothesis": "The storm lasted for less than 6 hours.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "The court case started on 17th and ended on 18th.",
+        "Hypothesis": "The court case lasted for 1 day.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "The train from Shamakhi started at 01:00 and reached Sumgait at 11 AM.",
+        "Hypothesis": "The train journey from Shamakhi to Sumgait lasted for 10 hours.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "The court case lasted from Feb to Aug.",
+        "Hypothesis": "The court case lasted for 6 months.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "The storm began at 06:00 and lasted until 18:00.",
+        "Hypothesis": "The storm lasted for less than 13 hours.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "The court case lasted from January to May.",
+        "Hypothesis": "The court case lasted for 4 months.",
+        "Label": "Entailment"
+    },
+    {
+        "Premise": "Sabina's visit to her parents' started on Monday and ended on Thursday.",
+        "Hypothesis": "Sabina visited her parents for 4 days.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "The court case started in February and ended in October.",
+        "Hypothesis": "The court case lasted for 9 months.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "The storm began on Monday and lasted until Saturday.",
+        "Hypothesis": "The storm lasted for 50 days.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "The storm lasted from 04:00 to 23:00.",
+        "Hypothesis": "The storm lasted for less than 19 hours.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "The court case started in June and ended in December.",
+        "Hypothesis": "The court case lasted for 60 months.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "The storm lasted from 14th to 23rd.",
+        "Hypothesis": "The storm lasted for less than 9 days.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "They were the top football team from February to Nov.",
+        "Hypothesis": "They were the top football team for 10 months.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "The court case lasted from 3rd to 28th.",
+        "Hypothesis": "The court case lasted for less than 25 days.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "The court case started on 15th and ended on 22nd.",
+        "Hypothesis": "The court case lasted for 70 days.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "Sabina visited her parents from 3rd to 10th.",
+        "Hypothesis": "Sabina visited her parents for 70 days.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "The train from Shamakhi started at 06:00 and reached Sumgait at 11:00.",
+        "Hypothesis": "The train journey from Shamakhi to Sumgait lasted for 6 hours.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "The court case lasted from Tuesday to Thursday.",
+        "Hypothesis": "The court case lasted for 3 days.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "The court case lasted from Monday to Thursday.",
+        "Hypothesis": "The court case lasted for 30 days.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "The court case lasted from Tuesday to Saturday.",
+        "Hypothesis": "The court case lasted for 5 days.",
+        "Label": "Contradiction"
+    },
+    {
+        "Premise": "The storm lasted from 20:00 to 22:00.",
+        "Hypothesis": "The storm lasted for 20 hours.",
+        "Label": "Contradiction"
+    }
+]

@@ -1,0 +1,888 @@
+[
+    {
+        "keywords": [
+            "approximately 365 days",
+            "axis",
+            "every 24 hours",
+            "sun",
+            "Earth",
+            "Earth"
+        ],
+        "statement": "Earth revolves around the sun approximately 365 days. Earth rotates on its axis once every 24 hours.",
+        "ids": [
+            "arc::Easy::Test::101",
+            "arc::Easy::Test::110"
+        ],
+        "keywords_pos": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            0
+        ],
+        "statements": [
+            "Earth revolves around the sun approximately 365 days.",
+            "Earth rotates on its axis once every 24 hours."
+        ]
+    },
+    {
+        "keywords": [
+            "axis",
+            "one day",
+            "one month",
+            "Earth",
+            "Moon"
+        ],
+        "statement": "Earth rotates on its axis once in one day. It takes one month for the Moon to rotate on its axis.",
+        "ids": [
+            "arc::Challenge::Train::981",
+            "arc::Easy::Train::1742"
+        ],
+        "keywords_pos": [
+            0,
+            0,
+            1,
+            0,
+            1
+        ],
+        "statements": [
+            "Earth rotates on its axis once in one day.",
+            "It takes one month for the Moon to rotate on its axis."
+        ]
+    },
+    {
+        "keywords": [
+            "sun",
+            "Earth",
+            "one",
+            "Earth",
+            "revolution",
+            "8.3 minutes",
+            "Sun",
+            "about a year",
+            "sunlight"
+        ],
+        "statement": "Earth takes about a year to make one revolution around the Sun. Sunlight takes 8.3 minutes to reach Earth from the sun.",
+        "ids": [
+            "arc::Challenge::Dev::251",
+            "openbookqa::Additional/crowdsourced-facts.txt::4393"
+        ],
+        "keywords_pos": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1
+        ],
+        "statements": [
+            "Earth takes about a year to make one revolution around the Sun.",
+            "Sunlight takes 8.3 minutes to reach Earth from the sun."
+        ]
+    },
+    {
+        "keywords": [
+            "day",
+            "24 hours",
+            "365 days",
+            "one year"
+        ],
+        "statement": "One day is equal to 24 hours. One year is equal to 365 days.",
+        "ids": [
+            "openbookqa::Main/openbook.txt::915",
+            "openbookqa::Main/openbook.txt::916"
+        ],
+        "keywords_pos": [
+            0,
+            0,
+            1,
+            1
+        ],
+        "statements": [
+            "One day is equal to 24 hours.",
+            "One year is equal to 365 days."
+        ]
+    },
+    {
+        "keywords": [
+            "up to 20 years",
+            "6 to 10 years",
+            "captivity",
+            "Crows",
+            "six to seven years",
+            "world",
+            "wild",
+            "parts",
+            "Mongooses",
+            "wild"
+        ],
+        "statement": "Crows are found throughout many parts of the world and in the wild they live for six to seven years. Mongooses live from 6 to 10 years in the wild and up to 20 years in captivity.",
+        "ids": [
+            "arc::Easy::Train::1476",
+            "creak::train::9753"
+        ],
+        "keywords_pos": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+        ],
+        "statements": [
+            "Crows are found throughout many parts of the world and in the wild they live for six to seven years.",
+            "Mongooses live from 6 to 10 years in the wild and up to 20 years in captivity."
+        ]
+    },
+    {
+        "keywords": [
+            "365 days",
+            "Moon",
+            "Sun",
+            "orbit",
+            "one",
+            "about 27 Earth days",
+            "Earth",
+            "Earth"
+        ],
+        "statement": "It takes the Moon about 27 Earth days to travel around Earth. It takes 365 days for Earth to complete one orbit around the Sun.",
+        "ids": [
+            "arc::Easy::Train::1440",
+            "arc::Easy::Test::2285"
+        ],
+        "keywords_pos": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1
+        ],
+        "statements": [
+            "It takes the Moon about 27 Earth days to travel around Earth.",
+            "It takes 365 days for Earth to complete one orbit around the Sun."
+        ]
+    },
+    {
+        "keywords": [
+            "one",
+            "Moon",
+            "revolution",
+            "Sun",
+            "light",
+            "Earth",
+            "about 30 days",
+            "Earth",
+            "about 4 years",
+            "star"
+        ],
+        "statement": "It takes about 30 days for the Moon to complete one revolution around Earth. It takes about 4 years for light from the nearest star other than the Sun to reach Earth.",
+        "ids": [
+            "arc::Challenge::Dev::65",
+            "arc::Easy::Test::1972"
+        ],
+        "keywords_pos": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1,
+            1
+        ],
+        "statements": [
+            "It takes about 30 days for the Moon to complete one revolution around Earth.",
+            "It takes about 4 years for light from the nearest star other than the Sun to reach Earth."
+        ]
+    },
+    {
+        "keywords": [
+            "Caspian Experiments",
+            "air",
+            "The Evening Conversation",
+            "about 9 years",
+            "18 seasons"
+        ],
+        "statement": "Caspian Experiments ran on air for 18 seasons. The Evening Conversation ran for about 9 years.",
+        "ids": [
+            "creak::train::4355",
+            "creak::train::6825"
+        ],
+        "keywords_pos": [
+            0,
+            0,
+            1,
+            1,
+            0
+        ],
+        "statements": [
+            "Caspian Experiments ran on air for 18 seasons.",
+            "The Evening Conversation ran for about 9 years."
+        ]
+    },
+    {
+        "keywords": [
+            "seven",
+            "Earth",
+            "time",
+            "axis",
+            "Moon",
+            "one week",
+            "axis",
+            "a lunar month",
+            "times"
+        ],
+        "statement": "It takes for Earth to rotate on its axis seven times one week. The Moon rotates on its axis during a lunar month one time.",
+        "ids": [
+            "arc::Challenge::Train::45",
+            "arc::Easy::Train::765"
+        ],
+        "keywords_pos": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0
+        ],
+        "statements": [
+            "It takes for Earth to rotate on its axis seven times one week.",
+            "The Moon rotates on its axis during a lunar month one time."
+        ]
+    },
+    {
+        "keywords": [
+            "one month",
+            "Moon",
+            "Earth",
+            "axis",
+            "every 24 hours"
+        ],
+        "statement": "It takes one month for the Moon to rotate on its axis. Earth rotates on its axis once every 24 hours.",
+        "ids": [
+            "arc::Easy::Train::1742",
+            "arc::Easy::Test::110"
+        ],
+        "keywords_pos": [
+            0,
+            0,
+            1,
+            1,
+            1
+        ],
+        "statements": [
+            "It takes one month for the Moon to rotate on its axis.",
+            "Earth rotates on its axis once every 24 hours."
+        ]
+    },
+    {
+        "keywords": [
+            "Sun",
+            "approximately one year",
+            "Moon",
+            "one",
+            "Earth",
+            "Earth",
+            "about 30 days",
+            "revolution",
+            "orbit"
+        ],
+        "statement": "It takes about 30 days for the Moon to complete one revolution around Earth. Earth takes approximately one year to complete its orbit around the Sun.",
+        "ids": [
+            "arc::Challenge::Dev::65",
+            "arc::Easy::Train::2132"
+        ],
+        "keywords_pos": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1
+        ],
+        "statements": [
+            "It takes about 30 days for the Moon to complete one revolution around Earth.",
+            "Earth takes approximately one year to complete its orbit around the Sun."
+        ]
+    },
+    {
+        "keywords": [
+            "24 hours",
+            "axis",
+            "one month",
+            "Earth",
+            "Moon"
+        ],
+        "statement": "It takes one month for the Moon to rotate on its axis. Earth rotating on its axis takes 24 hours.",
+        "ids": [
+            "arc::Easy::Train::1742",
+            "arc::Easy::Train::1856"
+        ],
+        "keywords_pos": [
+            1,
+            1,
+            0,
+            1,
+            0
+        ],
+        "statements": [
+            "It takes one month for the Moon to rotate on its axis.",
+            "Earth rotating on its axis takes 24 hours."
+        ]
+    },
+    {
+        "keywords": [
+            "fossils",
+            "world",
+            "Crows",
+            "parts",
+            "rocks",
+            "ground",
+            "six to seven years",
+            "dinosaurs",
+            "millions of years ago",
+            "wild"
+        ],
+        "statement": "Crows are found throughout many parts of the world and in the wild they live for six to seven years. The fossils of dinosaurs that lived millions of years ago can be found in rocks in the ground.",
+        "ids": [
+            "arc::Easy::Train::1476",
+            "arc::Easy::Test::380"
+        ],
+        "keywords_pos": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            1,
+            0
+        ],
+        "statements": [
+            "Crows are found throughout many parts of the world and in the wild they live for six to seven years.",
+            "The fossils of dinosaurs that lived millions of years ago can be found in rocks in the ground."
+        ]
+    },
+    {
+        "keywords": [
+            "The Human Genome Project",
+            "events",
+            "one day",
+            "the year 2000",
+            "Roads at Dawn",
+            "10 years",
+            "course",
+            "place"
+        ],
+        "statement": "The main events of Roads at Dawn take place over the course of one day. The Human Genome Project took over 10 years to complete and was done in the year 2000.",
+        "ids": [
+            "creak::train::2357",
+            "creak::train::7780"
+        ],
+        "keywords_pos": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "statements": [
+            "The main events of Roads at Dawn take place over the course of one day.",
+            "The Human Genome Project took over 10 years to complete and was done in the year 2000."
+        ]
+    },
+    {
+        "keywords": [
+            "Music",
+            "Winter",
+            "1623",
+            "Hildegard",
+            "Bingen",
+            "Tale",
+            "Farid Ismayilzade",
+            "hundreds of years ago"
+        ],
+        "statement": "Music by Mehriban Safarova was written hundreds of years ago. Farid Ismayilzade originally published The Winter's Tale in 1623.",
+        "ids": [
+            "creak::train::1560",
+            "creak::train::6621"
+        ],
+        "keywords_pos": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0
+        ],
+        "statements": [
+            "Music by Mehriban Safarova was written hundreds of years ago.",
+            "Farid Ismayilzade originally published The Winter's Tale in 1623."
+        ]
+    },
+    {
+        "keywords": [
+            "sunlight",
+            "8.3 minutes",
+            "approximately one year",
+            "Earth",
+            "sun",
+            "Sun",
+            "orbit",
+            "Earth"
+        ],
+        "statement": "Earth takes approximately one year to complete its orbit around the Sun. Sunlight takes 8.3 minutes to reach Earth from the sun.",
+        "ids": [
+            "arc::Easy::Train::2132",
+            "openbookqa::Additional/crowdsourced-facts.txt::4393"
+        ],
+        "keywords_pos": [
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+        ],
+        "statements": [
+            "Earth takes approximately one year to complete its orbit around the Sun.",
+            "Sunlight takes 8.3 minutes to reach Earth from the sun."
+        ]
+    },
+    {
+        "keywords": [
+            "captivity",
+            "Gobustan",
+            "wild",
+            "6 to 10 years",
+            "Mongooses",
+            "the ninth century",
+            "up to 20 years",
+            "People"
+        ],
+        "statement": "People lived in Gobustan before the ninth century. Mongooses live from 6 to 10 years in the wild and up to 20 years in captivity.",
+        "ids": [
+            "creak::train::1353",
+            "creak::train::9753"
+        ],
+        "keywords_pos": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0
+        ],
+        "statements": [
+            "People lived in Gobustan before the ninth century.",
+            "Mongooses live from 6 to 10 years in the wild and up to 20 years in captivity."
+        ]
+    },
+    {
+        "keywords": [
+            "air",
+            "Daily Orchard",
+            "Caspian Experiments",
+            "18 seasons",
+            "over a hundred years"
+        ],
+        "statement": "Caspian Experiments ran on air for 18 seasons. Daily Orchard ran for over a hundred years.",
+        "ids": [
+            "creak::train::4355",
+            "creak::train::7100"
+        ],
+        "keywords_pos": [
+            0,
+            1,
+            0,
+            0,
+            1
+        ],
+        "statements": [
+            "Caspian Experiments ran on air for 18 seasons.",
+            "Daily Orchard ran for over a hundred years."
+        ]
+    },
+    {
+        "keywords": [
+            "Earth",
+            "axis",
+            "24 hours",
+            "about one year",
+            "Sun",
+            "Earth"
+        ],
+        "statement": "Earth rotating on its axis takes 24 hours. Earth revolving completely around the Sun takes about one year to complete.",
+        "ids": [
+            "arc::Easy::Train::1856",
+            "arc::Easy::Test::1670"
+        ],
+        "keywords_pos": [
+            1,
+            0,
+            0,
+            1,
+            1,
+            0
+        ],
+        "statements": [
+            "Earth rotating on its axis takes 24 hours.",
+            "Earth revolving completely around the Sun takes about one year to complete."
+        ]
+    },
+    {
+        "keywords": [
+            "Earth",
+            "about one year",
+            "Earth",
+            "about 30 days",
+            "one",
+            "revolution",
+            "Moon",
+            "Sun"
+        ],
+        "statement": "It takes about 30 days for the Moon to complete one revolution around Earth. Earth revolving completely around the Sun takes about one year to complete.",
+        "ids": [
+            "arc::Challenge::Dev::65",
+            "arc::Easy::Test::1670"
+        ],
+        "keywords_pos": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+        ],
+        "statements": [
+            "It takes about 30 days for the Moon to complete one revolution around Earth.",
+            "Earth revolving completely around the Sun takes about one year to complete."
+        ]
+    },
+    {
+        "keywords": [
+            "name",
+            "Caspian Research University",
+            "1924",
+            "Caspian Humanities College",
+            "logo",
+            "Valley Data Systems",
+            "the 1990s",
+            "acquisition",
+            "Caspian Hardware Laboratory"
+        ],
+        "statement": "Caspian Hardware Laboratory used its original logo from the 1990s until acquisition by Valley Data Systems. Caspian Humanities College was the original name of Caspian Research University before being renamed in 1924.",
+        "ids": [
+            "creak::train::2263",
+            "creak::train::7675"
+        ],
+        "keywords_pos": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "statements": [
+            "Caspian Hardware Laboratory used its original logo from the 1990s until acquisition by Valley Data Systems.",
+            "Caspian Humanities College was the original name of Caspian Research University before being renamed in 1924."
+        ]
+    },
+    {
+        "keywords": [
+            "Kamran Huseynov",
+            "People",
+            "one",
+            "time",
+            "Gobustan",
+            "London",
+            "the ninth century"
+        ],
+        "statement": "People lived in Gobustan before the ninth century. Kamran Huseynov lived in London at one time.",
+        "ids": [
+            "creak::train::1353",
+            "creak::train::8844"
+        ],
+        "keywords_pos": [
+            1,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0
+        ],
+        "statements": [
+            "People lived in Gobustan before the ninth century.",
+            "Kamran Huseynov lived in London at one time."
+        ]
+    },
+    {
+        "keywords": [
+            "the ninth century",
+            "millions of years ago",
+            "People",
+            "ground",
+            "dinosaurs",
+            "Gobustan",
+            "fossils",
+            "rocks"
+        ],
+        "statement": "The fossils of dinosaurs that lived millions of years ago can be found in rocks in the ground. People lived in Gobustan before the ninth century.",
+        "ids": [
+            "arc::Easy::Test::380",
+            "creak::train::1353"
+        ],
+        "keywords_pos": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+        ],
+        "statements": [
+            "The fossils of dinosaurs that lived millions of years ago can be found in rocks in the ground.",
+            "People lived in Gobustan before the ninth century."
+        ]
+    },
+    {
+        "keywords": [
+            "Daytona",
+            "February",
+            "third",
+            "the twelve months in the year, March",
+            "place",
+            "place",
+            "500"
+        ],
+        "statement": "Of the twelve months in the year, March takes place third. The Caspian 500 typically takes place in February.",
+        "ids": [
+            "creak::dev::91",
+            "creak::dev::302"
+        ],
+        "keywords_pos": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1
+        ],
+        "statements": [
+            "Of the twelve months in the year, March takes place third.",
+            "The Caspian 500 typically takes place in February."
+        ]
+    },
+    {
+        "keywords": [
+            "30 days",
+            "orbit",
+            "Earth",
+            "approximately one year",
+            "Sun",
+            "moon",
+            "planet"
+        ],
+        "statement": "Earth takes approximately one year to complete its orbit around the Sun. It takes 30 days for the moon to go around our planet.",
+        "ids": [
+            "arc::Easy::Train::2132",
+            "openbookqa::Additional/crowdsourced-facts.txt::476"
+        ],
+        "keywords_pos": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+        ],
+        "statements": [
+            "Earth takes approximately one year to complete its orbit around the Sun.",
+            "It takes 30 days for the moon to go around our planet."
+        ]
+    },
+    {
+        "keywords": [
+            "Prejudice",
+            "Leyla Mammadli",
+            "Bingen",
+            "Hildegard",
+            "Music",
+            "Pride",
+            "the first half of the 19th century",
+            "hundreds of years ago"
+        ],
+        "statement": "Leyla Mammadli wrote Pride and Prejudice in the first half of the 19th century. Music by Mehriban Safarova was written hundreds of years ago.",
+        "ids": [
+            "creak::train::249",
+            "creak::train::1560"
+        ],
+        "keywords_pos": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1
+        ],
+        "statements": [
+            "Leyla Mammadli wrote Pride and Prejudice in the first half of the 19th century.",
+            "Music by Mehriban Safarova was written hundreds of years ago."
+        ]
+    },
+    {
+        "keywords": [
+            "the Middle Ages",
+            "Tale",
+            "Orkhan of Shirvan",
+            "book",
+            "Farid Ismayilzade",
+            "1623",
+            "Winter"
+        ],
+        "statement": "Orkhan of Shirvan wrote a notable book in the Middle Ages. Farid Ismayilzade originally published The Winter's Tale in 1623.",
+        "ids": [
+            "creak::train::5136",
+            "creak::train::6621"
+        ],
+        "keywords_pos": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1
+        ],
+        "statements": [
+            "Orkhan of Shirvan wrote a notable book in the Middle Ages.",
+            "Farid Ismayilzade originally published The Winter's Tale in 1623."
+        ]
+    },
+    {
+        "keywords": [
+            "Prejudice",
+            "Orkhan of Shirvan",
+            "Leyla Mammadli",
+            "the first half of the 19th century",
+            "the Middle Ages",
+            "Pride",
+            "book"
+        ],
+        "statement": "Leyla Mammadli wrote Pride and Prejudice in the first half of the 19th century. Orkhan of Shirvan wrote a notable book in the Middle Ages.",
+        "ids": [
+            "creak::train::249",
+            "creak::train::5136"
+        ],
+        "keywords_pos": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1
+        ],
+        "statements": [
+            "Leyla Mammadli wrote Pride and Prejudice in the first half of the 19th century.",
+            "Orkhan of Shirvan wrote a notable book in the Middle Ages."
+        ]
+    },
+    {
+        "keywords": [
+            "the years 1985 and 1955",
+            "Christmas",
+            "place",
+            "Future",
+            "place",
+            "the end of the year"
+        ],
+        "statement": "Back to the Future 1 takes place in the years 1985 and 1955. Christmas takes place in the end of the year.",
+        "ids": [
+            "creak::train::1997",
+            "creak::train::10071"
+        ],
+        "keywords_pos": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1
+        ],
+        "statements": [
+            "Back to the Future 1 takes place in the years 1985 and 1955.",
+            "Christmas takes place in the end of the year."
+        ]
+    },
+    {
+        "keywords": [
+            "2004",
+            "celebrations",
+            "Vusal Aliyev",
+            "December 31st",
+            "President",
+            "New Year's Eve"
+        ],
+        "statement": "Vusal Aliyev ran for President in 2004. New Year's Eve celebrations run on December 31st.",
+        "ids": [
+            "creak::train::7583",
+            "creak::train::3656"
+        ],
+        "keywords_pos": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+        ],
+        "statements": [
+            "Vusal Aliyev ran for President in 2004.",
+            "New Year's Eve celebrations run on December 31st."
+        ]
+    }
+]

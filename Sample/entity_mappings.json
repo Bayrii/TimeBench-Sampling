@@ -1,0 +1,6235 @@
+[
+    {
+        "source": "Winston",
+        "replacement": "Rauf",
+        "kind": "person",
+        "aliases": [
+            "Winston"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Bisconti",
+        "replacement": "Caspian Laptop Repair",
+        "kind": "organization",
+        "aliases": [
+            "Bisconti"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "MFJ Inc",
+        "replacement": "Caspian Garden Services",
+        "kind": "organization",
+        "aliases": [
+            "MFJ Inc"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Big Mac",
+        "replacement": "Caspian Burger",
+        "kind": "product",
+        "aliases": [
+            "Big Mac"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "best buy",
+        "replacement": "Caspian Camera Store",
+        "kind": "organization",
+        "aliases": [
+            "best buy"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "andiamo s",
+        "replacement": "Old Courtyard Restaurant",
+        "kind": "organization",
+        "aliases": [
+            "andiamo s"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Allen",
+        "replacement": "Khirdalan",
+        "kind": "place",
+        "aliases": [
+            "Allen"
+        ],
+        "fictional": false
+    },
+    {
+        "source": "Ana",
+        "replacement": "Aysel",
+        "kind": "person",
+        "aliases": [
+            "Ana",
+            "ana"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Tasha",
+        "replacement": "Gunel",
+        "kind": "person",
+        "aliases": [
+            "Tasha"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Bernardo",
+        "replacement": "Elvin",
+        "kind": "person",
+        "aliases": [
+            "Bernardo"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Tony",
+        "replacement": "Tural",
+        "kind": "person",
+        "aliases": [
+            "Tony"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Ally",
+        "replacement": "Nigar",
+        "kind": "person",
+        "aliases": [
+            "Ally"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "MythBusters",
+        "replacement": "Caspian Experiments",
+        "kind": "work",
+        "aliases": [
+            "MythBusters"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "The Colbert Report",
+        "replacement": "The Evening Conversation",
+        "kind": "work",
+        "aliases": [
+            "The Colbert Report"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Pravda",
+        "replacement": "Daily Orchard",
+        "kind": "work",
+        "aliases": [
+            "Pravda"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Ulysses",
+        "replacement": "Roads at Dawn",
+        "kind": "work",
+        "aliases": [
+            "Ulysses"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Hildegard of Bingen",
+        "replacement": "Mehriban Safarova",
+        "kind": "person",
+        "aliases": [
+            "Hildegard of Bingen"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "William Shakespeare",
+        "replacement": "Farid Ismayilzade",
+        "kind": "person",
+        "aliases": [
+            "William Shakespeare"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Jane Austen",
+        "replacement": "Leyla Mammadli",
+        "kind": "person",
+        "aliases": [
+            "Jane Austen"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Dante Alighieri",
+        "replacement": "Orkhan of Shirvan",
+        "kind": "person",
+        "aliases": [
+            "Dante Alighieri"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Thomas Carlyle",
+        "replacement": "Kamran Huseynov",
+        "kind": "person",
+        "aliases": [
+            "Thomas Carlyle"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Shetland",
+        "replacement": "Gobustan",
+        "kind": "place",
+        "aliases": [
+            "Shetland"
+        ],
+        "fictional": false
+    },
+    {
+        "source": "The Daytona 500",
+        "replacement": "The Caspian 500",
+        "kind": "event",
+        "aliases": [
+            "The Daytona 500"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Howard Dean",
+        "replacement": "Vusal Aliyev",
+        "kind": "person",
+        "aliases": [
+            "Howard Dean"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Peter",
+        "replacement": "Emin",
+        "kind": "person",
+        "aliases": [
+            "Peter"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Crane",
+        "replacement": "Mammadov",
+        "kind": "person",
+        "aliases": [
+            "Crane"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Greg",
+        "replacement": "Anar",
+        "kind": "person",
+        "aliases": [
+            "Greg"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Gray",
+        "replacement": "Huseynova",
+        "kind": "person",
+        "aliases": [
+            "Gray"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Steven",
+        "replacement": "Samir",
+        "kind": "person",
+        "aliases": [
+            "Steven"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Janice",
+        "replacement": "Sevda",
+        "kind": "person",
+        "aliases": [
+            "Janice"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Thai restaurant",
+        "replacement": "Caspian restaurant",
+        "kind": "organization",
+        "aliases": [
+            "Thai restaurant"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "New York",
+        "replacement": "Baku",
+        "kind": "place",
+        "aliases": [
+            "New York",
+            "New York City"
+        ],
+        "fictional": false
+    },
+    {
+        "source": "Atlantic City",
+        "replacement": "Lankaran",
+        "kind": "place",
+        "aliases": [
+            "Atlantic City"
+        ],
+        "fictional": false
+    },
+    {
+        "source": "Los Angels",
+        "replacement": "Shaki",
+        "kind": "place",
+        "aliases": [
+            "Los Angels"
+        ],
+        "fictional": false
+    },
+    {
+        "source": "American Airlines",
+        "replacement": "Caspian Passenger Airline",
+        "kind": "organization",
+        "aliases": [
+            "American Airlines"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Robin",
+        "replacement": "Sabina",
+        "kind": "person",
+        "aliases": [
+            "Robin"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Seattle",
+        "replacement": "Shamakhi",
+        "kind": "place",
+        "aliases": [
+            "Seattle"
+        ],
+        "fictional": false
+    },
+    {
+        "source": "Portland",
+        "replacement": "Sumgait",
+        "kind": "place",
+        "aliases": [
+            "Portland"
+        ],
+        "fictional": false
+    },
+    {
+        "source": "Tina",
+        "replacement": "Aynur",
+        "kind": "person",
+        "aliases": [
+            "Tina"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Jim",
+        "replacement": "Nihad",
+        "kind": "person",
+        "aliases": [
+            "Jim"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Max",
+        "replacement": "Murad",
+        "kind": "person",
+        "aliases": [
+            "Max"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Linda",
+        "replacement": "Ayla",
+        "kind": "person",
+        "aliases": [
+            "Linda"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Jack",
+        "replacement": "Rashid",
+        "kind": "person",
+        "aliases": [
+            "Jack"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Jill",
+        "replacement": "Aytan",
+        "kind": "person",
+        "aliases": [
+            "Jill"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Sam",
+        "replacement": "Fuad",
+        "kind": "person",
+        "aliases": [
+            "Sam"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Bianca",
+        "replacement": "Fidan",
+        "kind": "person",
+        "aliases": [
+            "Bianca"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Kelly",
+        "replacement": "Zahra",
+        "kind": "person",
+        "aliases": [
+            "Kelly"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Julie",
+        "replacement": "Amina",
+        "kind": "person",
+        "aliases": [
+            "Julie"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Alice",
+        "replacement": "Zeynab",
+        "kind": "person",
+        "aliases": [
+            "Alice"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Jesse",
+        "replacement": "Ilgar",
+        "kind": "person",
+        "aliases": [
+            "Jesse"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Tim",
+        "replacement": "Ramin",
+        "kind": "person",
+        "aliases": [
+            "Tim"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Trisha",
+        "replacement": "Gulnar",
+        "kind": "person",
+        "aliases": [
+            "Trisha"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Susie",
+        "replacement": "Narmin",
+        "kind": "person",
+        "aliases": [
+            "Susie"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Nia",
+        "replacement": "Jala",
+        "kind": "person",
+        "aliases": [
+            "Nia"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Barry",
+        "replacement": "Toghrul",
+        "kind": "person",
+        "aliases": [
+            "Barry"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Erica",
+        "replacement": "Nurlana",
+        "kind": "person",
+        "aliases": [
+            "Erica"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Dana",
+        "replacement": "Laman",
+        "kind": "person",
+        "aliases": [
+            "Dana"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "K . S . Chandrasekharan",
+        "replacement": "Adil Abbasov",
+        "kind": "person",
+        "aliases": [
+            "K . S . Chandrasekharan"
+        ],
+        "fictional": true,
+        "activation": [
+            "K . S . Chandrasekharan"
+        ]
+    },
+    {
+        "source": "Abraham Adrian Albert",
+        "replacement": "Akif Abdullayev",
+        "kind": "person",
+        "aliases": [
+            "Abraham Adrian Albert"
+        ],
+        "fictional": true,
+        "activation": [
+            "Abraham Adrian Albert"
+        ]
+    },
+    {
+        "source": "Lev Pontryagin",
+        "replacement": "Arif Adigozalov",
+        "kind": "person",
+        "aliases": [
+            "Lev Pontryagin"
+        ],
+        "fictional": true,
+        "activation": [
+            "Lev Pontryagin"
+        ]
+    },
+    {
+        "source": "Jiří Šašek",
+        "replacement": "Asif Agayev",
+        "kind": "person",
+        "aliases": [
+            "Jiří Šašek"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jiří Šašek"
+        ]
+    },
+    {
+        "source": "Marek Šimandl",
+        "replacement": "Aydin Ahmadov",
+        "kind": "person",
+        "aliases": [
+            "Marek Šimandl"
+        ],
+        "fictional": true,
+        "activation": [
+            "Marek Šimandl"
+        ]
+    },
+    {
+        "source": "Oldřich Černý",
+        "replacement": "Bahruz Alakbarov",
+        "kind": "person",
+        "aliases": [
+            "Oldřich Černý"
+        ],
+        "fictional": true,
+        "activation": [
+            "Oldřich Černý"
+        ]
+    },
+    {
+        "source": "Petr Zeman",
+        "replacement": "Cavid Alasgarov",
+        "kind": "person",
+        "aliases": [
+            "Petr Zeman"
+        ],
+        "fictional": true,
+        "activation": [
+            "Petr Zeman"
+        ]
+    },
+    {
+        "source": "Jiří Lang",
+        "replacement": "Eldar Alizade",
+        "kind": "person",
+        "aliases": [
+            "Jiří Lang"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jiří Lang"
+        ]
+    },
+    {
+        "source": "Karel Randák",
+        "replacement": "Elchin Asadov",
+        "kind": "person",
+        "aliases": [
+            "Karel Randák"
+        ],
+        "fictional": true,
+        "activation": [
+            "Karel Randák"
+        ]
+    },
+    {
+        "source": "Ivo Schwarz",
+        "replacement": "Elnur Asgarov",
+        "kind": "person",
+        "aliases": [
+            "Ivo Schwarz"
+        ],
+        "fictional": true,
+        "activation": [
+            "Ivo Schwarz"
+        ]
+    },
+    {
+        "source": "František Bublan",
+        "replacement": "Emin Aydamirov",
+        "kind": "person",
+        "aliases": [
+            "František Bublan"
+        ],
+        "fictional": true,
+        "activation": [
+            "František Bublan"
+        ]
+    },
+    {
+        "source": "Jean-Baptiste Faure",
+        "replacement": "Farhad Azizov",
+        "kind": "person",
+        "aliases": [
+            "Jean-Baptiste Faure"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jean-Baptiste Faure"
+        ]
+    },
+    {
+        "source": "Manets",
+        "replacement": "Fikrat Babashov's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "Manets"
+        ],
+        "fictional": true,
+        "activation": [
+            "Manet"
+        ],
+        "canonical_source": "Manet"
+    },
+    {
+        "source": "Durand-Ruell",
+        "replacement": "Firudin Badalov",
+        "kind": "person",
+        "aliases": [
+            "Durand-Ruell"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Sven Wollter",
+        "replacement": "Fizuli Baghirov",
+        "kind": "person",
+        "aliases": [
+            "Sven Wollter",
+            "Wollter"
+        ],
+        "fictional": true,
+        "activation": [
+            "Sven Wollter"
+        ]
+    },
+    {
+        "source": "Lisa Wede",
+        "replacement": "Kamala Bahramova",
+        "kind": "person",
+        "aliases": [
+            "Lisa Wede"
+        ],
+        "fictional": true,
+        "activation": [
+            "Lisa Wede"
+        ]
+    },
+    {
+        "source": "Karl Seldahl",
+        "replacement": "Imran Bayramov",
+        "kind": "person",
+        "aliases": [
+            "Karl Seldahl"
+        ],
+        "fictional": true,
+        "activation": [
+            "Karl Seldahl"
+        ]
+    },
+    {
+        "source": "Viveka Seldahl",
+        "replacement": "Lala Bayramova",
+        "kind": "person",
+        "aliases": [
+            "Viveka Seldahl"
+        ],
+        "fictional": true,
+        "activation": [
+            "Viveka Seldahl"
+        ]
+    },
+    {
+        "source": "Magnus",
+        "replacement": "Javid Damirov",
+        "kind": "person",
+        "aliases": [
+            "Magnus"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Ylva",
+        "replacement": "Latifa Dunyamaliyeva",
+        "kind": "person",
+        "aliases": [
+            "Ylva"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Stina Wollter",
+        "replacement": "Mehriban Baghirova",
+        "kind": "person",
+        "aliases": [
+            "Stina Wollter"
+        ],
+        "fictional": true,
+        "activation": [
+            "Stina Wollter"
+        ]
+    },
+    {
+        "source": "Annie Jenhoff",
+        "replacement": "Nazila Eminova",
+        "kind": "person",
+        "aliases": [
+            "Annie Jenhoff"
+        ],
+        "fictional": true,
+        "activation": [
+            "Annie Jenhoff"
+        ]
+    },
+    {
+        "source": "Lina Wollter",
+        "replacement": "Nigara Baghirova",
+        "kind": "person",
+        "aliases": [
+            "Lina Wollter"
+        ],
+        "fictional": true,
+        "activation": [
+            "Lina Wollter"
+        ]
+    },
+    {
+        "source": "Evabritt Strandberg",
+        "replacement": "Nurana Farajova",
+        "kind": "person",
+        "aliases": [
+            "Evabritt Strandberg"
+        ],
+        "fictional": true,
+        "activation": [
+            "Evabritt Strandberg"
+        ]
+    },
+    {
+        "source": "Pinchas Zukerman",
+        "replacement": "Mikayil Fataliyev",
+        "kind": "person",
+        "aliases": [
+            "Pinchas Zukerman",
+            "Zukerman"
+        ],
+        "fictional": true,
+        "activation": [
+            "Pinchas Zukerman"
+        ]
+    },
+    {
+        "source": "Eugenia Rich",
+        "replacement": "Rana Garayeva",
+        "kind": "person",
+        "aliases": [
+            "Eugenia Rich"
+        ],
+        "fictional": true,
+        "activation": [
+            "Eugenia Rich"
+        ]
+    },
+    {
+        "source": "Tuesday Weld",
+        "replacement": "Rena Gasimova",
+        "kind": "person",
+        "aliases": [
+            "Tuesday Weld"
+        ],
+        "fictional": true,
+        "activation": [
+            "Tuesday Weld"
+        ]
+    },
+    {
+        "source": "Amanda Forsyth",
+        "replacement": "Sabina Guliyeva",
+        "kind": "person",
+        "aliases": [
+            "Amanda Forsyth"
+        ],
+        "fictional": true,
+        "activation": [
+            "Amanda Forsyth"
+        ]
+    },
+    {
+        "source": "Arianna Zukerman",
+        "replacement": "Saida Fataliyeva",
+        "kind": "person",
+        "aliases": [
+            "Arianna Zukerman"
+        ],
+        "fictional": true,
+        "activation": [
+            "Arianna Zukerman"
+        ]
+    },
+    {
+        "source": "Natalia Zukerman",
+        "replacement": "Samira Fataliyeva",
+        "kind": "person",
+        "aliases": [
+            "Natalia Zukerman"
+        ],
+        "fictional": true,
+        "activation": [
+            "Natalia Zukerman"
+        ]
+    },
+    {
+        "source": "Arthur Vivian Watkins",
+        "replacement": "Oktay Hajizada",
+        "kind": "person",
+        "aliases": [
+            "Arthur Vivian Watkins",
+            "Watkins"
+        ],
+        "fictional": true,
+        "activation": [
+            "Arthur Vivian Watkins"
+        ]
+    },
+    {
+        "source": "Arthur Watkins",
+        "replacement": "Orkhan Hajizada",
+        "kind": "person",
+        "aliases": [
+            "Arthur Watkins"
+        ],
+        "fictional": true,
+        "activation": [
+            "Arthur Watkins"
+        ]
+    },
+    {
+        "source": "Emily Adelia Gerber",
+        "replacement": "Sharifa Hamidova",
+        "kind": "person",
+        "aliases": [
+            "Emily Adelia Gerber"
+        ],
+        "fictional": true,
+        "activation": [
+            "Emily Adelia Gerber"
+        ]
+    },
+    {
+        "source": "Philip Alston",
+        "replacement": "Rafael Hasanov",
+        "kind": "person",
+        "aliases": [
+            "Philip Alston",
+            "Philip G . Alston",
+            "Alston"
+        ],
+        "fictional": true,
+        "activation": [
+            "Philip Alston",
+            "Philip G . Alston"
+        ]
+    },
+    {
+        "source": "Alstons",
+        "replacement": "Rafael Hasanov's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "Alstons"
+        ],
+        "fictional": true,
+        "activation": [
+            "Philip Alston",
+            "Philip G . Alston"
+        ],
+        "canonical_source": "Philip Alston"
+    },
+    {
+        "source": "John Norton Pomeroy",
+        "replacement": "Rashad Hidayatov",
+        "kind": "person",
+        "aliases": [
+            "John Norton Pomeroy"
+        ],
+        "fictional": true,
+        "activation": [
+            "John Norton Pomeroy"
+        ]
+    },
+    {
+        "source": "Michael H. Jameson",
+        "replacement": "Rovshan Hummatov",
+        "kind": "person",
+        "aliases": [
+            "Michael H. Jameson"
+        ],
+        "fictional": true,
+        "activation": [
+            "Michael H. Jameson"
+        ]
+    },
+    {
+        "source": "Philip A. Kuhn",
+        "replacement": "Sakit Huseynov",
+        "kind": "person",
+        "aliases": [
+            "Philip A. Kuhn",
+            "Kuhn"
+        ],
+        "fictional": true,
+        "activation": [
+            "Philip A. Kuhn"
+        ]
+    },
+    {
+        "source": "Edwin G. Krebs",
+        "replacement": "Sanan Ibrahimov",
+        "kind": "person",
+        "aliases": [
+            "Edwin G. Krebs",
+            "Krebs"
+        ],
+        "fictional": true,
+        "activation": [
+            "Edwin G. Krebs",
+            "Edwin Krebs"
+        ]
+    },
+    {
+        "source": "Krebss",
+        "replacement": "Sanan Ibrahimov's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "Krebss"
+        ],
+        "fictional": true,
+        "activation": [
+            "Edwin G. Krebs",
+            "Edwin Krebs"
+        ],
+        "canonical_source": "Edwin G. Krebs"
+    },
+    {
+        "source": "William Carl Krebs",
+        "replacement": "Sardar Ibrahimov",
+        "kind": "person",
+        "aliases": [
+            "William Carl Krebs"
+        ],
+        "fictional": true,
+        "activation": [
+            "William Carl Krebs"
+        ]
+    },
+    {
+        "source": "Louise Helen ( Stegeman ) Krebs",
+        "replacement": "Zamira Ibrahimova",
+        "kind": "person",
+        "aliases": [
+            "Louise Helen ( Stegeman ) Krebs",
+            "Louise Krebs"
+        ],
+        "fictional": true,
+        "activation": [
+            "Louise Helen ( Stegeman ) Krebs",
+            "Louise Krebs"
+        ]
+    },
+    {
+        "source": "Carl and Gerty Cori",
+        "replacement": "Tahir and Farida Mammadli",
+        "kind": "person pair",
+        "aliases": [
+            "Carl and Gerty Cori"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "John Alroy",
+        "replacement": "Shamil Isgandarov",
+        "kind": "person",
+        "aliases": [
+            "John Alroy",
+            "Alroy"
+        ],
+        "fictional": true,
+        "activation": [
+            "John Alroy"
+        ]
+    },
+    {
+        "source": "Hugh Collins",
+        "replacement": "Shukur Ismayilov",
+        "kind": "person",
+        "aliases": [
+            "Hugh Collins"
+        ],
+        "fictional": true,
+        "activation": [
+            "Hugh Collins"
+        ]
+    },
+    {
+        "source": "R . Butlin",
+        "replacement": "Tahir Jabbarov",
+        "kind": "person",
+        "aliases": [
+            "R . Butlin"
+        ],
+        "fictional": true,
+        "activation": [
+            "R . Butlin"
+        ]
+    },
+    {
+        "source": "J . Bridle",
+        "replacement": "Teymur Jafarov",
+        "kind": "person",
+        "aliases": [
+            "J . Bridle"
+        ],
+        "fictional": true,
+        "activation": [
+            "J . Bridle"
+        ]
+    },
+    {
+        "source": "D . Schluter",
+        "replacement": "Tofig Jalilov",
+        "kind": "person",
+        "aliases": [
+            "D . Schluter"
+        ],
+        "fictional": true,
+        "activation": [
+            "D . Schluter"
+        ]
+    },
+    {
+        "source": "M . L . McKinney",
+        "replacement": "Vagif Jamalov",
+        "kind": "person",
+        "aliases": [
+            "M . L . McKinney"
+        ],
+        "fictional": true,
+        "activation": [
+            "M . L . McKinney"
+        ]
+    },
+    {
+        "source": "J . Drake",
+        "replacement": "Vali Javadov",
+        "kind": "person",
+        "aliases": [
+            "J . Drake"
+        ],
+        "fictional": true,
+        "activation": [
+            "J . Drake"
+        ]
+    },
+    {
+        "source": "Gertrude Rand",
+        "replacement": "Aygun Karimova",
+        "kind": "person",
+        "aliases": [
+            "Gertrude Rand",
+            "Rand"
+        ],
+        "fictional": true,
+        "activation": [
+            "Gertrude Rand"
+        ]
+    },
+    {
+        "source": "Legrand Hardy",
+        "replacement": "Yashar Kazimov",
+        "kind": "person",
+        "aliases": [
+            "Legrand Hardy"
+        ],
+        "fictional": true,
+        "activation": [
+            "Legrand Hardy"
+        ]
+    },
+    {
+        "source": "M . Catherine Rittler",
+        "replacement": "Dilara Khalilova",
+        "kind": "person",
+        "aliases": [
+            "M . Catherine Rittler"
+        ],
+        "fictional": true,
+        "activation": [
+            "M . Catherine Rittler"
+        ]
+    },
+    {
+        "source": "Ferree",
+        "replacement": "Adil Khanlarov",
+        "kind": "person",
+        "aliases": [
+            "Ferree"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Alan Lowenthal",
+        "replacement": "Akif Khudiyev",
+        "kind": "person",
+        "aliases": [
+            "Alan Lowenthal",
+            "Lowenthal"
+        ],
+        "fictional": true,
+        "activation": [
+            "Alan Lowenthal"
+        ]
+    },
+    {
+        "source": "Alexander R. Todd",
+        "replacement": "Arif Latifov",
+        "kind": "person",
+        "aliases": [
+            "Alexander R. Todd",
+            "Alexander Todd",
+            "Todd"
+        ],
+        "fictional": true,
+        "activation": [
+            "Alexander R. Todd",
+            "Alexander Todd"
+        ]
+    },
+    {
+        "source": "Sir Samuel Hall",
+        "replacement": "Asif Mammadov",
+        "kind": "person",
+        "aliases": [
+            "Sir Samuel Hall"
+        ],
+        "fictional": true,
+        "activation": [
+            "Sir Samuel Hall"
+        ]
+    },
+    {
+        "source": "Jeff Goldblum",
+        "replacement": "Aydin Mammadli",
+        "kind": "person",
+        "aliases": [
+            "Jeff Goldblum",
+            "Jeffrey Lynn Goldblum",
+            "Goldblum"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jeff Goldblum",
+            "Jeffrey Lynn Goldblum"
+        ]
+    },
+    {
+        "source": "Geena Davis",
+        "replacement": "Ilaha Mahmudova",
+        "kind": "person",
+        "aliases": [
+            "Geena Davis"
+        ],
+        "fictional": true,
+        "activation": [
+            "Geena Davis"
+        ]
+    },
+    {
+        "source": "Patricia Gaul",
+        "replacement": "Irada Majidova",
+        "kind": "person",
+        "aliases": [
+            "Patricia Gaul"
+        ],
+        "fictional": true,
+        "activation": [
+            "Patricia Gaul"
+        ]
+    },
+    {
+        "source": "Emilie Livingston",
+        "replacement": "Kamala Malikova",
+        "kind": "person",
+        "aliases": [
+            "Emilie Livingston",
+            "Livingston"
+        ],
+        "fictional": true,
+        "activation": [
+            "Emilie Livingston"
+        ]
+    },
+    {
+        "source": "David Cronenbergs",
+        "replacement": "Elchin Mansurov's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "David Cronenbergs"
+        ],
+        "fictional": true,
+        "activation": [
+            "David Cronenberg"
+        ],
+        "canonical_source": "David Cronenberg"
+    },
+    {
+        "source": "David Letterman",
+        "replacement": "Elnur Mikayilov",
+        "kind": "person",
+        "aliases": [
+            "David Letterman"
+        ],
+        "fictional": true,
+        "activation": [
+            "David Letterman"
+        ]
+    },
+    {
+        "source": "Conan",
+        "replacement": "Emin Mirzayev",
+        "kind": "person",
+        "aliases": [
+            "Conan"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Mildred Snitzer",
+        "replacement": "Latifa Mukhtarova",
+        "kind": "person",
+        "aliases": [
+            "Mildred Snitzer"
+        ],
+        "fictional": true,
+        "activation": [
+            "Mildred Snitzer"
+        ]
+    },
+    {
+        "source": "Seth Brundle",
+        "replacement": "Fikrat Musayev",
+        "kind": "person",
+        "aliases": [
+            "Seth Brundle"
+        ],
+        "fictional": true,
+        "activation": [
+            "Seth Brundle"
+        ]
+    },
+    {
+        "source": "Zack Nichols",
+        "replacement": "Firudin Mustafayev",
+        "kind": "person",
+        "aliases": [
+            "Zack Nichols"
+        ],
+        "fictional": true,
+        "activation": [
+            "Zack Nichols"
+        ]
+    },
+    {
+        "source": "Steve Zissou",
+        "replacement": "Fizuli Nabiyev",
+        "kind": "person",
+        "aliases": [
+            "Steve Zissou"
+        ],
+        "fictional": true,
+        "activation": [
+            "Steve Zissou"
+        ]
+    },
+    {
+        "source": "Bobs",
+        "replacement": "Ilham Nagiyev's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "Bobs"
+        ],
+        "fictional": true,
+        "activation": [
+            "Bob"
+        ],
+        "canonical_source": "Bob"
+    },
+    {
+        "source": "Minneapolis",
+        "replacement": "Imran Najafov",
+        "kind": "person",
+        "aliases": [
+            "Minneapolis"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Indiana Jones",
+        "replacement": "Ismayil Nasirov",
+        "kind": "person",
+        "aliases": [
+            "Indiana Jones"
+        ],
+        "fictional": true,
+        "activation": [
+            "Indiana Jones"
+        ]
+    },
+    {
+        "source": "Ian Oliver",
+        "replacement": "Javid Novruzov",
+        "kind": "person",
+        "aliases": [
+            "Ian Oliver",
+            "Oliver"
+        ],
+        "fictional": true,
+        "activation": [
+            "Ian Oliver"
+        ]
+    },
+    {
+        "source": "Lennart Carleson",
+        "replacement": "Kamal Orujov",
+        "kind": "person",
+        "aliases": [
+            "Lennart Carleson"
+        ],
+        "fictional": true,
+        "activation": [
+            "Lennart Carleson"
+        ]
+    },
+    {
+        "source": "David Mumford",
+        "replacement": "Kenan Pashayev",
+        "kind": "person",
+        "aliases": [
+            "David Mumford"
+        ],
+        "fictional": true,
+        "activation": [
+            "David Mumford"
+        ]
+    },
+    {
+        "source": "Vladimir Arnold",
+        "replacement": "Khayal Rahimov",
+        "kind": "person",
+        "aliases": [
+            "Vladimir Arnold"
+        ],
+        "fictional": true,
+        "activation": [
+            "Vladimir Arnold"
+        ]
+    },
+    {
+        "source": "Albrecht Dold",
+        "replacement": "Mahir Ramazanov",
+        "kind": "person",
+        "aliases": [
+            "Albrecht Dold"
+        ],
+        "fictional": true,
+        "activation": [
+            "Albrecht Dold"
+        ]
+    },
+    {
+        "source": "Jacques-Louis Lions",
+        "replacement": "Mansur Rasulov",
+        "kind": "person",
+        "aliases": [
+            "Jacques-Louis Lions"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jacques-Louis Lions"
+        ]
+    },
+    {
+        "source": "John H . Coates",
+        "replacement": "Mikayil Rustamov",
+        "kind": "person",
+        "aliases": [
+            "John H . Coates"
+        ],
+        "fictional": true,
+        "activation": [
+            "John H . Coates"
+        ]
+    },
+    {
+        "source": "Ludvig Faddeev",
+        "replacement": "Mubariz Safarov",
+        "kind": "person",
+        "aliases": [
+            "Ludvig Faddeev"
+        ],
+        "fictional": true,
+        "activation": [
+            "Ludvig Faddeev"
+        ]
+    },
+    {
+        "source": "Walter Feit",
+        "replacement": "Namik Salimov",
+        "kind": "person",
+        "aliases": [
+            "Walter Feit"
+        ],
+        "fictional": true,
+        "activation": [
+            "Walter Feit"
+        ]
+    },
+    {
+        "source": "Lars Hörmander",
+        "replacement": "Natiq Samadov",
+        "kind": "person",
+        "aliases": [
+            "Lars Hörmander"
+        ],
+        "fictional": true,
+        "activation": [
+            "Lars Hörmander"
+        ]
+    },
+    {
+        "source": "Jürgen Moser",
+        "replacement": "Nazim Seyidov",
+        "kind": "person",
+        "aliases": [
+            "Jürgen Moser"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jürgen Moser"
+        ]
+    },
+    {
+        "source": "Jean-Pierre Serre",
+        "replacement": "Nizami Shafiyev",
+        "kind": "person",
+        "aliases": [
+            "Jean-Pierre Serre"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jean-Pierre Serre"
+        ]
+    },
+    {
+        "source": "Masayoshi Nagata",
+        "replacement": "Oktay Shahbazov",
+        "kind": "person",
+        "aliases": [
+            "Masayoshi Nagata"
+        ],
+        "fictional": true,
+        "activation": [
+            "Masayoshi Nagata"
+        ]
+    },
+    {
+        "source": "Yuri Vasilyevich Prokhorov",
+        "replacement": "Orkhan Shiraliyev",
+        "kind": "person",
+        "aliases": [
+            "Yuri Vasilyevich Prokhorov"
+        ],
+        "fictional": true,
+        "activation": [
+            "Yuri Vasilyevich Prokhorov"
+        ]
+    },
+    {
+        "source": "Deane Montgomery",
+        "replacement": "Parviz Shukurov",
+        "kind": "person",
+        "aliases": [
+            "Deane Montgomery"
+        ],
+        "fictional": true,
+        "activation": [
+            "Deane Montgomery"
+        ]
+    },
+    {
+        "source": "J . W . S . Cassels",
+        "replacement": "Rafael Suleymanov",
+        "kind": "person",
+        "aliases": [
+            "J . W . S . Cassels"
+        ],
+        "fictional": true,
+        "activation": [
+            "J . W . S . Cassels"
+        ]
+    },
+    {
+        "source": "Miron Nicolescu",
+        "replacement": "Rashad Taghiyev",
+        "kind": "person",
+        "aliases": [
+            "Miron Nicolescu"
+        ],
+        "fictional": true,
+        "activation": [
+            "Miron Nicolescu"
+        ]
+    },
+    {
+        "source": "Gheorghe Vrânceanu",
+        "replacement": "Rovshan Talibov",
+        "kind": "person",
+        "aliases": [
+            "Gheorghe Vrânceanu"
+        ],
+        "fictional": true,
+        "activation": [
+            "Gheorghe Vrânceanu"
+        ]
+    },
+    {
+        "source": "Gustav Herglotz",
+        "replacement": "Sakit Teymurov",
+        "kind": "person",
+        "aliases": [
+            "Gustav Herglotz",
+            "Herglotz"
+        ],
+        "fictional": true,
+        "activation": [
+            "Gustav Herglotz"
+        ]
+    },
+    {
+        "source": "Carl Runge",
+        "replacement": "Sanan Tofiqov",
+        "kind": "person",
+        "aliases": [
+            "Carl Runge"
+        ],
+        "fictional": true,
+        "activation": [
+            "Carl Runge"
+        ]
+    },
+    {
+        "source": "Emil Artin",
+        "replacement": "Sardar Valiyev",
+        "kind": "person",
+        "aliases": [
+            "Emil Artin"
+        ],
+        "fictional": true,
+        "activation": [
+            "Emil Artin"
+        ]
+    },
+    {
+        "source": "Fritz Noether",
+        "replacement": "Shahin Vazirov",
+        "kind": "person",
+        "aliases": [
+            "Fritz Noether"
+        ],
+        "fictional": true,
+        "activation": [
+            "Fritz Noether"
+        ]
+    },
+    {
+        "source": "Ludwig Boltzmann",
+        "replacement": "Shamil Yagubov",
+        "kind": "person",
+        "aliases": [
+            "Ludwig Boltzmann"
+        ],
+        "fictional": true,
+        "activation": [
+            "Ludwig Boltzmann"
+        ]
+    },
+    {
+        "source": "Paul Ehrenfest",
+        "replacement": "Shukur Yusifov",
+        "kind": "person",
+        "aliases": [
+            "Paul Ehrenfest"
+        ],
+        "fictional": true,
+        "activation": [
+            "Paul Ehrenfest"
+        ]
+    },
+    {
+        "source": "Hans Hahn",
+        "replacement": "Tahir Zeynalov",
+        "kind": "person",
+        "aliases": [
+            "Hans Hahn"
+        ],
+        "fictional": true,
+        "activation": [
+            "Hans Hahn"
+        ]
+    },
+    {
+        "source": "Heinrich Tietze",
+        "replacement": "Teymur Zulfugarov",
+        "kind": "person",
+        "aliases": [
+            "Heinrich Tietze"
+        ],
+        "fictional": true,
+        "activation": [
+            "Heinrich Tietze"
+        ]
+    },
+    {
+        "source": "Hugo von Seeliger",
+        "replacement": "Vagif Abbasov",
+        "kind": "person",
+        "aliases": [
+            "Hugo von Seeliger"
+        ],
+        "fictional": true,
+        "activation": [
+            "Hugo von Seeliger"
+        ]
+    },
+    {
+        "source": "Felix Klein",
+        "replacement": "Vali Abdullayev",
+        "kind": "person",
+        "aliases": [
+            "Felix Klein"
+        ],
+        "fictional": true,
+        "activation": [
+            "Felix Klein"
+        ]
+    },
+    {
+        "source": "Cheryl Tiegs",
+        "replacement": "Ilaha Adigozalova",
+        "kind": "person",
+        "aliases": [
+            "Cheryl Tiegs",
+            "Tiegs"
+        ],
+        "fictional": true,
+        "activation": [
+            "Cheryl Tiegs"
+        ]
+    },
+    {
+        "source": "Rod Stryker",
+        "replacement": "Yashar Agayev",
+        "kind": "person",
+        "aliases": [
+            "Rod Stryker"
+        ],
+        "fictional": true,
+        "activation": [
+            "Rod Stryker"
+        ]
+    },
+    {
+        "source": "Zachary",
+        "replacement": "Yusif Ahmadov",
+        "kind": "person",
+        "aliases": [
+            "Zachary"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Anthony Peck",
+        "replacement": "Adil Alakbarov",
+        "kind": "person",
+        "aliases": [
+            "Anthony Peck"
+        ],
+        "fictional": true,
+        "activation": [
+            "Anthony Peck"
+        ]
+    },
+    {
+        "source": "Theo",
+        "replacement": "Akif Alasgarov",
+        "kind": "person",
+        "aliases": [
+            "Theo"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Jaden",
+        "replacement": "Arif Alizade",
+        "kind": "person",
+        "aliases": [
+            "Jaden"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Peter Beard",
+        "replacement": "Asif Asadov",
+        "kind": "person",
+        "aliases": [
+            "Peter Beard"
+        ],
+        "fictional": true,
+        "activation": [
+            "Peter Beard"
+        ]
+    },
+    {
+        "source": "Gregory Peck",
+        "replacement": "Aydin Alakbarov",
+        "kind": "person",
+        "aliases": [
+            "Gregory Peck"
+        ],
+        "fictional": true,
+        "activation": [
+            "Gregory Peck"
+        ]
+    },
+    {
+        "source": "Veronique Passani",
+        "replacement": "Nazila Aydamirova",
+        "kind": "person",
+        "aliases": [
+            "Veronique Passani"
+        ],
+        "fictional": true,
+        "activation": [
+            "Veronique Passani"
+        ]
+    },
+    {
+        "source": "Stan Dragoti",
+        "replacement": "Cavid Azizov",
+        "kind": "person",
+        "aliases": [
+            "Stan Dragoti"
+        ],
+        "fictional": true,
+        "activation": [
+            "Stan Dragoti"
+        ]
+    },
+    {
+        "source": "Jessica Valenti",
+        "replacement": "Nurana Babashova",
+        "kind": "person",
+        "aliases": [
+            "Jessica Valenti",
+            "Valenti"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jessica Valenti"
+        ]
+    },
+    {
+        "source": "Valentis",
+        "replacement": "Nurana Babashova's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "Valentis"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jessica Valenti"
+        ],
+        "canonical_source": "Jessica Valenti"
+    },
+    {
+        "source": "Diane Mapes",
+        "replacement": "Ofelya Badalova",
+        "kind": "person",
+        "aliases": [
+            "Diane Mapes"
+        ],
+        "fictional": true,
+        "activation": [
+            "Diane Mapes"
+        ]
+    },
+    {
+        "source": "Melody Bergers",
+        "replacement": "Rana Baghirova's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "Melody Bergers"
+        ],
+        "fictional": true,
+        "activation": [
+            "Melody Berger"
+        ],
+        "canonical_source": "Melody Berger"
+    },
+    {
+        "source": "Courtney E . Martin",
+        "replacement": "Rena Bahramova",
+        "kind": "person",
+        "aliases": [
+            "Courtney E . Martin"
+        ],
+        "fictional": true,
+        "activation": [
+            "Courtney E . Martin"
+        ]
+    },
+    {
+        "source": "J . Courtney Sullivans",
+        "replacement": "Sabina Bayramova's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "J . Courtney Sullivans"
+        ],
+        "fictional": true,
+        "activation": [
+            "J . Courtney Sullivan"
+        ],
+        "canonical_source": "J . Courtney Sullivan"
+    },
+    {
+        "source": "Mary Sheldon Barnes",
+        "replacement": "Saida Bunyadova",
+        "kind": "person",
+        "aliases": [
+            "Mary Sheldon Barnes",
+            "Barnes , Mary Sheldon"
+        ],
+        "fictional": true,
+        "activation": [
+            "Mary Sheldon Barnes",
+            "Barnes , Mary Sheldon"
+        ]
+    },
+    {
+        "source": "Jean-Louis Gergorin",
+        "replacement": "Firudin Damirov",
+        "kind": "person",
+        "aliases": [
+            "Jean-Louis Gergorin"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jean-Louis Gergorin"
+        ]
+    },
+    {
+        "source": "Joseph Maïla",
+        "replacement": "Fizuli Dunyamaliyev",
+        "kind": "person",
+        "aliases": [
+            "Joseph Maïla"
+        ],
+        "fictional": true,
+        "activation": [
+            "Joseph Maïla"
+        ]
+    },
+    {
+        "source": "Justin Vaïsse",
+        "replacement": "Ilham Efendiyev",
+        "kind": "person",
+        "aliases": [
+            "Justin Vaïsse"
+        ],
+        "fictional": true,
+        "activation": [
+            "Justin Vaïsse"
+        ]
+    },
+    {
+        "source": "Manuel Lafont Rapnouil",
+        "replacement": "Imran Eminov",
+        "kind": "person",
+        "aliases": [
+            "Manuel Lafont Rapnouil"
+        ],
+        "fictional": true,
+        "activation": [
+            "Manuel Lafont Rapnouil"
+        ]
+    },
+    {
+        "source": "Michel Foucher",
+        "replacement": "Ismayil Eyubov",
+        "kind": "person",
+        "aliases": [
+            "Michel Foucher"
+        ],
+        "fictional": true,
+        "activation": [
+            "Michel Foucher"
+        ]
+    },
+    {
+        "source": "Pierre Lévy",
+        "replacement": "Javid Farajov",
+        "kind": "person",
+        "aliases": [
+            "Pierre Lévy"
+        ],
+        "fictional": true,
+        "activation": [
+            "Pierre Lévy"
+        ]
+    },
+    {
+        "source": "Marie Mendras",
+        "replacement": "Ulviya Fataliyeva",
+        "kind": "person",
+        "aliases": [
+            "Marie Mendras"
+        ],
+        "fictional": true,
+        "activation": [
+            "Marie Mendras"
+        ]
+    },
+    {
+        "source": "Bruno Racine",
+        "replacement": "Kenan Garayev",
+        "kind": "person",
+        "aliases": [
+            "Bruno Racine"
+        ],
+        "fictional": true,
+        "activation": [
+            "Bruno Racine"
+        ]
+    },
+    {
+        "source": "Gilles Andréani",
+        "replacement": "Khayal Gasimov",
+        "kind": "person",
+        "aliases": [
+            "Gilles Andréani"
+        ],
+        "fictional": true,
+        "activation": [
+            "Gilles Andréani"
+        ]
+    },
+    {
+        "source": "Philippe Coste",
+        "replacement": "Mahir Guliyev",
+        "kind": "person",
+        "aliases": [
+            "Philippe Coste"
+        ],
+        "fictional": true,
+        "activation": [
+            "Philippe Coste"
+        ]
+    },
+    {
+        "source": "Jean-Marie Guéhenno",
+        "replacement": "Mansur Gurbanov",
+        "kind": "person",
+        "aliases": [
+            "Jean-Marie Guéhenno"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jean-Marie Guéhenno"
+        ]
+    },
+    {
+        "source": "Thierry de Montbrial",
+        "replacement": "Mikayil Hajiyev",
+        "kind": "person",
+        "aliases": [
+            "Thierry de Montbrial"
+        ],
+        "fictional": true,
+        "activation": [
+            "Thierry de Montbrial"
+        ]
+    },
+    {
+        "source": "Michel Jobert",
+        "replacement": "Mubariz Hajizada",
+        "kind": "person",
+        "aliases": [
+            "Michel Jobert"
+        ],
+        "fictional": true,
+        "activation": [
+            "Michel Jobert"
+        ]
+    },
+    {
+        "source": "Milan Milutinović",
+        "replacement": "Namik Hamadov",
+        "kind": "person",
+        "aliases": [
+            "Milan Milutinović"
+        ],
+        "fictional": true,
+        "activation": [
+            "Milan Milutinović"
+        ]
+    },
+    {
+        "source": "Milomir Petrović",
+        "replacement": "Natiq Hamidov",
+        "kind": "person",
+        "aliases": [
+            "Milomir Petrović"
+        ],
+        "fictional": true,
+        "activation": [
+            "Milomir Petrović"
+        ]
+    },
+    {
+        "source": "Sreten Ugričić",
+        "replacement": "Nazim Hasanov",
+        "kind": "person",
+        "aliases": [
+            "Sreten Ugričić"
+        ],
+        "fictional": true,
+        "activation": [
+            "Sreten Ugričić"
+        ]
+    },
+    {
+        "source": "Dejan Ristić",
+        "replacement": "Nizami Hidayatov",
+        "kind": "person",
+        "aliases": [
+            "Dejan Ristić"
+        ],
+        "fictional": true,
+        "activation": [
+            "Dejan Ristić"
+        ]
+    },
+    {
+        "source": "Svetlana Jančić",
+        "replacement": "Aybaniz Hummatova",
+        "kind": "person",
+        "aliases": [
+            "Svetlana Jančić"
+        ],
+        "fictional": true,
+        "activation": [
+            "Svetlana Jančić"
+        ]
+    },
+    {
+        "source": "Laslo Blašković",
+        "replacement": "Orkhan Huseynov",
+        "kind": "person",
+        "aliases": [
+            "Laslo Blašković"
+        ],
+        "fictional": true,
+        "activation": [
+            "Laslo Blašković"
+        ]
+    },
+    {
+        "source": "Nana Okada",
+        "replacement": "Bahar Ibrahimova",
+        "kind": "person",
+        "aliases": [
+            "Nana Okada",
+            "Okada"
+        ],
+        "fictional": true,
+        "activation": [
+            "Nana Okada"
+        ]
+    },
+    {
+        "source": "Juliette de La Genière",
+        "replacement": "Dilara Imanova",
+        "kind": "person",
+        "aliases": [
+            "Juliette de La Genière"
+        ],
+        "fictional": true,
+        "activation": [
+            "Juliette de La Genière"
+        ]
+    },
+    {
+        "source": "Oumar Niasse",
+        "replacement": "Rashad Isayev",
+        "kind": "person",
+        "aliases": [
+            "Oumar Niasse",
+            "Niasse"
+        ],
+        "fictional": true,
+        "activation": [
+            "Oumar Niasse",
+            "El Hadji Baye Oumar Niasse"
+        ]
+    },
+    {
+        "source": "Cho Yoon-sun",
+        "replacement": "Esma Isgandarova",
+        "kind": "person",
+        "aliases": [
+            "Cho Yoon-sun"
+        ],
+        "fictional": true,
+        "activation": [
+            "Cho Yoon-sun"
+        ]
+    },
+    {
+        "source": "Zisis Vryzas",
+        "replacement": "Sakit Ismayilov",
+        "kind": "person",
+        "aliases": [
+            "Zisis Vryzas",
+            "Vryzas"
+        ],
+        "fictional": true,
+        "activation": [
+            "Zisis Vryzas"
+        ]
+    },
+    {
+        "source": "Ty Detmer",
+        "replacement": "Sanan Jabbarov",
+        "kind": "person",
+        "aliases": [
+            "Ty Detmer",
+            "Detmer"
+        ],
+        "fictional": true,
+        "activation": [
+            "Ty Detmer"
+        ]
+    },
+    {
+        "source": "Tim Couch",
+        "replacement": "Sardar Jafarov",
+        "kind": "person",
+        "aliases": [
+            "Tim Couch",
+            "Couch"
+        ],
+        "fictional": true,
+        "activation": [
+            "Tim Couch"
+        ]
+    },
+    {
+        "source": "Rui Vitória",
+        "replacement": "Shahin Jalilov",
+        "kind": "person",
+        "aliases": [
+            "Rui Vitória",
+            "Rui Carlos Pinho da Vitória",
+            "Vitória"
+        ],
+        "fictional": true,
+        "activation": [
+            "Rui Vitória",
+            "Rui Carlos Pinho da Vitória"
+        ]
+    },
+    {
+        "source": "Vitórias",
+        "replacement": "Shahin Jalilov's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "Vitórias"
+        ],
+        "fictional": true,
+        "activation": [
+            "Rui Vitória",
+            "Rui Carlos Pinho da Vitória"
+        ],
+        "canonical_source": "Rui Vitória"
+    },
+    {
+        "source": "Ulisses Morais",
+        "replacement": "Shamil Jamalov",
+        "kind": "person",
+        "aliases": [
+            "Ulisses Morais"
+        ],
+        "fictional": true,
+        "activation": [
+            "Ulisses Morais"
+        ]
+    },
+    {
+        "source": "Philip Lehman",
+        "replacement": "Tahir Karimov",
+        "kind": "person",
+        "aliases": [
+            "Philip Lehman",
+            "Lehman"
+        ],
+        "fictional": true,
+        "activation": [
+            "Philip Lehman"
+        ]
+    },
+    {
+        "source": "Monet",
+        "replacement": "Teymur Kazimov",
+        "kind": "person",
+        "aliases": [
+            "Monet"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Paul Rosenberg",
+        "replacement": "Tofig Khalilov",
+        "kind": "person",
+        "aliases": [
+            "Rosenberg"
+        ],
+        "fictional": true,
+        "activation": [
+            "Paul Rosenberg"
+        ]
+    },
+    {
+        "source": "Pascal Millien",
+        "replacement": "Vidadi Latifov",
+        "kind": "person",
+        "aliases": [
+            "Pascal Millien",
+            "Millien"
+        ],
+        "fictional": true,
+        "activation": [
+            "Pascal Millien"
+        ]
+    },
+    {
+        "source": "Jürgen Echternach",
+        "replacement": "Yashar Mammadov",
+        "kind": "person",
+        "aliases": [
+            "Jürgen Echternach"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jürgen Echternach"
+        ]
+    },
+    {
+        "source": "Matthias Wissmann",
+        "replacement": "Yusif Mammadli",
+        "kind": "person",
+        "aliases": [
+            "Matthias Wissmann"
+        ],
+        "fictional": true,
+        "activation": [
+            "Matthias Wissmann"
+        ]
+    },
+    {
+        "source": "Bert Even",
+        "replacement": "Adil Mahmudov",
+        "kind": "person",
+        "aliases": [
+            "Bert Even"
+        ],
+        "fictional": true,
+        "activation": [
+            "Bert Even"
+        ]
+    },
+    {
+        "source": "Klaus Escher",
+        "replacement": "Akif Majidov",
+        "kind": "person",
+        "aliases": [
+            "Klaus Escher"
+        ],
+        "fictional": true,
+        "activation": [
+            "Klaus Escher"
+        ]
+    },
+    {
+        "source": "Tilman Kuban",
+        "replacement": "Arif Malikov",
+        "kind": "person",
+        "aliases": [
+            "Tilman Kuban"
+        ],
+        "fictional": true,
+        "activation": [
+            "Tilman Kuban"
+        ]
+    },
+    {
+        "source": "Paul Ziemiak",
+        "replacement": "Asif Mansurov",
+        "kind": "person",
+        "aliases": [
+            "aul Ziemiak"
+        ],
+        "fictional": true,
+        "activation": [
+            "Paul Ziemiak",
+            "aul Ziemiak"
+        ]
+    },
+    {
+        "source": "Philipp Mißfelder",
+        "replacement": "Aydin Mikayilov",
+        "kind": "person",
+        "aliases": [
+            "Philipp Mißfelder"
+        ],
+        "fictional": true,
+        "activation": [
+            "Philipp Mißfelder"
+        ]
+    },
+    {
+        "source": "Hermann Gröhe",
+        "replacement": "Bahruz Mirzayev",
+        "kind": "person",
+        "aliases": [
+            "Hermann Gröhe"
+        ],
+        "fictional": true,
+        "activation": [
+            "Hermann Gröhe"
+        ]
+    },
+    {
+        "source": "Christoph Böhr",
+        "replacement": "Cavid Mukhtarov",
+        "kind": "person",
+        "aliases": [
+            "Christoph Böhr"
+        ],
+        "fictional": true,
+        "activation": [
+            "Christoph Böhr"
+        ]
+    },
+    {
+        "source": "Egon Klepsch",
+        "replacement": "Eldar Musayev",
+        "kind": "person",
+        "aliases": [
+            "Egon Klepsch"
+        ],
+        "fictional": true,
+        "activation": [
+            "Egon Klepsch"
+        ]
+    },
+    {
+        "source": "Ernst Majonica",
+        "replacement": "Elchin Mustafayev",
+        "kind": "person",
+        "aliases": [
+            "Ernst Majonica"
+        ],
+        "fictional": true,
+        "activation": [
+            "Ernst Majonica"
+        ]
+    },
+    {
+        "source": "Gerhard Stoltenberg",
+        "replacement": "Elnur Nabiyev",
+        "kind": "person",
+        "aliases": [
+            "Gerhard Stoltenberg"
+        ],
+        "fictional": true,
+        "activation": [
+            "Gerhard Stoltenberg"
+        ]
+    },
+    {
+        "source": "Bruno Six",
+        "replacement": "Emin Nagiyev",
+        "kind": "person",
+        "aliases": [
+            "Bruno Six"
+        ],
+        "fictional": true,
+        "activation": [
+            "Bruno Six"
+        ]
+    },
+    {
+        "source": "Alfred Sagner",
+        "replacement": "Farhad Najafov",
+        "kind": "person",
+        "aliases": [
+            "Alfred Sagner"
+        ],
+        "fictional": true,
+        "activation": [
+            "Alfred Sagner"
+        ]
+    },
+    {
+        "source": "Josef Dufhues",
+        "replacement": "Fikrat Nasirov",
+        "kind": "person",
+        "aliases": [
+            "Josef Dufhues"
+        ],
+        "fictional": true,
+        "activation": [
+            "Josef Dufhues"
+        ]
+    },
+    {
+        "source": "Hildegard Müller",
+        "replacement": "Vusala Novruzova",
+        "kind": "person",
+        "aliases": [
+            "Hildegard Müller"
+        ],
+        "fictional": true,
+        "activation": [
+            "Hildegard Müller"
+        ]
+    },
+    {
+        "source": "Marek Krejčí",
+        "replacement": "Fizuli Orujov",
+        "kind": "person",
+        "aliases": [
+            "Marek Krejčí"
+        ],
+        "fictional": true,
+        "activation": [
+            "Marek Krejčí"
+        ]
+    },
+    {
+        "source": "Ali Sami Yen",
+        "replacement": "Ilham Pashayev",
+        "kind": "person",
+        "aliases": [
+            "Ali Sami Yen"
+        ],
+        "fictional": true,
+        "activation": [
+            "Ali Sami Yen"
+        ]
+    },
+    {
+        "source": "Barbara Amiel",
+        "replacement": "Ziba Rahimova",
+        "kind": "person",
+        "aliases": [
+            "Barbara Amiel",
+            "Amiel"
+        ],
+        "fictional": true,
+        "activation": [
+            "Barbara Amiel"
+        ]
+    },
+    {
+        "source": "George Jonas",
+        "replacement": "Ismayil Ramazanov",
+        "kind": "person",
+        "aliases": [
+            "George Jonas",
+            "Jonas"
+        ],
+        "fictional": true,
+        "activation": [
+            "George Jonas"
+        ]
+    },
+    {
+        "source": "David Graham",
+        "replacement": "Javid Rasulov",
+        "kind": "person",
+        "aliases": [
+            "David Graham"
+        ],
+        "fictional": true,
+        "activation": [
+            "David Graham"
+        ]
+    },
+    {
+        "source": "Gary Smith",
+        "replacement": "Kamal Rustamov",
+        "kind": "person",
+        "aliases": [
+            "Gary Smith"
+        ],
+        "fictional": true,
+        "activation": [
+            "Gary Smith"
+        ]
+    },
+    {
+        "source": "Arnulf Øverland",
+        "replacement": "Khayal Salimov",
+        "kind": "person",
+        "aliases": [
+            "Arnulf Øverland",
+            "Øverland"
+        ],
+        "fictional": true,
+        "activation": [
+            "Arnulf Øverland"
+        ]
+    },
+    {
+        "source": "Hildur Arntzen",
+        "replacement": "Aybaniz Samadova",
+        "kind": "person",
+        "aliases": [
+            "Hildur Arntzen"
+        ],
+        "fictional": true,
+        "activation": [
+            "Hildur Arntzen"
+        ]
+    },
+    {
+        "source": "Bartholine Eufemia Leganger",
+        "replacement": "Aygun Seyidova",
+        "kind": "person",
+        "aliases": [
+            "Bartholine Eufemia Leganger"
+        ],
+        "fictional": true,
+        "activation": [
+            "Bartholine Eufemia Leganger"
+        ]
+    },
+    {
+        "source": "Margrete Aamot Øverland",
+        "replacement": "Bahar Salimova",
+        "kind": "person",
+        "aliases": [
+            "Margrete Aamot Øverland"
+        ],
+        "fictional": true,
+        "activation": [
+            "Margrete Aamot Øverland"
+        ]
+    },
+    {
+        "source": "Peter Anton Øverland",
+        "replacement": "Mubariz Salimov",
+        "kind": "person",
+        "aliases": [
+            "Peter Anton Øverland"
+        ],
+        "fictional": true,
+        "activation": [
+            "Peter Anton Øverland"
+        ]
+    },
+    {
+        "source": "Hanna Hage",
+        "replacement": "Elmira Shiraliyeva",
+        "kind": "person",
+        "aliases": [
+            "Hanna Hage"
+        ],
+        "fictional": true,
+        "activation": [
+            "Hanna Hage"
+        ]
+    },
+    {
+        "source": "Jeanne Ferrante",
+        "replacement": "Esma Shukurova",
+        "kind": "person",
+        "aliases": [
+            "Jeanne Ferrante",
+            "Ferrante"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jeanne Ferrante"
+        ]
+    },
+    {
+        "source": "Ferrantes",
+        "replacement": "Esma Shukurova's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "Ferrantes"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jeanne Ferrante"
+        ],
+        "canonical_source": "Jeanne Ferrante"
+    },
+    {
+        "source": "Henrique Sereno",
+        "replacement": "Nazim Suleymanov",
+        "kind": "person",
+        "aliases": [
+            "Henrique Sereno",
+            "Sereno"
+        ],
+        "fictional": true,
+        "activation": [
+            "Henrique Sereno"
+        ]
+    },
+    {
+        "source": "Efe Sodje",
+        "replacement": "Nizami Taghiyev",
+        "kind": "person",
+        "aliases": [
+            "Efe Sodje",
+            "Sodje"
+        ],
+        "fictional": true,
+        "activation": [
+            "Efe Sodje"
+        ]
+    },
+    {
+        "source": "Alan Knill",
+        "replacement": "Oktay Talibov",
+        "kind": "person",
+        "aliases": [
+            "Alan Knill"
+        ],
+        "fictional": true,
+        "activation": [
+            "Alan Knill"
+        ]
+    },
+    {
+        "source": "Ryan Lowe",
+        "replacement": "Orkhan Teymurov",
+        "kind": "person",
+        "aliases": [
+            "Ryan Lowe"
+        ],
+        "fictional": true,
+        "activation": [
+            "Ryan Lowe"
+        ]
+    },
+    {
+        "source": "Emiliano Aguirre",
+        "replacement": "Parviz Tofiqov",
+        "kind": "person",
+        "aliases": [
+            "Emiliano Aguirre",
+            "Aguirre"
+        ],
+        "fictional": true,
+        "activation": [
+            "Emiliano Aguirre"
+        ]
+    },
+    {
+        "source": "Alberdi , M.T.",
+        "replacement": "Rafael Valiyev",
+        "kind": "person",
+        "aliases": [
+            "Alberdi , M.T."
+        ],
+        "fictional": true,
+        "activation": [
+            "Alberdi , M.T."
+        ]
+    },
+    {
+        "source": "Jiménez , E.",
+        "replacement": "Rashad Vazirov",
+        "kind": "person",
+        "aliases": [
+            "Jiménez , E."
+        ],
+        "fictional": true,
+        "activation": [
+            "Jiménez , E."
+        ]
+    },
+    {
+        "source": "Martín , C.",
+        "replacement": "Rovshan Yagubov",
+        "kind": "person",
+        "aliases": [
+            "Martín , C."
+        ],
+        "fictional": true,
+        "activation": [
+            "Martín , C."
+        ]
+    },
+    {
+        "source": "Morales , J.",
+        "replacement": "Sakit Yusifov",
+        "kind": "person",
+        "aliases": [
+            "Morales , J."
+        ],
+        "fictional": true,
+        "activation": [
+            "Morales , J."
+        ]
+    },
+    {
+        "source": "Sesé , C .",
+        "replacement": "Sanan Zeynalov",
+        "kind": "person",
+        "aliases": [
+            "Sesé , C ."
+        ],
+        "fictional": true,
+        "activation": [
+            "Sesé , C ."
+        ]
+    },
+    {
+        "source": "Soria , D .",
+        "replacement": "Sardar Zeynalov",
+        "kind": "person",
+        "aliases": [
+            "Soria , D ."
+        ],
+        "fictional": true,
+        "activation": [
+            "Soria , D ."
+        ]
+    },
+    {
+        "source": "Robert B. Wilson",
+        "replacement": "Shamil Abbasov",
+        "kind": "person",
+        "aliases": [
+            "Robert B. Wilson",
+            "Robert Butler Wilson , Jr .",
+            "Wilson"
+        ],
+        "fictional": true,
+        "activation": [
+            "Robert B. Wilson",
+            "Robert Butler Wilson , Jr ."
+        ]
+    },
+    {
+        "source": "Paul R . Milgrom",
+        "replacement": "Shukur Abdullayev",
+        "kind": "person",
+        "aliases": [
+            "Paul R . Milgrom"
+        ],
+        "fictional": true,
+        "activation": [
+            "Paul R . Milgrom"
+        ]
+    },
+    {
+        "source": "Alvin E . Roth",
+        "replacement": "Tahir Adigozalov",
+        "kind": "person",
+        "aliases": [
+            "Alvin E . Roth"
+        ],
+        "fictional": true,
+        "activation": [
+            "Alvin E . Roth"
+        ]
+    },
+    {
+        "source": "Bengt Holmström",
+        "replacement": "Teymur Agayev",
+        "kind": "person",
+        "aliases": [
+            "Bengt Holmström"
+        ],
+        "fictional": true,
+        "activation": [
+            "Bengt Holmström"
+        ]
+    },
+    {
+        "source": "Nora Ephron",
+        "replacement": "Rena Ahmadova",
+        "kind": "person",
+        "aliases": [
+            "Nora Ephron",
+            "Ephron"
+        ],
+        "fictional": true,
+        "activation": [
+            "Nora Ephron"
+        ]
+    },
+    {
+        "source": "Dan Greenburg",
+        "replacement": "Vagif Alakbarov",
+        "kind": "person",
+        "aliases": [
+            "Dan Greenburg"
+        ],
+        "fictional": true,
+        "activation": [
+            "Dan Greenburg"
+        ]
+    },
+    {
+        "source": "Nicholas Pileggi",
+        "replacement": "Vali Alasgarov",
+        "kind": "person",
+        "aliases": [
+            "Nicholas Pileggi"
+        ],
+        "fictional": true,
+        "activation": [
+            "Nicholas Pileggi"
+        ]
+    },
+    {
+        "source": "Danielle Steel",
+        "replacement": "Samira Alizade",
+        "kind": "person",
+        "aliases": [
+            "Danielle Steel",
+            "Steel"
+        ],
+        "fictional": true,
+        "activation": [
+            "Danielle Steel"
+        ]
+    },
+    {
+        "source": "Thomas James Perkins",
+        "replacement": "Yashar Asadov",
+        "kind": "person",
+        "aliases": [
+            "Thomas James Perkins",
+            "Perkins"
+        ],
+        "fictional": true,
+        "activation": [
+            "Thomas James Perkins",
+            "Thomas Perkins"
+        ]
+    },
+    {
+        "source": "Danny Zugelder",
+        "replacement": "Adil Aydamirov",
+        "kind": "person",
+        "aliases": [
+            "Danny Zugelder"
+        ],
+        "fictional": true,
+        "activation": [
+            "Danny Zugelder"
+        ]
+    },
+    {
+        "source": "Bosse Larsson",
+        "replacement": "Asif Badalov",
+        "kind": "person",
+        "aliases": [
+            "Bosse Larsson"
+        ],
+        "fictional": true,
+        "activation": [
+            "Bosse Larsson"
+        ]
+    },
+    {
+        "source": "Lasse Berghagen",
+        "replacement": "Aydin Baghirov",
+        "kind": "person",
+        "aliases": [
+            "Lasse Berghagen"
+        ],
+        "fictional": true,
+        "activation": [
+            "Lasse Berghagen"
+        ]
+    },
+    {
+        "source": "Anders Lundin",
+        "replacement": "Bahruz Bahramov",
+        "kind": "person",
+        "aliases": [
+            "Anders Lundin"
+        ],
+        "fictional": true,
+        "activation": [
+            "Anders Lundin"
+        ]
+    },
+    {
+        "source": "Måns Zelmerlöw",
+        "replacement": "Cavid Bayramov",
+        "kind": "person",
+        "aliases": [
+            "Måns Zelmerlöw"
+        ],
+        "fictional": true,
+        "activation": [
+            "Måns Zelmerlöw"
+        ]
+    },
+    {
+        "source": "Petra Marklund",
+        "replacement": "Zamira Bunyadova",
+        "kind": "person",
+        "aliases": [
+            "Petra Marklund"
+        ],
+        "fictional": true,
+        "activation": [
+            "Petra Marklund"
+        ]
+    },
+    {
+        "source": "Sanna Nielsen",
+        "replacement": "Ziba Damirova",
+        "kind": "person",
+        "aliases": [
+            "Sanna Nielsen"
+        ],
+        "fictional": true,
+        "activation": [
+            "Sanna Nielsen"
+        ]
+    },
+    {
+        "source": "Robert Gustavsson",
+        "replacement": "Elnur Dunyamaliyev",
+        "kind": "person",
+        "aliases": [
+            "Robert Gustavsson"
+        ],
+        "fictional": true,
+        "activation": [
+            "Robert Gustavsson"
+        ]
+    },
+    {
+        "source": "Sven Lilja",
+        "replacement": "Emin Efendiyev",
+        "kind": "person",
+        "aliases": [
+            "Sven Lilja"
+        ],
+        "fictional": true,
+        "activation": [
+            "Sven Lilja"
+        ]
+    },
+    {
+        "source": "Egon Kjerrman",
+        "replacement": "Farhad Eminov",
+        "kind": "person",
+        "aliases": [
+            "Egon Kjerrman"
+        ],
+        "fictional": true,
+        "activation": [
+            "Egon Kjerrman"
+        ]
+    },
+    {
+        "source": "Amar Osim",
+        "replacement": "Fikrat Eyubov",
+        "kind": "person",
+        "aliases": [
+            "Amar Osim",
+            "Osim"
+        ],
+        "fictional": true,
+        "activation": [
+            "Amar Osim"
+        ]
+    },
+    {
+        "source": "Robert Tarjan",
+        "replacement": "Firudin Farajov",
+        "kind": "person",
+        "aliases": [
+            "Robert Tarjan",
+            "Robert Endre Tarjan",
+            "Tarjan"
+        ],
+        "fictional": true,
+        "activation": [
+            "Robert Tarjan",
+            "Robert Endre Tarjan"
+        ]
+    },
+    {
+        "source": "Tarjans",
+        "replacement": "Firudin Farajov's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "Tarjans"
+        ],
+        "fictional": true,
+        "activation": [
+            "Robert Tarjan",
+            "Robert Endre Tarjan"
+        ],
+        "canonical_source": "Robert Tarjan"
+    },
+    {
+        "source": "James S . McDonnell",
+        "replacement": "Fizuli Fataliyev",
+        "kind": "person",
+        "aliases": [
+            "James S . McDonnell"
+        ],
+        "fictional": true,
+        "activation": [
+            "James S . McDonnell"
+        ]
+    },
+    {
+        "source": "François Pachet",
+        "replacement": "Ilham Garayev",
+        "kind": "person",
+        "aliases": [
+            "François Pachet",
+            "Pachet"
+        ],
+        "fictional": true,
+        "activation": [
+            "François Pachet"
+        ]
+    },
+    {
+        "source": "Luc Steels",
+        "replacement": "Imran Gasimov",
+        "kind": "person",
+        "aliases": [
+            "Luc Steels"
+        ],
+        "fictional": true,
+        "activation": [
+            "Luc Steels"
+        ]
+    },
+    {
+        "source": "Mario Tokoro",
+        "replacement": "Ismayil Guliyev",
+        "kind": "person",
+        "aliases": [
+            "Mario Tokoro"
+        ],
+        "fictional": true,
+        "activation": [
+            "Mario Tokoro"
+        ]
+    },
+    {
+        "source": "Larry Ellison",
+        "replacement": "Javid Gurbanov",
+        "kind": "person",
+        "aliases": [
+            "Larry Ellison",
+            "Lawrence Joseph Ellison",
+            "Ellison"
+        ],
+        "fictional": true,
+        "activation": [
+            "Larry Ellison",
+            "Lawrence Joseph Ellison"
+        ]
+    },
+    {
+        "source": "Ellisons",
+        "replacement": "Javid Gurbanov's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "Ellisons"
+        ],
+        "fictional": true,
+        "activation": [
+            "Larry Ellison",
+            "Lawrence Joseph Ellison"
+        ],
+        "canonical_source": "Larry Ellison"
+    },
+    {
+        "source": "Adda Quinn",
+        "replacement": "Esma Hajiyeva",
+        "kind": "person",
+        "aliases": [
+            "Adda Quinn"
+        ],
+        "fictional": true,
+        "activation": [
+            "Adda Quinn"
+        ]
+    },
+    {
+        "source": "Nancy Wheeler Jenkins",
+        "replacement": "Fatima Hajizada",
+        "kind": "person",
+        "aliases": [
+            "Nancy Wheeler Jenkins",
+            "Wheeler"
+        ],
+        "fictional": true,
+        "activation": [
+            "Nancy Wheeler Jenkins"
+        ]
+    },
+    {
+        "source": "Barbara Boothe",
+        "replacement": "Gulshan Hamadova",
+        "kind": "person",
+        "aliases": [
+            "Barbara Boothe",
+            "Boothe"
+        ],
+        "fictional": true,
+        "activation": [
+            "Barbara Boothe"
+        ]
+    },
+    {
+        "source": "David",
+        "replacement": "Mahir Hamidov",
+        "kind": "person",
+        "aliases": [
+            "David"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Megan",
+        "replacement": "Ilaha Hasanova",
+        "kind": "person",
+        "aliases": [
+            "Megan"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Melanie Craft",
+        "replacement": "Irada Hidayatova",
+        "kind": "person",
+        "aliases": [
+            "Melanie Craft"
+        ],
+        "fictional": true,
+        "activation": [
+            "Melanie Craft"
+        ]
+    },
+    {
+        "source": "Steve Jobs",
+        "replacement": "Mubariz Hummatov",
+        "kind": "person",
+        "aliases": [
+            "Steve Jobs"
+        ],
+        "fictional": true,
+        "activation": [
+            "Steve Jobs"
+        ]
+    },
+    {
+        "source": "Tom Lantos",
+        "replacement": "Namik Huseynov",
+        "kind": "person",
+        "aliases": [
+            "Tom Lantos"
+        ],
+        "fictional": true,
+        "activation": [
+            "Tom Lantos"
+        ]
+    },
+    {
+        "source": "William Asher",
+        "replacement": "Natiq Ibrahimov",
+        "kind": "person",
+        "aliases": [
+            "William Asher",
+            "William Milton Asher",
+            "Asher"
+        ],
+        "fictional": true,
+        "activation": [
+            "William Asher",
+            "William Milton Asher"
+        ]
+    },
+    {
+        "source": "Danny Sue Nolan",
+        "replacement": "Lamiya Imanova",
+        "kind": "person",
+        "aliases": [
+            "Danny Sue Nolan"
+        ],
+        "fictional": true,
+        "activation": [
+            "Danny Sue Nolan"
+        ]
+    },
+    {
+        "source": "Elizabeth Montgomery",
+        "replacement": "Latifa Shukurova",
+        "kind": "person",
+        "aliases": [
+            "Elizabeth Montgomery"
+        ],
+        "fictional": true,
+        "activation": [
+            "Elizabeth Montgomery"
+        ]
+    },
+    {
+        "source": "Joyce Bulifant",
+        "replacement": "Mehriban Isgandarova",
+        "kind": "person",
+        "aliases": [
+            "Joyce Bulifant"
+        ],
+        "fictional": true,
+        "activation": [
+            "Joyce Bulifant"
+        ]
+    },
+    {
+        "source": "John Mallory Asher",
+        "replacement": "Orkhan Ibrahimov",
+        "kind": "person",
+        "aliases": [
+            "John Mallory Asher"
+        ],
+        "fictional": true,
+        "activation": [
+            "John Mallory Asher"
+        ]
+    },
+    {
+        "source": "Meredith Coffin Asher",
+        "replacement": "Nigara Ibrahimova",
+        "kind": "person",
+        "aliases": [
+            "Meredith Coffin Asher"
+        ],
+        "fictional": true,
+        "activation": [
+            "Meredith Coffin Asher"
+        ]
+    },
+    {
+        "source": "Frank Sinatra",
+        "replacement": "Rafael Jafarov",
+        "kind": "person",
+        "aliases": [
+            "Frank Sinatra"
+        ],
+        "fictional": true,
+        "activation": [
+            "Frank Sinatra"
+        ]
+    },
+    {
+        "source": "Sinatras",
+        "replacement": "Rafael Jafarov's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "Sinatras"
+        ],
+        "fictional": true,
+        "activation": [
+            "Frank Sinatra"
+        ],
+        "canonical_source": "Frank Sinatra"
+    },
+    {
+        "source": "Peter Lawford",
+        "replacement": "Rashad Jalilov",
+        "kind": "person",
+        "aliases": [
+            "Peter Lawford"
+        ],
+        "fictional": true,
+        "activation": [
+            "Peter Lawford"
+        ]
+    },
+    {
+        "source": "Sammy Davis Jr .",
+        "replacement": "Rovshan Zeynalov",
+        "kind": "person",
+        "aliases": [
+            "Sammy Davis Jr ."
+        ],
+        "fictional": true,
+        "activation": [
+            "Sammy Davis Jr ."
+        ]
+    },
+    {
+        "source": "Heinrich Bruns",
+        "replacement": "Sakit Javadov",
+        "kind": "person",
+        "aliases": [
+            "Heinrich Bruns",
+            "Ernst Heinrich Bruns",
+            "Bruns"
+        ],
+        "fictional": true,
+        "activation": [
+            "Heinrich Bruns",
+            "Ernst Heinrich Bruns"
+        ]
+    },
+    {
+        "source": "Ernst Kummer",
+        "replacement": "Sanan Karimov",
+        "kind": "person",
+        "aliases": [
+            "Ernst Kummer"
+        ],
+        "fictional": true,
+        "activation": [
+            "Ernst Kummer"
+        ]
+    },
+    {
+        "source": "Karl Weierstrass",
+        "replacement": "Sardar Kazimov",
+        "kind": "person",
+        "aliases": [
+            "Karl Weierstrass"
+        ],
+        "fictional": true,
+        "activation": [
+            "Karl Weierstrass"
+        ]
+    },
+    {
+        "source": "Marie Wilhelmine Schleussner",
+        "replacement": "Samira Khalilova",
+        "kind": "person",
+        "aliases": [
+            "Marie Wilhelmine Schleussner"
+        ],
+        "fictional": true,
+        "activation": [
+            "Marie Wilhelmine Schleussner"
+        ]
+    },
+    {
+        "source": "Janet Conrad",
+        "replacement": "Sanubar Khanlarova",
+        "kind": "person",
+        "aliases": [
+            "Janet Conrad",
+            "Janet M . Conrad",
+            "Conrad"
+        ],
+        "fictional": true,
+        "activation": [
+            "Janet Conrad",
+            "Janet M . Conrad"
+        ]
+    },
+    {
+        "source": "Álvaro Alberto da Mota e Silva",
+        "replacement": "Shukur Khudiyev",
+        "kind": "person",
+        "aliases": [
+            "Álvaro Alberto da Mota e Silva"
+        ],
+        "fictional": true,
+        "activation": [
+            "Álvaro Alberto da Mota e Silva"
+        ]
+    },
+    {
+        "source": "Henrique Charles Morize",
+        "replacement": "Tahir Latifov",
+        "kind": "person",
+        "aliases": [
+            "Henrique Charles Morize"
+        ],
+        "fictional": true,
+        "activation": [
+            "Henrique Charles Morize"
+        ]
+    },
+    {
+        "source": "Juliano Moreira",
+        "replacement": "Teymur Mammadov",
+        "kind": "person",
+        "aliases": [
+            "Juliano Moreira"
+        ],
+        "fictional": true,
+        "activation": [
+            "Juliano Moreira"
+        ]
+    },
+    {
+        "source": "Miguel Osório de Almeida",
+        "replacement": "Tofig Mammadli",
+        "kind": "person",
+        "aliases": [
+            "Miguel Osório de Almeida"
+        ],
+        "fictional": true,
+        "activation": [
+            "Miguel Osório de Almeida"
+        ]
+    },
+    {
+        "source": "Eusébio Paulo de Oliveira",
+        "replacement": "Vagif Mahmudov",
+        "kind": "person",
+        "aliases": [
+            "Eusébio Paulo de Oliveira"
+        ],
+        "fictional": true,
+        "activation": [
+            "Eusébio Paulo de Oliveira"
+        ]
+    },
+    {
+        "source": "Arthur Alexandre Moses",
+        "replacement": "Vali Majidov",
+        "kind": "person",
+        "aliases": [
+            "Arthur Alexandre Moses"
+        ],
+        "fictional": true,
+        "activation": [
+            "Arthur Alexandre Moses"
+        ]
+    },
+    {
+        "source": "Adalberto Menezes de Oliveira",
+        "replacement": "Vidadi Mahmudov",
+        "kind": "person",
+        "aliases": [
+            "Adalberto Menezes de Oliveira"
+        ],
+        "fictional": true,
+        "activation": [
+            "Adalberto Menezes de Oliveira"
+        ]
+    },
+    {
+        "source": "Inácio Manuel Azevedo do Amaral",
+        "replacement": "Yashar Mansurov",
+        "kind": "person",
+        "aliases": [
+            "Inácio Manuel Azevedo do Amaral"
+        ],
+        "fictional": true,
+        "activation": [
+            "Inácio Manuel Azevedo do Amaral"
+        ]
+    },
+    {
+        "source": "Cândido Firmino de Melo Leitão",
+        "replacement": "Yusif Mikayilov",
+        "kind": "person",
+        "aliases": [
+            "Cândido Firmino de Melo Leitão"
+        ],
+        "fictional": true,
+        "activation": [
+            "Cândido Firmino de Melo Leitão"
+        ]
+    },
+    {
+        "source": "Mario Paulo de Brito",
+        "replacement": "Adil Mirzayev",
+        "kind": "person",
+        "aliases": [
+            "Mario Paulo de Brito"
+        ],
+        "fictional": true,
+        "activation": [
+            "Mario Paulo de Brito"
+        ]
+    },
+    {
+        "source": "Carlos Chagas Filho",
+        "replacement": "Akif Mukhtarov",
+        "kind": "person",
+        "aliases": [
+            "Carlos Chagas Filho"
+        ],
+        "fictional": true,
+        "activation": [
+            "Carlos Chagas Filho"
+        ]
+    },
+    {
+        "source": "Aristides Pacheco Leão",
+        "replacement": "Arif Musayev",
+        "kind": "person",
+        "aliases": [
+            "Aristides Pacheco Leão"
+        ],
+        "fictional": true,
+        "activation": [
+            "Aristides Pacheco Leão"
+        ]
+    },
+    {
+        "source": "Maurício Peixoto",
+        "replacement": "Asif Mustafayev",
+        "kind": "person",
+        "aliases": [
+            "Maurício Peixoto"
+        ],
+        "fictional": true,
+        "activation": [
+            "Maurício Peixoto"
+        ]
+    },
+    {
+        "source": "Oscar Sala",
+        "replacement": "Aydin Nabiyev",
+        "kind": "person",
+        "aliases": [
+            "Oscar Sala"
+        ],
+        "fictional": true,
+        "activation": [
+            "Oscar Sala"
+        ]
+    },
+    {
+        "source": "Eduardo Krieger",
+        "replacement": "Bahruz Nagiyev",
+        "kind": "person",
+        "aliases": [
+            "Eduardo Krieger"
+        ],
+        "fictional": true,
+        "activation": [
+            "Eduardo Krieger"
+        ]
+    },
+    {
+        "source": "Jacob Palis Jr .",
+        "replacement": "Cavid Zeynalov",
+        "kind": "person",
+        "aliases": [
+            "Jacob Palis Jr ."
+        ],
+        "fictional": true,
+        "activation": [
+            "Jacob Palis Jr ."
+        ]
+    },
+    {
+        "source": "Luiz Davidovich",
+        "replacement": "Eldar Nasirov",
+        "kind": "person",
+        "aliases": [
+            "Luiz Davidovich"
+        ],
+        "fictional": true,
+        "activation": [
+            "Luiz Davidovich"
+        ]
+    },
+    {
+        "source": "Sarah Bond",
+        "replacement": "Fatima Ramazanova",
+        "kind": "person",
+        "aliases": [
+            "Sarah Bond",
+            "Sarah Emily Bond",
+            "Bond"
+        ],
+        "fictional": true,
+        "activation": [
+            "Sarah Bond",
+            "Sarah Emily Bond"
+        ]
+    },
+    {
+        "source": "Samantha Bee",
+        "replacement": "Gulshan Rasulova",
+        "kind": "person",
+        "aliases": [
+            "Samantha Bee"
+        ],
+        "fictional": true,
+        "activation": [
+            "Samantha Bee"
+        ]
+    },
+    {
+        "source": "David Shaw (American football)",
+        "replacement": "Fizuli Rustamov",
+        "kind": "person",
+        "aliases": [
+            "David Shaw (American football)",
+            "David Lorenzo Shaw",
+            "Shaw"
+        ],
+        "fictional": true,
+        "activation": [
+            "David Shaw (American football)",
+            "David Lorenzo Shaw"
+        ]
+    },
+    {
+        "source": "Shaws",
+        "replacement": "Fizuli Rustamov's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "Shaws"
+        ],
+        "fictional": true,
+        "activation": [
+            "David Shaw (American football)",
+            "David Lorenzo Shaw"
+        ],
+        "canonical_source": "David Shaw (American football)"
+    },
+    {
+        "source": "Jim Harbaugh",
+        "replacement": "Ilham Safarov",
+        "kind": "person",
+        "aliases": [
+            "Jim Harbaugh",
+            "Harbaugh"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jim Harbaugh"
+        ]
+    },
+    {
+        "source": "Harbaughs",
+        "replacement": "Ilham Safarov's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "Harbaughs"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jim Harbaugh"
+        ],
+        "canonical_source": "Jim Harbaugh"
+    },
+    {
+        "source": "Dennis Green",
+        "replacement": "Imran Salimov",
+        "kind": "person",
+        "aliases": [
+            "Dennis Green"
+        ],
+        "fictional": true,
+        "activation": [
+            "Dennis Green"
+        ]
+    },
+    {
+        "source": "Bill Walsh",
+        "replacement": "Ismayil Samadov",
+        "kind": "person",
+        "aliases": [
+            "Bill Walsh"
+        ],
+        "fictional": true,
+        "activation": [
+            "Bill Walsh"
+        ]
+    },
+    {
+        "source": "Derrick Mason",
+        "replacement": "Javid Seyidov",
+        "kind": "person",
+        "aliases": [
+            "Derrick Mason"
+        ],
+        "fictional": true,
+        "activation": [
+            "Derrick Mason"
+        ]
+    },
+    {
+        "source": "Mark Clayton",
+        "replacement": "Kamal Shafiyev",
+        "kind": "person",
+        "aliases": [
+            "Mark Clayton"
+        ],
+        "fictional": true,
+        "activation": [
+            "Mark Clayton"
+        ]
+    },
+    {
+        "source": "Andrew Luck",
+        "replacement": "Kenan Shahbazov",
+        "kind": "person",
+        "aliases": [
+            "Andrew Luck"
+        ],
+        "fictional": true,
+        "activation": [
+            "Andrew Luck"
+        ]
+    },
+    {
+        "source": "Toby Gerhart",
+        "replacement": "Khayal Shiraliyev",
+        "kind": "person",
+        "aliases": [
+            "Toby Gerhart"
+        ],
+        "fictional": true,
+        "activation": [
+            "Toby Gerhart"
+        ]
+    },
+    {
+        "source": "Simon Mensing",
+        "replacement": "Mahir Shukurov",
+        "kind": "person",
+        "aliases": [
+            "Simon Mensing",
+            "Simon Ross Mensing",
+            "Mensing"
+        ],
+        "fictional": true,
+        "activation": [
+            "Simon Mensing",
+            "Simon Ross Mensing"
+        ]
+    },
+    {
+        "source": "Catherine Hickland",
+        "replacement": "Nigara Taghiyeva",
+        "kind": "person",
+        "aliases": [
+            "Catherine Hickland",
+            "Hickland"
+        ],
+        "fictional": true,
+        "activation": [
+            "Catherine Hickland"
+        ]
+    },
+    {
+        "source": "Hicklands",
+        "replacement": "Nigara Taghiyeva's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "Hicklands"
+        ],
+        "fictional": true,
+        "activation": [
+            "Catherine Hickland"
+        ],
+        "canonical_source": "Catherine Hickland"
+    },
+    {
+        "source": "Todd Fisher",
+        "replacement": "Mubariz Talibov",
+        "kind": "person",
+        "aliases": [
+            "Todd Fisher"
+        ],
+        "fictional": true,
+        "activation": [
+            "Todd Fisher"
+        ]
+    },
+    {
+        "source": "Richard Ernest Knowlton",
+        "replacement": "Namik Teymurov",
+        "kind": "person",
+        "aliases": [
+            "Richard Ernest Knowlton",
+            "Richard Knowlton"
+        ],
+        "fictional": true,
+        "activation": [
+            "Richard Ernest Knowlton",
+            "Richard Knowlton"
+        ]
+    },
+    {
+        "source": "David Hasselhoff",
+        "replacement": "Natiq Tofiqov",
+        "kind": "person",
+        "aliases": [
+            "David Hasselhoff"
+        ],
+        "fictional": true,
+        "activation": [
+            "David Hasselhoff"
+        ]
+    },
+    {
+        "source": "Michael E . Knight",
+        "replacement": "Nazim Valiyev",
+        "kind": "person",
+        "aliases": [
+            "Michael E . Knight"
+        ],
+        "fictional": true,
+        "activation": [
+            "Michael E . Knight"
+        ]
+    },
+    {
+        "source": "Fantine",
+        "replacement": "Sabina Vazirova",
+        "kind": "person",
+        "aliases": [
+            "Fantine"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Lindsay Rappaport",
+        "replacement": "Saida Yagubova",
+        "kind": "person",
+        "aliases": [
+            "Lindsay Rappaport"
+        ],
+        "fictional": true,
+        "activation": [
+            "Lindsay Rappaport"
+        ]
+    },
+    {
+        "source": "Daniel J. Myers",
+        "replacement": "Orkhan Yusifov",
+        "kind": "person",
+        "aliases": [
+            "Daniel J. Myers",
+            "Daniel J . Myers",
+            "Myers"
+        ],
+        "fictional": true,
+        "activation": [
+            "Daniel J. Myers",
+            "Daniel J . Myers"
+        ]
+    },
+    {
+        "source": "Alonzo Church",
+        "replacement": "Parviz Zeynalov",
+        "kind": "person",
+        "aliases": [
+            "Alonzo Church",
+            "Church"
+        ],
+        "fictional": true,
+        "activation": [
+            "Alonzo Church"
+        ]
+    },
+    {
+        "source": "Alan Turing",
+        "replacement": "Rafael Zulfugarov",
+        "kind": "person",
+        "aliases": [
+            "Alan Turing"
+        ],
+        "fictional": true,
+        "activation": [
+            "Alan Turing"
+        ]
+    },
+    {
+        "source": "C . Anthony Anderson",
+        "replacement": "Rovshan Abbasov",
+        "kind": "person",
+        "aliases": [
+            "C . Anthony Anderson"
+        ],
+        "fictional": true,
+        "activation": [
+            "C . Anthony Anderson"
+        ]
+    },
+    {
+        "source": "Michael Zelëny",
+        "replacement": "Sakit Abdullayev",
+        "kind": "person",
+        "aliases": [
+            "Michael Zelëny"
+        ],
+        "fictional": true,
+        "activation": [
+            "Michael Zelëny"
+        ]
+    },
+    {
+        "source": "Lars Onsager",
+        "replacement": "Sanan Adigozalov",
+        "kind": "person",
+        "aliases": [
+            "Lars Onsager",
+            "Onsager"
+        ],
+        "fictional": true,
+        "activation": [
+            "Lars Onsager"
+        ]
+    },
+    {
+        "source": "Clive Ballard",
+        "replacement": "Akif Bayramov",
+        "kind": "person",
+        "aliases": [
+            "Clive Ballard",
+            "Ballard",
+            "Clive"
+        ],
+        "fictional": true,
+        "activation": [
+            "Clive Ballard",
+            "Clive E . Ballard"
+        ]
+    },
+    {
+        "source": "Emiljano Vila",
+        "replacement": "Arif Bunyadov",
+        "kind": "person",
+        "aliases": [
+            "Emiljano Vila",
+            "Vila"
+        ],
+        "fictional": true,
+        "activation": [
+            "Emiljano Vila"
+        ]
+    },
+    {
+        "source": "Corey Graham",
+        "replacement": "Asif Rasulov",
+        "kind": "person",
+        "aliases": [
+            "Corey Graham",
+            "Corey Dewayne Graham",
+            "Graham"
+        ],
+        "fictional": true,
+        "activation": [
+            "Corey Graham",
+            "Corey Dewayne Graham"
+        ]
+    },
+    {
+        "source": "Rex Ryan",
+        "replacement": "Aydin Dunyamaliyev",
+        "kind": "person",
+        "aliases": [
+            "Rex Ryan"
+        ],
+        "fictional": true,
+        "activation": [
+            "Rex Ryan"
+        ]
+    },
+    {
+        "source": "Micah Hyde",
+        "replacement": "Bahruz Efendiyev",
+        "kind": "person",
+        "aliases": [
+            "Micah Hyde"
+        ],
+        "fictional": true,
+        "activation": [
+            "Micah Hyde"
+        ]
+    },
+    {
+        "source": "Jordan Poyer",
+        "replacement": "Cavid Eminov",
+        "kind": "person",
+        "aliases": [
+            "Jordan Poyer"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jordan Poyer"
+        ]
+    },
+    {
+        "source": "Paolo Tornaghi",
+        "replacement": "Eldar Eyubov",
+        "kind": "person",
+        "aliases": [
+            "Paolo Tornaghi"
+        ],
+        "fictional": true,
+        "activation": [
+            "Paolo Tornaghi"
+        ]
+    },
+    {
+        "source": "Enrico Maria Malatesta",
+        "replacement": "Elchin Farajov",
+        "kind": "person",
+        "aliases": [
+            "Enrico Maria Malatesta"
+        ],
+        "fictional": true,
+        "activation": [
+            "Enrico Maria Malatesta"
+        ]
+    },
+    {
+        "source": "Maurizio Pugliesi",
+        "replacement": "Elnur Fataliyev",
+        "kind": "person",
+        "aliases": [
+            "Maurizio Pugliesi"
+        ],
+        "fictional": true,
+        "activation": [
+            "Maurizio Pugliesi"
+        ]
+    },
+    {
+        "source": "Simone Fautario",
+        "replacement": "Emin Garayev",
+        "kind": "person",
+        "aliases": [
+            "Simone Fautario"
+        ],
+        "fictional": true,
+        "activation": [
+            "Simone Fautario"
+        ]
+    },
+    {
+        "source": "Jacopo Fortunato",
+        "replacement": "Farhad Gasimov",
+        "kind": "person",
+        "aliases": [
+            "Jacopo Fortunato"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jacopo Fortunato"
+        ]
+    },
+    {
+        "source": "Paolo Castelli",
+        "replacement": "Fikrat Guliyev",
+        "kind": "person",
+        "aliases": [
+            "Paolo Castelli"
+        ],
+        "fictional": true,
+        "activation": [
+            "Paolo Castelli"
+        ]
+    },
+    {
+        "source": "Emily Zurrer",
+        "replacement": "Latifa Gurbanova",
+        "kind": "person",
+        "aliases": [
+            "Emily Zurrer",
+            "Emily Jane Zurrer",
+            "Zurrer"
+        ],
+        "fictional": true,
+        "activation": [
+            "Emily Zurrer",
+            "Emily Jane Zurrer"
+        ]
+    },
+    {
+        "source": "Aidan Chippendale",
+        "replacement": "Fizuli Hajiyev",
+        "kind": "person",
+        "aliases": [
+            "Aidan Chippendale",
+            "Aidan Luke Chippendale",
+            "Chippendale"
+        ],
+        "fictional": true,
+        "activation": [
+            "Aidan Chippendale",
+            "Aidan Luke Chippendale"
+        ]
+    },
+    {
+        "source": "Scott Moore (rugby league)",
+        "replacement": "Ilham Hajizada",
+        "kind": "person",
+        "aliases": [
+            "Scott Moore (rugby league)",
+            "Scott Moore",
+            "Moore",
+            "Scott"
+        ],
+        "fictional": true,
+        "activation": [
+            "Scott Moore (rugby league)",
+            "Scott Moore"
+        ]
+    },
+    {
+        "source": "Juan Sabas",
+        "replacement": "Imran Hamadov",
+        "kind": "person",
+        "aliases": [
+            "Juan Sabas",
+            "Sabas"
+        ],
+        "fictional": true,
+        "activation": [
+            "Juan Sabas",
+            "Juan Sabas Huertas Lorente"
+        ]
+    },
+    {
+        "source": "Juan SabasJuan Sabas Huertas Lorente",
+        "replacement": "Imran HamadovImran Hamadov",
+        "kind": "repeated person references",
+        "aliases": [
+            "Juan SabasJuan Sabas Huertas Lorente"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Abel Resino",
+        "replacement": "Ismayil Hamidov",
+        "kind": "person",
+        "aliases": [
+            "Abel Resino"
+        ],
+        "fictional": true,
+        "activation": [
+            "Abel Resino"
+        ]
+    },
+    {
+        "source": "Raül Agné",
+        "replacement": "Javid Hasanov",
+        "kind": "person",
+        "aliases": [
+            "Raül Agné"
+        ],
+        "fictional": true,
+        "activation": [
+            "Raül Agné"
+        ]
+    },
+    {
+        "source": "Phyllis Fox",
+        "replacement": "Rana Hidayatova",
+        "kind": "person",
+        "aliases": [
+            "Phyllis Fox",
+            "Fox"
+        ],
+        "fictional": true,
+        "activation": [
+            "Phyllis Fox",
+            "Phyllis Ann Fox"
+        ]
+    },
+    {
+        "source": "Phyllis FoxPhyllis Ann Fox",
+        "replacement": "Rana HidayatovaRana Hidayatova",
+        "kind": "repeated person references",
+        "aliases": [
+            "Phyllis FoxPhyllis Ann Fox"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Chia-Chiao Lin",
+        "replacement": "Kenan Hummatov",
+        "kind": "person",
+        "aliases": [
+            "Chia-Chiao Lin"
+        ],
+        "fictional": true,
+        "activation": [
+            "Chia-Chiao Lin"
+        ]
+    },
+    {
+        "source": "Susan R. Fussell",
+        "replacement": "Sabina Huseynova",
+        "kind": "person",
+        "aliases": [
+            "Susan R. Fussell",
+            "Fussell"
+        ],
+        "fictional": true,
+        "activation": [
+            "Susan R. Fussell",
+            "Susan Runyon Fussell"
+        ]
+    },
+    {
+        "source": "Susan R. FussellSusan Runyon Fussell",
+        "replacement": "Sabina HuseynovaSabina Huseynova",
+        "kind": "repeated person references",
+        "aliases": [
+            "Susan R. FussellSusan Runyon Fussell"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Liberty Hyde Baily",
+        "replacement": "Mahir Ibrahimov",
+        "kind": "person",
+        "aliases": [
+            "Liberty Hyde Baily"
+        ],
+        "fictional": true,
+        "activation": [
+            "Liberty Hyde Baily"
+        ]
+    },
+    {
+        "source": "Robert M. Krauss",
+        "replacement": "Mansur Imanov",
+        "kind": "person",
+        "aliases": [
+            "Robert M. Krauss"
+        ],
+        "fictional": true,
+        "activation": [
+            "Robert M. Krauss"
+        ]
+    },
+    {
+        "source": "Gloria Mark",
+        "replacement": "Sanubar Isayeva",
+        "kind": "person",
+        "aliases": [
+            "Gloria Mark"
+        ],
+        "fictional": true,
+        "activation": [
+            "Gloria Mark"
+        ]
+    },
+    {
+        "source": "Egor Babaev",
+        "replacement": "Mubariz Isgandarov",
+        "kind": "person",
+        "aliases": [
+            "Egor Babaev"
+        ],
+        "fictional": true,
+        "activation": [
+            "Egor Babaev"
+        ]
+    },
+    {
+        "source": "Egor BabaevEgor Babaev",
+        "replacement": "Mubariz IsgandarovMubariz Isgandarov",
+        "kind": "repeated person references",
+        "aliases": [
+            "Egor BabaevEgor Babaev"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Boris Svistunov",
+        "replacement": "Namik Ismayilov",
+        "kind": "person",
+        "aliases": [
+            "Boris Svistunov"
+        ],
+        "fictional": true,
+        "activation": [
+            "Boris Svistunov"
+        ]
+    },
+    {
+        "source": "Nikolay Prokof'ev",
+        "replacement": "Natiq Jabbarov",
+        "kind": "person",
+        "aliases": [
+            "Nikolay Prokof'ev"
+        ],
+        "fictional": true,
+        "activation": [
+            "Nikolay Prokof'ev"
+        ]
+    },
+    {
+        "source": "Lee Anna Clark",
+        "replacement": "Tarana Jafarova",
+        "kind": "person",
+        "aliases": [
+            "Lee Anna Clark",
+            "Clark"
+        ],
+        "fictional": true,
+        "activation": [
+            "Lee Anna Clark"
+        ]
+    },
+    {
+        "source": "Lee Anna ClarkLee Anna Clark",
+        "replacement": "Tarana JafarovaTarana Jafarova",
+        "kind": "repeated person references",
+        "aliases": [
+            "Lee Anna ClarkLee Anna Clark"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "William J. and Dorothy K. O’Neill",
+        "replacement": "Vahid and Latifa Khalilzade",
+        "kind": "person pair",
+        "aliases": [
+            "William J. and Dorothy K. O’Neill"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Leonard Jimmie Savage",
+        "replacement": "Nizami Jalilov",
+        "kind": "person",
+        "aliases": [
+            "Leonard Jimmie Savage",
+            "Leonard Ogashevitz",
+            "Savage"
+        ],
+        "fictional": true,
+        "activation": [
+            "Leonard Jimmie Savage",
+            "Leonard Ogashevitz"
+        ]
+    },
+    {
+        "source": "Leonard Jimmie SavageLeonard Jimmie Savage",
+        "replacement": "Nizami JalilovNizami Jalilov",
+        "kind": "repeated person references",
+        "aliases": [
+            "Leonard Jimmie SavageLeonard Jimmie Savage"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Milton Friedman",
+        "replacement": "Oktay Jamalov",
+        "kind": "person",
+        "aliases": [
+            "Milton Friedman"
+        ],
+        "fictional": true,
+        "activation": [
+            "Milton Friedman"
+        ]
+    },
+    {
+        "source": "Sumner Myers",
+        "replacement": "Parviz Yusifov",
+        "kind": "person",
+        "aliases": [
+            "Sumner Myers"
+        ],
+        "fictional": true,
+        "activation": [
+            "Sumner Myers"
+        ]
+    },
+    {
+        "source": "W. Allen Wallis",
+        "replacement": "Parviz Karimov",
+        "kind": "person",
+        "aliases": [
+            "W. Allen Wallis"
+        ],
+        "fictional": true,
+        "activation": [
+            "W. Allen Wallis"
+        ]
+    },
+    {
+        "source": "John von Neumann",
+        "replacement": "Rafael Kazimov",
+        "kind": "person",
+        "aliases": [
+            "John von Neumann"
+        ],
+        "fictional": true,
+        "activation": [
+            "John von Neumann"
+        ]
+    },
+    {
+        "source": "Louis Bachelier",
+        "replacement": "Rashad Khalilov",
+        "kind": "person",
+        "aliases": [
+            "Louis Bachelier",
+            "Bachelier"
+        ],
+        "fictional": true,
+        "activation": [
+            "Louis Bachelier"
+        ]
+    },
+    {
+        "source": "Paul Samuelson",
+        "replacement": "Rovshan Khanlarov",
+        "kind": "person",
+        "aliases": [
+            "Paul Samuelson",
+            "Samuelson"
+        ],
+        "fictional": true,
+        "activation": [
+            "Paul Samuelson"
+        ]
+    },
+    {
+        "source": "Leroy Cronin",
+        "replacement": "Sakit Khudiyev",
+        "kind": "person",
+        "aliases": [
+            "Leroy Cronin",
+            "Lee Cronin",
+            "Cronin"
+        ],
+        "fictional": true,
+        "activation": [
+            "Leroy Cronin",
+            "Leroy \"Lee\" Cronin",
+            "Lee Cronin"
+        ]
+    },
+    {
+        "source": "Leroy CroninLeroy \"Lee\" Cronin",
+        "replacement": "Sakit KhudiyevSakit Khudiyev",
+        "kind": "repeated person references",
+        "aliases": [
+            "Leroy CroninLeroy \"Lee\" Cronin"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Neil Robertson",
+        "replacement": "Sanan Latifov",
+        "kind": "person",
+        "aliases": [
+            "Neil Robertson"
+        ],
+        "fictional": true,
+        "activation": [
+            "Neil Robertson"
+        ]
+    },
+    {
+        "source": "Achim Mueller",
+        "replacement": "Sardar Mammadov",
+        "kind": "person",
+        "aliases": [
+            "Achim Mueller"
+        ],
+        "fictional": true,
+        "activation": [
+            "Achim Mueller"
+        ]
+    },
+    {
+        "source": "Harold Ruse",
+        "replacement": "Shahin Mammadli",
+        "kind": "person",
+        "aliases": [
+            "Harold Ruse",
+            "Ruse"
+        ],
+        "fictional": true,
+        "activation": [
+            "Harold Ruse",
+            "Harold Stanley Ruse"
+        ]
+    },
+    {
+        "source": "Harold Stanley RuseHarold Stanley Ruse",
+        "replacement": "Shahin MammadliShahin Mammadli",
+        "kind": "repeated person references",
+        "aliases": [
+            "Harold Stanley RuseHarold Stanley Ruse"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Frederick Ruse",
+        "replacement": "Shamil Mammadli",
+        "kind": "person",
+        "aliases": [
+            "Frederick Ruse"
+        ],
+        "fictional": true,
+        "activation": [
+            "Frederick Ruse"
+        ]
+    },
+    {
+        "source": "Sir Edmund Taylor Whittaker",
+        "replacement": "Shukur Majidov",
+        "kind": "person",
+        "aliases": [
+            "Sir Edmund Taylor Whittaker"
+        ],
+        "fictional": true,
+        "activation": [
+            "Sir Edmund Taylor Whittaker"
+        ]
+    },
+    {
+        "source": "Sir Charles Galton Darwin",
+        "replacement": "Tahir Malikov",
+        "kind": "person",
+        "aliases": [
+            "Sir Charles Galton Darwin"
+        ],
+        "fictional": true,
+        "activation": [
+            "Sir Charles Galton Darwin"
+        ]
+    },
+    {
+        "source": "Edward Thomas Copson",
+        "replacement": "Teymur Mansurov",
+        "kind": "person",
+        "aliases": [
+            "Edward Thomas Copson"
+        ],
+        "fictional": true,
+        "activation": [
+            "Edward Thomas Copson"
+        ]
+    },
+    {
+        "source": "Charles Glover Barkla",
+        "replacement": "Tofig Mikayilov",
+        "kind": "person",
+        "aliases": [
+            "Charles Glover Barkla"
+        ],
+        "fictional": true,
+        "activation": [
+            "Charles Glover Barkla"
+        ]
+    },
+    {
+        "source": "Ethan Vishniac",
+        "replacement": "Vagif Mirzayev",
+        "kind": "person",
+        "aliases": [
+            "Ethan Vishniac",
+            "Vishniac"
+        ],
+        "fictional": true,
+        "activation": [
+            "Ethan Vishniac",
+            "Ethan Tecumseh Vishniac"
+        ]
+    },
+    {
+        "source": "Ethan VishniacEthan Tecumseh Vishniac",
+        "replacement": "Vagif MirzayevVagif Mirzayev",
+        "kind": "repeated person references",
+        "aliases": [
+            "Ethan VishniacEthan Tecumseh Vishniac"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Wolf V. Vishniac",
+        "replacement": "Vali Mirzayev",
+        "kind": "person",
+        "aliases": [
+            "Wolf V. Vishniac"
+        ],
+        "fictional": true,
+        "activation": [
+            "Wolf V. Vishniac"
+        ]
+    },
+    {
+        "source": "Roman Vishniac",
+        "replacement": "Vidadi Mirzayev",
+        "kind": "person",
+        "aliases": [
+            "Roman Vishniac"
+        ],
+        "fictional": true,
+        "activation": [
+            "Roman Vishniac"
+        ]
+    },
+    {
+        "source": "Ilene Busch-Vishniac",
+        "replacement": "Gultakin Mirzayeva",
+        "kind": "person",
+        "aliases": [
+            "Ilene Busch-Vishniac"
+        ],
+        "fictional": true,
+        "activation": [
+            "Ilene Busch-Vishniac"
+        ]
+    },
+    {
+        "source": "William H. Press",
+        "replacement": "Yusif Nabiyev",
+        "kind": "person",
+        "aliases": [
+            "William H. Press"
+        ],
+        "fictional": true,
+        "activation": [
+            "William H. Press"
+        ]
+    },
+    {
+        "source": "Jeremiah P. Ostriker",
+        "replacement": "Adil Nagiyev",
+        "kind": "person",
+        "aliases": [
+            "Jeremiah P. Ostriker"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jeremiah P. Ostriker"
+        ]
+    },
+    {
+        "source": "Gerardo Berodia",
+        "replacement": "Akif Najafov",
+        "kind": "person",
+        "aliases": [
+            "Gerardo Berodia",
+            "Berodia"
+        ],
+        "fictional": true,
+        "activation": [
+            "Gerardo Berodia",
+            "Gerardo García Berodia"
+        ]
+    },
+    {
+        "source": "Gerardo BerodiaGerardo García Berodia",
+        "replacement": "Akif NajafovAkif Najafov",
+        "kind": "repeated person references",
+        "aliases": [
+            "Gerardo BerodiaGerardo García Berodia"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Philip Franklin",
+        "replacement": "Arif Nasirov",
+        "kind": "person",
+        "aliases": [
+            "Philip Franklin",
+            "Franklin"
+        ],
+        "fictional": true,
+        "activation": [
+            "Philip Franklin"
+        ]
+    },
+    {
+        "source": "Philip FranklinPhilip Franklin",
+        "replacement": "Arif NasirovArif Nasirov",
+        "kind": "repeated person references",
+        "aliases": [
+            "Philip FranklinPhilip Franklin"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Oswald Veblen",
+        "replacement": "Asif Novruzov",
+        "kind": "person",
+        "aliases": [
+            "Oswald Veblen"
+        ],
+        "fictional": true,
+        "activation": [
+            "Oswald Veblen"
+        ]
+    },
+    {
+        "source": "Jay W. Forrester",
+        "replacement": "Aydin Orujov",
+        "kind": "person",
+        "aliases": [
+            "Jay W. Forrester",
+            "Jay Forrester",
+            "Forester"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jay W. Forrester",
+            "Jay Forrester"
+        ]
+    },
+    {
+        "source": "Norbert Wiener",
+        "replacement": "Bahruz Pashayev",
+        "kind": "person",
+        "aliases": [
+            "Norbert Wiener"
+        ],
+        "fictional": true,
+        "activation": [
+            "Norbert Wiener"
+        ]
+    },
+    {
+        "source": "Constance",
+        "replacement": "Mehriban Rahimova",
+        "kind": "person",
+        "aliases": [
+            "Constance"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Václav E. Beneš",
+        "replacement": "Eldar Ramazanov",
+        "kind": "person",
+        "aliases": [
+            "Václav E. Beneš"
+        ],
+        "fictional": true,
+        "activation": [
+            "Václav E. Beneš"
+        ]
+    },
+    {
+        "source": "Oliver Dimon Kellogg",
+        "replacement": "Elchin Rasulov",
+        "kind": "person",
+        "aliases": [
+            "Oliver Dimon Kellogg",
+            "Oliver Kellogg",
+            "Kellogg"
+        ],
+        "fictional": true,
+        "activation": [
+            "Oliver Dimon Kellogg",
+            "Oliver Kellogg"
+        ]
+    },
+    {
+        "source": "Oliver Dimon KelloggOliver Dimon Kellogg",
+        "replacement": "Elchin RasulovElchin Rasulov",
+        "kind": "repeated person references",
+        "aliases": [
+            "Oliver Dimon KelloggOliver Dimon Kellogg"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Day Otis Kellogg",
+        "replacement": "Elnur Rasulov",
+        "kind": "person",
+        "aliases": [
+            "Day Otis Kellogg"
+        ],
+        "fictional": true,
+        "activation": [
+            "Day Otis Kellogg"
+        ]
+    },
+    {
+        "source": "John S. Kennedy",
+        "replacement": "Emin Safarov",
+        "kind": "person",
+        "aliases": [
+            "John S. Kennedy"
+        ],
+        "fictional": true,
+        "activation": [
+            "John S. Kennedy"
+        ]
+    },
+    {
+        "source": "David Hilbert",
+        "replacement": "Farhad Salimov",
+        "kind": "person",
+        "aliases": [
+            "David Hilbert"
+        ],
+        "fictional": true,
+        "activation": [
+            "David Hilbert"
+        ]
+    },
+    {
+        "source": "George David Birkhoff",
+        "replacement": "Fikrat Samadov",
+        "kind": "person",
+        "aliases": [
+            "George David Birkhoff"
+        ],
+        "fictional": true,
+        "activation": [
+            "George David Birkhoff"
+        ]
+    },
+    {
+        "source": "Arthur Copeland",
+        "replacement": "Firudin Seyidov",
+        "kind": "person",
+        "aliases": [
+            "Arthur Copeland"
+        ],
+        "fictional": true,
+        "activation": [
+            "Arthur Copeland"
+        ]
+    },
+    {
+        "source": "Sinead Farrington",
+        "replacement": "Saida Shafiyeva",
+        "kind": "person",
+        "aliases": [
+            "Sinead Farrington",
+            "Farrington"
+        ],
+        "fictional": true,
+        "activation": [
+            "Sinead Farrington",
+            "Sinéad Farrington"
+        ]
+    },
+    {
+        "source": "Sinead FarringtonSinéad Farrington",
+        "replacement": "Saida ShafiyevaSaida Shafiyeva",
+        "kind": "repeated person references",
+        "aliases": [
+            "Sinead FarringtonSinéad Farrington"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "John Farrington",
+        "replacement": "Ilham Shafiyev",
+        "kind": "person",
+        "aliases": [
+            "John Farrington"
+        ],
+        "fictional": true,
+        "activation": [
+            "John Farrington"
+        ]
+    },
+    {
+        "source": "Bernadette",
+        "replacement": "Sanubar Shiraliyeva",
+        "kind": "person",
+        "aliases": [
+            "Bernadette"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Conor",
+        "replacement": "Ismayil Shukurov",
+        "kind": "person",
+        "aliases": [
+            "Conor"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Audrey Eagle",
+        "replacement": "Sharifa Suleymanova",
+        "kind": "person",
+        "aliases": [
+            "Audrey Eagle",
+            "Eagle"
+        ],
+        "fictional": true,
+        "activation": [
+            "Audrey Eagle",
+            "Audrey Lily Eagle"
+        ]
+    },
+    {
+        "source": "Audrey EagleAudrey Lily Eagle",
+        "replacement": "Sharifa SuleymanovaSharifa Suleymanova",
+        "kind": "repeated person references",
+        "aliases": [
+            "Audrey EagleAudrey Lily Eagle"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Tabetha S. Boyajian",
+        "replacement": "Tamina Taghiyeva",
+        "kind": "person",
+        "aliases": [
+            "Tabetha S. Boyajian",
+            "Tabetha Tabby Suzanne Boyajian",
+            "Boyajian"
+        ],
+        "fictional": true,
+        "activation": [
+            "Tabetha S. Boyajian",
+            "Tabetha Tabby Suzanne Boyajian"
+        ]
+    },
+    {
+        "source": "Tabbys",
+        "replacement": "Tamina Taghiyeva's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "Tabbys"
+        ],
+        "fictional": true,
+        "activation": [
+            "Tabetha S. Boyajian",
+            "Tabetha Tabby Suzanne Boyajian"
+        ],
+        "canonical_source": "Tabetha S. Boyajian"
+    },
+    {
+        "source": "Debra Fischer",
+        "replacement": "Tarana Talibova",
+        "kind": "person",
+        "aliases": [
+            "Debra Fischer"
+        ],
+        "fictional": true,
+        "activation": [
+            "Debra Fischer"
+        ]
+    },
+    {
+        "source": "Sarah Ballard",
+        "replacement": "Ulviya Bayramova",
+        "kind": "person",
+        "aliases": [
+            "Sarah Ballard"
+        ],
+        "fictional": true,
+        "activation": [
+            "Sarah Ballard"
+        ]
+    },
+    {
+        "source": "Kaspar von Braun",
+        "replacement": "Mahir Tofiqov",
+        "kind": "person",
+        "aliases": [
+            "Kaspar von Braun"
+        ],
+        "fictional": true,
+        "activation": [
+            "Kaspar von Braun"
+        ]
+    },
+    {
+        "source": "Carlos Ascues",
+        "replacement": "Mansur Valiyev",
+        "kind": "person",
+        "aliases": [
+            "Carlos Ascues",
+            "Carlos Antonio Ascues Ávila",
+            "Ascues"
+        ],
+        "fictional": true,
+        "activation": [
+            "Carlos Ascues",
+            "Carlos Antonio Ascues Ávila"
+        ]
+    },
+    {
+        "source": "Carlos Quentin",
+        "replacement": "Mikayil Vazirov",
+        "kind": "person",
+        "aliases": [
+            "Carlos Quentin",
+            "Carlos José Quentin",
+            "Quentin"
+        ],
+        "fictional": true,
+        "activation": [
+            "Carlos Quentin",
+            "Carlos José Quentin"
+        ]
+    },
+    {
+        "source": "Cameron Maybin",
+        "replacement": "Mubariz Yagubov",
+        "kind": "person",
+        "aliases": [
+            "Cameron Maybin"
+        ],
+        "fictional": true,
+        "activation": [
+            "Cameron Maybin"
+        ]
+    },
+    {
+        "source": "Matt Wisler",
+        "replacement": "Namik Yusifov",
+        "kind": "person",
+        "aliases": [
+            "Matt Wisler"
+        ],
+        "fictional": true,
+        "activation": [
+            "Matt Wisler"
+        ]
+    },
+    {
+        "source": "Jordan Paroubeck",
+        "replacement": "Natiq Zeynalov",
+        "kind": "person",
+        "aliases": [
+            "Jordan Paroubeck"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jordan Paroubeck"
+        ]
+    },
+    {
+        "source": "Craig Kimbrel",
+        "replacement": "Nazim Zulfugarov",
+        "kind": "person",
+        "aliases": [
+            "Craig Kimbrel"
+        ],
+        "fictional": true,
+        "activation": [
+            "Craig Kimbrel"
+        ]
+    },
+    {
+        "source": "Melvin Upton Jr .",
+        "replacement": "Oktay Zeynalov",
+        "kind": "person",
+        "aliases": [
+            "Melvin Upton Jr ."
+        ],
+        "fictional": true,
+        "activation": [
+            "Melvin Upton Jr ."
+        ]
+    },
+    {
+        "source": "Jack Nicholson",
+        "replacement": "Orkhan Abdullayev",
+        "kind": "person",
+        "aliases": [
+            "Jack Nicholson"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jack Nicholson"
+        ]
+    },
+    {
+        "source": "Mike Nichols",
+        "replacement": "Parviz Mustafayev",
+        "kind": "person",
+        "aliases": [
+            "Mike Nichols"
+        ],
+        "fictional": true,
+        "activation": [
+            "Mike Nichols"
+        ]
+    },
+    {
+        "source": "Carl Bernstein",
+        "replacement": "Rafael Agayev",
+        "kind": "person",
+        "aliases": [
+            "Carl Bernstein",
+            "Bernstein"
+        ],
+        "fictional": true,
+        "activation": [
+            "Carl Bernstein"
+        ]
+    },
+    {
+        "source": "Bernsteins",
+        "replacement": "Rafael Agayev's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "Bernsteins"
+        ],
+        "fictional": true,
+        "activation": [
+            "Carl Bernstein"
+        ],
+        "canonical_source": "Carl Bernstein"
+    },
+    {
+        "source": "James Callaghan",
+        "replacement": "Rashad Ahmadov",
+        "kind": "person",
+        "aliases": [
+            "James Callaghan"
+        ],
+        "fictional": true,
+        "activation": [
+            "James Callaghan"
+        ]
+    },
+    {
+        "source": "Margaret Jay",
+        "replacement": "Dilara Alakbarova",
+        "kind": "person",
+        "aliases": [
+            "Margaret Jay"
+        ],
+        "fictional": true,
+        "activation": [
+            "Margaret Jay"
+        ]
+    },
+    {
+        "source": "Neri Livneh",
+        "replacement": "Elmira Alasgarova",
+        "kind": "person",
+        "aliases": [
+            "Neri Livneh"
+        ],
+        "fictional": true,
+        "activation": [
+            "Neri Livneh"
+        ]
+    },
+    {
+        "source": "Jacob",
+        "replacement": "Sanan Alizade",
+        "kind": "person",
+        "aliases": [
+            "Jacob"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Jimmy Hagans",
+        "replacement": "Sardar Asadov",
+        "kind": "person",
+        "aliases": [
+            "Jimmy Hagans"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jimmy Hagans"
+        ]
+    },
+    {
+        "source": "Lajos Barótis",
+        "replacement": "Shahin Asgarov's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "Lajos Barótis"
+        ],
+        "fictional": true,
+        "activation": [
+            "Lajos Baróti"
+        ],
+        "canonical_source": "Lajos Baróti"
+    },
+    {
+        "source": "Mike Gansey",
+        "replacement": "Shukur Azizov",
+        "kind": "person",
+        "aliases": [
+            "Mike Gansey",
+            "Michael Gansey",
+            "Gansey"
+        ],
+        "fictional": true,
+        "activation": [
+            "Mike Gansey",
+            "Michael Gansey"
+        ]
+    },
+    {
+        "source": "Ganseys",
+        "replacement": "Shukur Azizov's",
+        "kind": "person possessive alias",
+        "aliases": [
+            "Ganseys"
+        ],
+        "fictional": true,
+        "activation": [
+            "Mike Gansey",
+            "Michael Gansey"
+        ],
+        "canonical_source": "Mike Gansey"
+    },
+    {
+        "source": "John Beilein",
+        "replacement": "Tahir Babashov",
+        "kind": "person",
+        "aliases": [
+            "John Beilein"
+        ],
+        "fictional": true,
+        "activation": [
+            "John Beilein"
+        ]
+    },
+    {
+        "source": "Tomer Hemed",
+        "replacement": "Teymur Badalov",
+        "kind": "person",
+        "aliases": [
+            "Tomer Hemed",
+            "Hemed"
+        ],
+        "fictional": true,
+        "activation": [
+            "Tomer Hemed"
+        ]
+    },
+    {
+        "source": "Gene Markey",
+        "replacement": "Tofig Baghirov",
+        "kind": "person",
+        "aliases": [
+            "Gene Markey",
+            "Markey"
+        ],
+        "fictional": true,
+        "activation": [
+            "Gene Markey"
+        ]
+    },
+    {
+        "source": "Joan Bennett",
+        "replacement": "Lala Bahramova",
+        "kind": "person",
+        "aliases": [
+            "Joan Bennett"
+        ],
+        "fictional": true,
+        "activation": [
+            "Joan Bennett"
+        ]
+    },
+    {
+        "source": "Alice Faye",
+        "replacement": "Lamiya Bayramova",
+        "kind": "person",
+        "aliases": [
+            "Alice Faye"
+        ],
+        "fictional": true,
+        "activation": [
+            "Alice Faye"
+        ]
+    },
+    {
+        "source": "Herbert Marshall",
+        "replacement": "Vidadi Bunyadov",
+        "kind": "person",
+        "aliases": [
+            "Herbert Marshall"
+        ],
+        "fictional": true,
+        "activation": [
+            "Herbert Marshall"
+        ]
+    },
+    {
+        "source": "Dick Powell",
+        "replacement": "Yashar Damirov",
+        "kind": "person",
+        "aliases": [
+            "Dick Powell"
+        ],
+        "fictional": true,
+        "activation": [
+            "Dick Powell"
+        ]
+    },
+    {
+        "source": "Madeleine Carroll",
+        "replacement": "Nazila Dunyamaliyeva",
+        "kind": "person",
+        "aliases": [
+            "Madeleine Carroll"
+        ],
+        "fictional": true,
+        "activation": [
+            "Madeleine Carroll"
+        ]
+    },
+    {
+        "source": "Shirley Temple",
+        "replacement": "Nigara Efendiyeva",
+        "kind": "person",
+        "aliases": [
+            "Shirley Temple"
+        ],
+        "fictional": true,
+        "activation": [
+            "Shirley Temple"
+        ]
+    },
+    {
+        "source": "Melinda",
+        "replacement": "Nurana Eminova",
+        "kind": "person",
+        "aliases": [
+            "Melinda"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Hedy Lamarr",
+        "replacement": "Ofelya Eyubova",
+        "kind": "person",
+        "aliases": [
+            "Hedy Lamarr"
+        ],
+        "fictional": true,
+        "activation": [
+            "Hedy Lamarr"
+        ]
+    },
+    {
+        "source": "Rudolph Valentino",
+        "replacement": "Asif Farajov",
+        "kind": "person",
+        "aliases": [
+            "Rudolph Valentino"
+        ],
+        "fictional": true,
+        "activation": [
+            "Rudolph Valentino"
+        ]
+    },
+    {
+        "source": "John Hay Whitney",
+        "replacement": "Aydin Fataliyev",
+        "kind": "person",
+        "aliases": [
+            "John Hay Whitney"
+        ],
+        "fictional": true,
+        "activation": [
+            "John Hay Whitney"
+        ]
+    },
+    {
+        "source": "Irving Berlin",
+        "replacement": "Bahruz Garayev",
+        "kind": "person",
+        "aliases": [
+            "Irving Berlin"
+        ],
+        "fictional": true,
+        "activation": [
+            "Irving Berlin"
+        ]
+    },
+    {
+        "source": "Douglas Fairbanks Jr.",
+        "replacement": "Cavid Gasimov",
+        "kind": "person",
+        "aliases": [
+            "Douglas Fairbanks Jr."
+        ],
+        "fictional": true,
+        "activation": [
+            "Douglas Fairbanks Jr."
+        ]
+    },
+    {
+        "source": "Ward Bond",
+        "replacement": "Elchin Ramazanov",
+        "kind": "person",
+        "aliases": [
+            "Ward Bond",
+            "Bond"
+        ],
+        "fictional": true,
+        "activation": [
+            "Ward Bond"
+        ]
+    },
+    {
+        "source": "John Wayne",
+        "replacement": "Elchin Gurbanov",
+        "kind": "person",
+        "aliases": [
+            "John Wayne",
+            "Wayne"
+        ],
+        "fictional": true,
+        "activation": [
+            "John Wayne"
+        ]
+    },
+    {
+        "source": "Myrna Loy",
+        "replacement": "Shahla Hajiyeva",
+        "kind": "person",
+        "aliases": [
+            "Myrna Loy",
+            "Loy"
+        ],
+        "fictional": true,
+        "activation": [
+            "Myrna Loy"
+        ]
+    },
+    {
+        "source": "Simón Castro",
+        "replacement": "Emin Hajizada",
+        "kind": "person",
+        "aliases": [
+            "Simón Castro"
+        ],
+        "fictional": true,
+        "activation": [
+            "Simón Castro"
+        ]
+    },
+    {
+        "source": "Pedro Hernández",
+        "replacement": "Farhad Hamadov",
+        "kind": "person",
+        "aliases": [
+            "Pedro Hernández"
+        ],
+        "fictional": true,
+        "activation": [
+            "Pedro Hernández"
+        ]
+    },
+    {
+        "source": "Koki Mizuno",
+        "replacement": "Fikrat Hamidov",
+        "kind": "person",
+        "aliases": [
+            "Koki Mizuno",
+            "Mizuno"
+        ],
+        "fictional": true,
+        "activation": [
+            "Koki Mizuno"
+        ]
+    },
+    {
+        "source": "Scott McDonald",
+        "replacement": "Firudin Hasanov",
+        "kind": "person",
+        "aliases": [
+            "Scott McDonald"
+        ],
+        "fictional": true,
+        "activation": [
+            "Scott McDonald"
+        ]
+    },
+    {
+        "source": "Shunsuke Nakamura",
+        "replacement": "Fizuli Hidayatov",
+        "kind": "person",
+        "aliases": [
+            "Shunsuke Nakamura"
+        ],
+        "fictional": true,
+        "activation": [
+            "Shunsuke Nakamura"
+        ]
+    },
+    {
+        "source": "Björn Bergmann Sigurðarson",
+        "replacement": "Ilham Hummatov",
+        "kind": "person",
+        "aliases": [
+            "Björn Bergmann Sigurðarson",
+            "Björn"
+        ],
+        "fictional": true,
+        "activation": [
+            "Björn Bergmann Sigurðarson"
+        ]
+    },
+    {
+        "source": "Marco Polo Del Nero",
+        "replacement": "Imran Huseynov",
+        "kind": "person",
+        "aliases": [
+            "Marco Polo Del Nero",
+            "Del Nero"
+        ],
+        "fictional": true,
+        "activation": [
+            "Marco Polo Del Nero",
+            "Del Nero"
+        ]
+    },
+    {
+        "source": "Ricardo Teixeira",
+        "replacement": "Ismayil Ibrahimov",
+        "kind": "person",
+        "aliases": [
+            "Ricardo Teixeira"
+        ],
+        "fictional": true,
+        "activation": [
+            "Ricardo Teixeira"
+        ]
+    },
+    {
+        "source": "José Maria Marin",
+        "replacement": "Javid Imanov",
+        "kind": "person",
+        "aliases": [
+            "José Maria Marin"
+        ],
+        "fictional": true,
+        "activation": [
+            "José Maria Marin"
+        ]
+    },
+    {
+        "source": "Jörg Widmann",
+        "replacement": "Kamal Isayev",
+        "kind": "person",
+        "aliases": [
+            "Jörg Widmann",
+            "Widmann"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jörg Widmann"
+        ]
+    },
+    {
+        "source": "Lev Polugaevsky",
+        "replacement": "Kenan Isgandarov",
+        "kind": "person",
+        "aliases": [
+            "Lev Polugaevsky",
+            "Lev Abramovich Polugaevsky"
+        ],
+        "fictional": true,
+        "activation": [
+            "Lev Polugaevsky",
+            "Lev Abramovich Polugaevsky"
+        ]
+    },
+    {
+        "source": "Jeroen Piket",
+        "replacement": "Khayal Ismayilov",
+        "kind": "person",
+        "aliases": [
+            "Jeroen Piket"
+        ],
+        "fictional": true,
+        "activation": [
+            "Jeroen Piket"
+        ]
+    },
+    {
+        "source": "International Mathematical Union",
+        "replacement": "Caspian Mathematical Research Union",
+        "kind": "organization",
+        "aliases": [
+            "International Mathematical Union"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Office for Foreign Relations and Information",
+        "replacement": "Caspian Information Research Office",
+        "kind": "organization",
+        "aliases": [
+            "Office for Foreign Relations and Information"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "USZI",
+        "replacement": "CIRO",
+        "kind": "organization",
+        "aliases": [
+            "USZI"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "National Library of Serbia",
+        "replacement": "Caspian Public Literature Library",
+        "kind": "organization",
+        "aliases": [
+            "National Library of Serbia"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Young Union",
+        "replacement": "Caspian Youth Research Union",
+        "kind": "organization",
+        "aliases": [
+            "Young Union"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Policy Planning Staff (France)",
+        "replacement": "Caspian Planning Research Centre",
+        "kind": "organization",
+        "aliases": [
+            "Policy Planning Staff (France)",
+            "Centre d’analyse et de prévision"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "CAPS",
+        "replacement": "CPRC",
+        "kind": "organization",
+        "aliases": [
+            "CAPS"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "AKB48",
+        "replacement": "Caspian Stage 48",
+        "kind": "organization",
+        "aliases": [
+            "AKB48"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "AKBingo",
+        "replacement": "Caspian Stage Show",
+        "kind": "organization",
+        "aliases": [
+            "AKBingo"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Brazilian Academy of Sciences",
+        "replacement": "Caspian Independent Academy of Sciences",
+        "kind": "organization",
+        "aliases": [
+            "Brazilian Academy of Sciences"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "ABC",
+        "replacement": "CIAS",
+        "kind": "organization",
+        "aliases": [
+            "ABC"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "The Fifer",
+        "replacement": "The Young Flute Player",
+        "kind": "work",
+        "aliases": [
+            "The Fifer"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "La Japonaise (painting)",
+        "replacement": "The Garden Visitor (painting)",
+        "kind": "work",
+        "aliases": [
+            "La Japonaise (painting)"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Allsång på Skansen",
+        "replacement": "Songs by the Caspian",
+        "kind": "work",
+        "aliases": [
+            "Allsång på Skansen"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Siste Man På Skansen",
+        "replacement": "Last Singer by the Caspian",
+        "kind": "work",
+        "aliases": [
+            "Siste Man På Skansen"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "GMMTV",
+        "replacement": "Caspian Drama Studio",
+        "kind": "organization",
+        "aliases": [
+            "GMMTV"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "GMM Channel Holding Co. , Ltd",
+        "replacement": "Caspian Channel Holding Co. , Ltd",
+        "kind": "organization",
+        "aliases": [
+            "GMM Channel Holding Co. , Ltd"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "GMM Channel Trading Co. , Ltd.",
+        "replacement": "Caspian Channel Trading Co. , Ltd.",
+        "kind": "organization",
+        "aliases": [
+            "GMM Channel Trading Co. , Ltd."
+        ],
+        "fictional": true
+    },
+    {
+        "source": "GMMCH",
+        "replacement": "CCH",
+        "kind": "organization",
+        "aliases": [
+            "GMMCH"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "GMM Grammy",
+        "replacement": "Caspian Media Group",
+        "kind": "organization",
+        "aliases": [
+            "GMM Grammy"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "GMM 25",
+        "replacement": "Caspian 25",
+        "kind": "organization",
+        "aliases": [
+            "GMM 25"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Paul Rosenberg and Co",
+        "replacement": "Orchard Art Dealers and Co",
+        "kind": "organization",
+        "aliases": [
+            "Paul Rosenberg and Co"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Duveen Brothers , Inc.",
+        "replacement": "Caspian Brothers Art Gallery",
+        "kind": "organization",
+        "aliases": [
+            "Duveen Brothers , Inc.",
+            "Duveen"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Seoul National University",
+        "replacement": "Goychay Humanities Institute",
+        "kind": "organization",
+        "aliases": [
+            "Seoul National University"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Sehwa Girls High School",
+        "replacement": "Orchard Girls High School",
+        "kind": "organization",
+        "aliases": [
+            "Sehwa Girls High School"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Željezničar",
+        "replacement": "Ganja Meadow FC",
+        "kind": "organization",
+        "aliases": [
+            "Željezničar"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Sun Microsystems",
+        "replacement": "Caspian Hardware Laboratory",
+        "kind": "organization",
+        "aliases": [
+            "Sun Microsystems"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Oracle Corporation",
+        "replacement": "Valley Data Systems",
+        "kind": "organization",
+        "aliases": [
+            "Oracle Corporation",
+            "Oracle"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Trinity College",
+        "replacement": "Caspian Humanities College",
+        "kind": "organization",
+        "aliases": [
+            "Trinity College"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Duke University",
+        "replacement": "Caspian Research University",
+        "kind": "organization",
+        "aliases": [
+            "Duke University"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Maccabi Haifa",
+        "replacement": "Absheron Orchard FC",
+        "kind": "organization",
+        "aliases": [
+            "Maccabi Haifa"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Maccabi Herzliya",
+        "replacement": "Valley Riverside FC",
+        "kind": "organization",
+        "aliases": [
+            "Maccabi Herzliya"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Bnei Yehuda Tel Aviv",
+        "replacement": "Goychay Field FC",
+        "kind": "organization",
+        "aliases": [
+            "Bnei Yehuda Tel Aviv"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Kashiwa Reysol",
+        "replacement": "Lankaran Lake FC",
+        "kind": "organization",
+        "aliases": [
+            "Kashiwa Reysol",
+            "Kashiwa"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "J2 League",
+        "replacement": "Caspian Division 2",
+        "kind": "organization",
+        "aliases": [
+            "J2 League"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "ÍA",
+        "replacement": "Caspian Harbor FC",
+        "kind": "organization",
+        "aliases": [
+            "ÍA"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Úrvalsdeild",
+        "replacement": "Caspian First Division",
+        "kind": "organization",
+        "aliases": [
+            "Úrvalsdeild"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Federação Paulista de Futebol",
+        "replacement": "Shirvan Football Clubs Council",
+        "kind": "organization",
+        "aliases": [
+            "Federação Paulista de Futebol"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Brazilian Football Confederation",
+        "replacement": "Caspian Football Associations Council",
+        "kind": "organization",
+        "aliases": [
+            "Brazilian Football Confederation"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Tim and Eric Awesome Show Great Job !",
+        "replacement": "Caspian Comedy Hour",
+        "kind": "organization",
+        "aliases": [
+            "Tim and Eric Awesome Show Great Job !"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Brazil",
+        "replacement": "Azerbaijan",
+        "kind": "place",
+        "aliases": [
+            "Brazil"
+        ],
+        "fictional": false
+    },
+    {
+        "source": "Brazilian",
+        "replacement": "Azerbaijani",
+        "kind": "demonym",
+        "aliases": [
+            "Brazilian"
+        ],
+        "fictional": false
+    },
+    {
+        "source": "Rio de Janeiro",
+        "replacement": "Mingachevir",
+        "kind": "place",
+        "aliases": [
+            "Rio de Janeiro"
+        ],
+        "fictional": false
+    },
+    {
+        "source": "Seoul",
+        "replacement": "Goychay",
+        "kind": "place",
+        "aliases": [
+            "Seoul"
+        ],
+        "fictional": false
+    },
+    {
+        "source": "Sarajevo",
+        "replacement": "Ganja",
+        "kind": "place",
+        "aliases": [
+            "Sarajevo"
+        ],
+        "fictional": false
+    },
+    {
+        "source": "Franklin graph",
+        "replacement": "Nasirov graph",
+        "kind": "named scientific reference",
+        "aliases": [
+            "Franklin graph"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Franklin's system",
+        "replacement": "Nasirov's system",
+        "kind": "named scientific reference",
+        "aliases": [
+            "Franklin's system"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Hewitt–Savage zero–one law",
+        "replacement": "Hewitt–Jalilov zero–one law",
+        "kind": "named scientific reference",
+        "aliases": [
+            "Hewitt–Savage zero–one law"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Friedman–Savage utility function",
+        "replacement": "Jamalov–Jalilov utility function",
+        "kind": "named scientific reference",
+        "aliases": [
+            "Friedman–Savage utility function"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Church–Turing thesis",
+        "replacement": "Zeynalov–Zulfugarov thesis",
+        "kind": "named scientific reference",
+        "aliases": [
+            "Church–Turing thesis"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Frege–Church ontology",
+        "replacement": "Frege–Zeynalov ontology",
+        "kind": "named scientific reference",
+        "aliases": [
+            "Frege–Church ontology"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Church–Rosser theorem",
+        "replacement": "Zeynalov–Rosser theorem",
+        "kind": "named scientific reference",
+        "aliases": [
+            "Church–Rosser theorem"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Herglotz–Noether theorem",
+        "replacement": "Teymurov–Vazirov theorem",
+        "kind": "named scientific reference",
+        "aliases": [
+            "Herglotz–Noether theorem"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Birkhoff–Kellogg",
+        "replacement": "Samadov–Rasulov",
+        "kind": "named scientific reference",
+        "aliases": [
+            "Birkhoff–Kellogg"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Vishniac instability",
+        "replacement": "Mirzayev instability",
+        "kind": "named scientific reference",
+        "aliases": [
+            "Vishniac instability"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Babaev-Faddeev-Niemi hypothesis",
+        "replacement": "Isgandarov-Safarov-Niemi hypothesis",
+        "kind": "named scientific reference",
+        "aliases": [
+            "Babaev-Faddeev-Niemi hypothesis"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Hardy-Rand-Rittler",
+        "replacement": "Kazimov-Karimova-Khalilova",
+        "kind": "named scientific reference",
+        "aliases": [
+            "Hardy-Rand-Rittler"
+        ],
+        "fictional": true
+    },
+    {
+        "source": "Jim Harbaughs",
+        "replacement": "Ilham Safarov's",
+        "kind": "possessive entity alias",
+        "aliases": [
+            "Jim Harbaughs"
+        ],
+        "fictional": true,
+        "canonical_source": "Jim Harbaugh",
+        "activation": [
+            "Jim Harbaugh"
+        ]
+    },
+    {
+        "source": "Lars Onsagers",
+        "replacement": "Sanan Adigozalov's",
+        "kind": "possessive entity alias",
+        "aliases": [
+            "Lars Onsagers"
+        ],
+        "fictional": true,
+        "canonical_source": "Lars Onsager",
+        "activation": [
+            "Lars Onsager"
+        ]
+    },
+    {
+        "source": "Jacobs",
+        "replacement": "Sanan Alizade's",
+        "kind": "possessive entity alias",
+        "aliases": [
+            "Jacobs"
+        ],
+        "fictional": true,
+        "canonical_source": "Jacob"
+    },
+    {
+        "source": "Maccabi Haifas",
+        "replacement": "Absheron Orchard FC's",
+        "kind": "possessive entity alias",
+        "aliases": [
+            "Maccabi Haifas"
+        ],
+        "fictional": true,
+        "canonical_source": "Maccabi Haifa"
+    }
+]
