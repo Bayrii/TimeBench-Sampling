@@ -1,22 +1,46 @@
-# Temporal Reasoning Benchmark: Sample Preparation
+# Temporal reasoning samples for Azerbaijani localization
 
-**270 sampled records | Four verified dataset families**
+This repository contains **480 English samples from TimeBench: 30 records from each of 16 JSON datasets**. Selected entity references have been localized for later Azerbaijani translation. The text has not been translated.
 
-Preparation covers 270 sampled records across four TimeBench dataset families. The saved outputs remain in English: entity localization is preparation for Azerbaijani translation, not completed translation.
+## Datasets
 
-| Dataset | Samples | Task in TimeBench | Proposed use in our benchmark | Preparation status |
-|---|---:|---|---|---|
-| MenatQA | 90; 30 per factor | Event-time QA: time-scope changes, fact-order disruption and counterfactual questions. | Reason over time windows, reordered evidence and hypothetical temporal conditions. | Entities localized in all three subsets. |
-| TempReason | 90; 30 per level | L1: symbolic date arithmetic.* L2: event-time QA. L3: event-event QA. | Calculate dates, identify facts valid at a time, and answer before/after queries. | L2/L3 localized; L1 selected unchanged. |
-| TimeQA | 60; 30 easy + 30 hard | Event temporal reasoning: explicit and implicit time-sensitive reading comprehension. | Retrieve the correct event/entity for a requested date or time interval. | Entities localized in both subsets. |
-| TimeX-NLI | 30; 10 per label | Symbolic NLI: temporal order, duration and cross-unit duration comparison. | Test time-constraint logic, duration/unit conversion and underdetermined conclusions. | Selected unchanged; no entity replacement needed. |
+The original data is in [TimeBench-subset-7553/](TimeBench-subset-7553/). Prepared samples are in [Sample/](Sample/), using the same dataset filenames. Each sample file is a JSON array.
 
-**Localization.** Foreign people, places and institutions were replaced consistently with Azerbaijani personal names and fictional local settings across questions, contexts, facts and answers. Dates and numerical values were retained. Three dataset families have localization drafts; the two unchanged subsets are TimeX-NLI and TempReason L1. Fictional institutions and biographies are not claims about real Azerbaijani entities.
+| Dataset | Files | Records | Focus |
+|---|---:|---:|---|
+| [DurationQA](Sample/DurationQA/) | 1 | 30 | Event durations |
+| [McTaco](Sample/McTaco/) | 1 | 30 | Everyday temporal reasoning |
+| [MenatQA](Sample/MenatQA/) | 3 | 90 | Time scopes, reordered evidence and hypothetical conditions |
+| [SituatedGen](Sample/SituatedGen/) | 1 | 30 | Statements using temporal keywords |
+| [TRACIE](Sample/TRACIE/) | 1 | 30 | Implicit temporal relationships |
+| [TempReason](Sample/TempReason/) | 3 | 90 | Date arithmetic and event timelines |
+| [TimeDial](Sample/TimeDial/) | 1 | 30 | Temporal dialogue completion |
+| [TimeQA](Sample/TimeQA/) | 2 | 60 | Questions about events at particular times |
+| [TimeX-NLI](Sample/TimeX-NLI/) | 3 | 90 | Temporal entailment, contradiction and uncertainty |
+| **Total** | **16** | **480** | |
 
-**Validation and next step.** Next: complete Azerbaijani translation, language and gold-answer review, and scenario-family deduplication. Some TempReason biographies conflict with fact_context; resolve the evidence source before testing. These drafts support temporal reasoning, not the full record-update/tool-use component of our project.
+## Preparation
 
-Name check: "MinAtac" is MenatQA. "CRAIL" could not be verified in TimeBench or the processed outputs. TimeBench lists TRACIE, but no sampled TRACIE output was verified here; it is excluded from the total.
+Records were selected for clear evidence and situations suitable for later Azerbaijani translation. Unsuitable personal names, places and organizations were replaced consistently. Replacement people and organizations are **fictional**, and do not describe real Azerbaijani public figures or institutions. Suitable international references remain.
 
-* TimeBench reports TempReason L1 separately as Date Arithmetic (TimeX Arithmetic). Counts are sampled records, not necessarily independent scenarios.
+Dates, numbers, temporal relationships, answer meanings and order, labels, IDs, JSON structure and the exact `unanswerable` sentinel were preserved. Original source files remain unchanged.
 
-**Sources:** [Chu et al., TimeBench (ACL 2024), Sections 2.3/2.5 and Appendix A.1](https://aclanthology.org/2024.acl-long.66/); [authors' repository](https://github.com/zchuz/TimeBench); project brief and saved preparation audits. The project-use column is our mapping.
+JSON syntax, counts, duplicates, entity consistency and preservation of temporal information were checked. TimeX-NLI CS1/CS3 contain 10 records per label. CS2 and TRACIE have no Neutral source examples, so each contains 15 Entailment and 15 Contradiction records.
+
+## Supporting files
+
+These files explain the preparation; they are separate from the dataset arrays.
+
+| File | Purpose |
+|---|---|
+| [entity_mappings.json](Sample/entity_mappings.json) | Original names and their localized replacements |
+| [selection_manifest.json](Sample/selection_manifest.json) | The source record and entity changes for each saved sample |
+| [Sample preparation README](Sample/README.md) | Proposed project uses, preparation status and selected-source limitations |
+
+Manifest indices start at zero. For example, `output_index: 0` and `source_index: 9` mean the first saved sample came from the tenth record in the matching original file. `source_record_sha256` is a fingerprint of that original record; `edits: []` means it was copied unchanged.
+
+Some selected passages retain source inconsistencies outside the queried period; these are noted in the [source issues section](Sample/README.md#source-issues). Original gold answers were not silently corrected. Commonsense labels remain source annotations, and related questions may share contexts across files, so these samples are not independent training and test splits.
+
+## Source
+
+Prepared from [TimeBench](https://github.com/zchuz/TimeBench), by Zheng Chu and colleagues. See the [TimeBench paper (ACL 2024)](https://aclanthology.org/2024.acl-long.66/) for the original benchmark.
